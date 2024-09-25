@@ -1,4 +1,4 @@
-[_Legendary Fire King Ponix_]: https://yugipedia.com/wiki/Legendary_Fire_King_Ponix
+[_Legendary Fire King Ponix_]: /cards/ponix.md
 [_Fire King Sanctuary_]: https://yugipedia.com/wiki/Fire_King_Sanctuary
 [_Fire King Island_]: https://yugipedia.com/wiki/Fire_King_Island
 [_Sacred Fire King Garunix_]: https://yugipedia.com/wiki/Sacred_Fire_King_Garunix
@@ -21,3 +21,5 @@
 [_I:P Masquerena_]: https://yugipedia.com/wiki/I:P_Masquerena
 [_S:P Little Knight_]: https://yugipedia.com/wiki/S:P_Little_Knight
 [_Knightmare Unicorn_]: https://yugipedia.com/wiki/Knightmare_Unicorn
+[_Fire King Sky Burn_]: https://yugipedia.com/wiki/Fire_King_Sky_Burn
+[_Circle of the Fire Kings_]: https://yugipedia.com/wiki/Circle_of_the_Fire_Kings
