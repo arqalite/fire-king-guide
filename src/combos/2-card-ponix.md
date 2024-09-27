@@ -1,30 +1,14 @@
-# 1.5-card - Ponix + any FIRE monster
+# 2-card - Ponix + Arvata/High Kirin (without Princess)
 
 ## Requirements
 - Cards in hand:
   - [_Legendary Fire King Ponix_]
-  - 1 FIRE monster (ideally a Fire King, if not, you will also need [_Salamangreat Almiraj_] in your Extra Deck.)
-- Cards in Main Deck:
-  - [_Fire King Sanctuary_]
-  - [_Fire King Island_]
-  - [_Sacred Fire King Garunix_]
-  - [_Fire King Avatar Arvata_]
-  - For follow-up, one or both of:
-    - [_Fire King Courtier Ulcanix_]
-    - [_Fire King High Avatar Kirin_]
-- Cards in Extra Deck:
-  - [_Salamangreat Almiraj_] (optionally, if the FIRE in hand is not a Fire King)
-  - [_Salamangreat Sunlight Wolf_]
-  - [_Relinquished Anima_]
-  - [_Promethean Princess, Bestower of Flames_]
-  - [_Amphibious Swarmship Amblowhale_] (optionally, if you don't want to end on Princess + Arvata)
+  - [_Fire King Avatar Arvata_] or [_Fire King High Avatar Kirin_]
+
 
 ## When to perform this combo
-This is the most common combo you will perform if [_Fire King Courtier Ulcanix_] is not in your hand.
-
-**NOTE:** Depending on what the FIRE monster is, this line can branch out into multiple routes,
-the one detailed below is the one you can expect to perform most of the time.
-
+Generally you should only go for this combo if you do not own Promethean Princess, and you did not draw [_Fire King Courtier Ulcanix_].
+If you do own Princess, perform the [1.5-card - Ponix + any FIRE monster] combo instead.
 
 ## Steps
 ### Your turn

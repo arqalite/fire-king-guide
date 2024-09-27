@@ -15,6 +15,13 @@
 
 ---
 
-Text here.
+Garunix grew up, and he's _angry_. (~~aren't we all?~~)
+
+Before [_Fire King Courtier Ulcanix_], this card was somewhat useful in case you needed
+[_Sacred Fire King Garunix_] to gain a significant ATK boost, maybe to beat a large monster. The field clear was still useful too, but you'd more often reach for [_Garunix Eternity, Hyang of the Fire Kings_] before you'd reach for this card, thus most people would run 1 copy, or even 0.
+
+With Ulcanix, he's now a necessary piece for her combo line as she Special Summons him from deck if Ulcanix is destroyed by card effect. Thus, **running 1 copy is pretty much mandatory**.
+
+However, you mostly want him to sit quietly in the deck until he's needed, so going over 1 copy isn't recommended.
 
 {{#include ../links.md}}
