@@ -25,6 +25,7 @@ jobs:
       - name: Fix links in book
         run: |
           sed -i 's/]: \//]: \/fire-king-guide\//g' src/links.md
+          sed -i 's/href="\/table.css"/href="\/fire-king-guide\/table.css"/g' src/links.md
       - name: Build Book
         run: |
           # This assumes your book is in the root of your repository.
