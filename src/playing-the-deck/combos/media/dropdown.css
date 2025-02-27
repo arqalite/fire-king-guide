@@ -1,0 +1,14 @@
+.inv {
+    display: none;
+}
+
+#comboDropdown {
+    width: 100%;
+    height: 4rem;
+    background-color: hsl(210, 25%, 8%);
+}
+
+option {
+    width: 100%;
+    height: 4rem;
+}

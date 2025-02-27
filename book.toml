@@ -1,0 +1,10 @@
+[book]
+authors = ["Antonio Curavalea"]
+language = "en"
+multilingual = false
+src = "src"
+title = "A Guide to Fire Kings"
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
