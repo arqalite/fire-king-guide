@@ -1,5 +1,5 @@
 /* Target container elements on small screens */
-@media only screen and (max-width: 60vh) {
+@media (orientation: portrait) {
     .table-cell {
         display: block; /* Make each cell a block element */
         width: 90%; /* Occupy full width on mobile */
