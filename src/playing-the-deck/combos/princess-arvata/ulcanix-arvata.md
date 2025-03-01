@@ -2,7 +2,7 @@
 
 Opening both [_Fire King Courtier Ulcanix_] and [_Fire King Avatar Arvata_] insulates you from Nibiru as Arvata hits the field at the 5th summon. 
 
-However the route is a bit awkward and gives your opponent 2 draws under Fuwalos. You gotta do what you gotta do sometimes.
+However this route your opponent 2 draws under Fuwalos. It's not ideal, but it shouldn't be too bad either.
 
 <center>
 <video controls>
@@ -58,4 +58,8 @@ You established board presence and set up a handful of interruptions, and your o
 
 You are safe from Nibiru, however, as Arvata hits the field at the 5th summon exactly.
 
+It could be worth going into [Amblowhale] or [Amblowhale + Arvata] setups here, as you're protected from Nibiru while having 3 other materials on the field.
+
 [search Rangbali for a Spell/Trap negate]: ../patterns/ulcanix.md#rangbali-on-demand
+[Amblowhale]: amblowhale-setups.md
+[Amblowhale + Arvata]: amblowhale-arvata-setups.md
