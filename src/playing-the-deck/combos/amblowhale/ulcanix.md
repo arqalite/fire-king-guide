@@ -46,7 +46,7 @@ This combo lets you recycle with Sunlight Wolf **and** get Masquerena in the GY,
 - Link Summon [_Amphibious Swarmship Amblowhale_] using Princess and the revived monster.
 
 #### Interruptions
-  - When your ready to interrupt, activate Kirin in hand, destroy Amblowhale.
+  - When you're ready to interrupt, activate Kirin in hand, destroy Amblowhale.
   - Amblowhale effect to Special Summon I:P Masquerena.
   - Sacred Garunix Special Summoning itself from GY, destroying a Fire King from deck.
     - If you choose Arvata here, you can revive Kirin to set up 2 Level 8s.
