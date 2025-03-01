@@ -52,7 +52,7 @@ However this route still can't play under Nibiru, so keep that in mind.
 #### Outcome
 You established board presence and set up a handful of interruptions. Under Fuwalos, your opponent drew 2 cards.
 
-Unfortunately this line doesn't stop Nibiru, as Arvata is the 6th Summon (we had to summon Almiraj first to have a Fire King in the GY before destroying Arvata from deck). 
+Unfortunately this line doesn't stop Nibiru, as Arvata is the 6th Summon.
 
 Some players might misplay and wait for you to over-extend, letting you get Arvata on the field, but in 99% of cases assume the opponent will Nibiru correctly if they have it.
 
