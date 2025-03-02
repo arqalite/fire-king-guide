@@ -50,7 +50,7 @@ However this route still can't play under Nibiru, so keep that in mind.
 - If destroyed, Hyang can replenish the field with 2 Fire Kings from the GY.
 
 #### Outcome
-You established board presence and set up a handful of interruptions. Under Fuwalos, your opponent drew 2 cards.
+You established board presence and set up a handful of interruptions. Under Fuwalos, your opponent drew a single card.
 
 Unfortunately this line doesn't stop Nibiru, as Arvata is the 6th Summon.
 
