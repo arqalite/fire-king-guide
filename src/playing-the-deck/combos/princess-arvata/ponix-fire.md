@@ -56,4 +56,4 @@ Unfortunately this line doesn't stop Nibiru, as Arvata is the 6th Summon (we had
 
 Some players might misplay and wait for you to over-extend, letting you get Arvata on the field, but in 99% of cases assume the opponent will Nibiru correctly if they have it.
 
-[1-card Hyang setup]: ./1-card-hyang.md
+[1-card Hyang setup]: ./hyang-setups.md
