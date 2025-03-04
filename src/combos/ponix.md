@@ -1,0 +1,33 @@
+# 1-card - Ponix
+
+The 1-card Ponix combos set the foundation for all the other combos in this guide. The goal is to get the Fire King engine started while also setting up a [_Garunix Eternity, Hyang of the Fire Kings_] on the opponent's turn.
+
+There are two possible routes:
+- the Barong route, useful when playing under [_Mulcharmy Fuwalos_]
+- the Ulcanix route, plays into Fuwalos but gets Ulcanix into rotation too for more follow-up on turn 3.
+
+Select the route you want to explore using the dropdown below:
+
+<form autocomplete="off">
+    <select id="comboDropdown">
+        <option selected>Select the starting hand below:</option>
+        <option value="ponix-barong">1-card - Ponix (Barong route)</option>
+        <option value="ponix-ulcanix">1-card - Ponix (Ulcanix route)</option>
+    </select>
+</form>
+
+<div id="ponix-barong" class="inv">
+
+{{#include ponix/barong.md}}
+
+</div>
+<div id="ponix-ulcanix" class="inv">
+
+{{#include ponix/ulcanix.md}}
+
+</div>
+
+<script src="media/dropdown.js"></script>
+<link rel="stylesheet" href="media/dropdown.css">
+
+{{#include ../links.md}}
