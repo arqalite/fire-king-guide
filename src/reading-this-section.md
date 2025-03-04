@@ -4,10 +4,7 @@ Going forward, every play and combo showcased is performed using
 <a href="/extras/decklist.html">a sample deck list</a> which you can find in
 the Extras section.
 
-It might look different from what you will ultimately build for yourself, but
-that's alright. For the bread-and-butter patterns and combos we included a list
-of required cards, so as long as your deck has those cards, you should be able 
-to perform the plays discussed here.
+It might look different from what you will ultimately build for yourself, but that's alright. You should be able to perform these combos with most Fire King lists.
 
 We do recommend playing everything out as you read this section. Probably the easiest
 way is through a simulator - EDOPro was used to test, perform and record these combos,

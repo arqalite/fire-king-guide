@@ -11,8 +11,8 @@ Select the route you want to explore using the dropdown below:
 <form autocomplete="off">
     <select id="comboDropdown">
         <option selected>Select the starting hand below:</option>
-        <option value="ponix-barong">1-card - Ponix (Barong route)</option>
-        <option value="ponix-ulcanix">1-card - Ponix (Ulcanix route)</option>
+        <option value="ponix-barong">Hyang setup (Barong route)</option>
+        <option value="ponix-ulcanix">Hyang setup (Ulcanix route)</option>
     </select>
 </form>
 

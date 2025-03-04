@@ -24,17 +24,6 @@ In short, Ulcanix + any other FIRE gets you the same result as Ponix + any FIRE,
 </video>
 </center>
 
-#### Requirements
-  - In hand:
-    - [_Fire King Courtier Ulcanix_]
-    - A FIRE monster
-  - In Main Deck:
-    - [_Legendary Fire King Ponix_]
-    - [_Sacred Fire King Garunix_]
-    - [_Fire King High Avatar Garunix_]
-    - [_Fire King Sanctuary_]
-    - [_Fire King Island_]
-
 #### Steps 
 - Normal Summon [_Fire King Courtier Ulcanix_].
 - Activate Ulcanix's effect to destroy any FIRE in your hand, and add [_Legendary Fire King Ponix_] from Deck to hand.
@@ -69,15 +58,6 @@ Ulcanix's second effect can enable us to set up [_Garunix Eternity, Hyang of the
 
 In this video we're using [_Circle of the Fire Kings_] as a demonstration tool to revive [_Sacred Fire King Garunix_] from the GY. In real duels, this can be any effect or occasion that can summon Sacred from hand or GY.
 
-#### Requirements
-- Freshly summoned on the field:
-  - [_Sacred Fire King Garunix_]
-- In Main Deck:
-  - [_Fire King Courtier Ulcanix_]
-  - [_Fire King High Avatar Garunix_]
-- In Extra Deck:
-  - [_Garunix Eternity, Hyang of the Fire Kings_]
-
 #### Steps
 - Summon [_Sacred Fire King Garunix_].
 - Activate Sacred's effect to destroy [_Fire King Courtier Ulcanix_] from Deck.
@@ -100,14 +80,6 @@ One such trick is summoning [_Fire King Avatar Rangbali_] in anticipation of you
 As before, we are using [_Circle of the Fire Kings_] to revive [_Fire King Courtier Ulcanix_] from the GY. In real duels, this can be substituted for any effect that can summon Ulcanix from hand or GY (i.e. Arvata, Kirin, Hyang, etc.).
 
 The important part is that you can use Ulcanix at any point to destroy a FIRE and search Rangbali, whose effect lets you Special Summon it from hand (because a FIRE was destroyed).
-
-#### Requirements
-- In hand or GY:
-  - [_Fire King Courtier Ulcanix_]
-- In hand or field:
-  - Any FIRE monster
-- In Main Deck:
-  - [_Fire King Avatar Rangbali_]
 
 #### Steps
 - Using any effect, Special Summon [_Fire King Courtier Ulcanix_].

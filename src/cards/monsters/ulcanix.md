@@ -31,4 +31,4 @@ avoid playing into Shifter.
 **We recommend running 3 copies.**
 
 {{#include ../../links.md}}
-[Rangbali On Demand]: ../../playing-the-deck/patterns/ulcanix.md#rangbali-on-demand
+[Rangbali On Demand]: ../patterns/ulcanix.md#rangbali-on-demand

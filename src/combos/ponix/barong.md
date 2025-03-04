@@ -1,4 +1,4 @@
-### 1-card - Ponix (Barong route)
+### Hyang setup (Barong route)
 
 This route destroys [_Fire King Avatar Barong_] with [_Sacred Fire King Garunix_]'s effect, in order to add [_Fire King High Avatar Kirin_] from Deck to hand during the next Standby Phase.
 
@@ -10,18 +10,6 @@ This video doesn't cover interrupting your opponent with Hyang, read the **Oppon
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
 </center>
-
-#### Requirements
-- Cards in hand:
-  - [_Legendary Fire King Ponix_]
-- Cards in main deck:
-  - [_Sacred Fire King Garunix_]
-  - [_Fire King High Avatar Kirin_]
-  - [_Fire King Avatar Barong_]
-  - [_Fire King Sanctuary_]
-  - [_Fire King Island_]
-- Cards in extra deck:
-  - [_Garunix Eternity, Hyang of the Fire Kings_]
 
 #### Steps
 - Normal Summon [_Legendary Fire King Ponix_].

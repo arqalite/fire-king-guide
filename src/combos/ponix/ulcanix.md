@@ -1,4 +1,4 @@
-### 1-card - Ponix (Ulcanix route)
+### Hyang setup (Ulcanix route)
 
 This route opts to destroy [_Fire King Courtier Ulcanix_] in order to Special Summon [_Fire King High Avatar Garunix_] from Deck, as the second Level 8 needed to make Hyang.
 
@@ -12,18 +12,6 @@ This video doesn't cover interrupting your opponent with Hyang, read the **Oppon
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
 </center>
-
-#### Requirements
-- Cards in hand:
-  - [_Legendary Fire King Ponix_]
-- Cards in main deck:
-  - [_Fire King Sanctuary_]
-  - [_Fire King Island_]
-  - [_Sacred Fire King Garunix_]
-  - [_Fire King Courtier Ulcanix_]
-  - [_Fire King High Avatar Garunix_]
-- Cards in extra deck:
-  - [_Garunix Eternity, Hyang of the Fire Kings_]
 
 #### Steps
 - Normal Summon [_Legendary Fire King Ponix_].
