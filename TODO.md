@@ -1,0 +1,4 @@
+-> Nibiru counters for all combos
+-> Fuwalos counters for all combos
+-> Meowls counters for all combos
+-> Purulia counters for all combos
