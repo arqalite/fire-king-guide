@@ -51,6 +51,12 @@
 [_Dominus Purge_]: https://yugipedia.com/wiki/Dominus_Purge
 [the Green Baboon ruling]: /extras/green-baboon.md
 [_Volcanic Scattershot_]: https://yugipedia.com/wiki/Volcanic_Scattershot
+[_Tri-brigade Kitt_]: /tri_brigade_variant/cards/monsters/kitt.md
+[_Tri-Brigade Fraktall_]: /tri_brigade_variant/cards/monsters/fraktall.md
+[_Tri-Brigade Nervall_]: /tri_brigade_variant/cards/monsters/nervall.md
+[_Tri-Brigade Kerass_]: /tri_brigade_variant/cards/monsters/kerass.md
+[_Tri-Brigade Shuraig the Ominous Omen_]: /tri_brigade_variant/cards/monsters/shuraig.md
+[_Tri-Brigade Bearbrumm the Rampant Rampager_]: /tri_brigade_variant/cards/monsters/bear.md
 
 <script src="/combos/media/dropdown.js"></script>
 <link rel="stylesheet" href="/combos/media/dropdown.css">

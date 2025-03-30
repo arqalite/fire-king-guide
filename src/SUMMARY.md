@@ -109,4 +109,16 @@
 - [Sample Decklist](./extras/decklist.md)
 # Variants
 - [Fire King Tri-Brigade](./tri_brigade_variant/introduction-to-the-variant.md)
-  -[What makes]
+  - [What makes a Fire King Tri-Brigade deck](./tri_brigade_variant/what-makes-the-variant.md)
+  - [Monsters](./tri_brigade_variant/cards/monsters.md)
+    - [Tri-Brigade Kitt](./tri_brigade_variant/cards/monsters/kitt.md)
+    - [Tri-Brigade Fraktall](./tri_brigade_variant/cards/monsters/fraktall.md)
+    - [Tri-Brigade Nervall](./tri_brigade_variant/cards/monsters/nervall.md)
+    - [Tri-Brigade Kerass](./tri_brigade_variant/cards/monsters/kerass.md)
+    - [Tri-Brigade Shuraig the Ominous Omen](./tri_brigade_variant/cards/monsters/shuraig.md)
+    - [Tri-Brigade Bearbrumm the Rampant Rampager](./tri_brigade_variant/cards/monsters/bear.md)
+    - [Tri-Brigade Ferrijit the Barren Blossom](./tri_brigade_variant/cards/monsters/ferrijit.md)
+    - [Tri-Brigade Rugal the Silver Sheller](./tri_brigade_variant/cards/monsters/Rugal.md)
+    - [Tri-Brigade Arms Bucephalus II](./tri_brigade_variant/cards/monsters/Bucephalus.md)
+
+  - [Spells and traps](./tri_brigade_variant/cards/spells-and-traps.md)
