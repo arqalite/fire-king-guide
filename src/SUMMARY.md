@@ -107,3 +107,6 @@
 - [What about Cursed Fire King Doom Burst?](./extras/doom-burst.md)
 - [The sins of Green Baboon, Defender of the Forest](./extras/green-baboon.md)
 - [Sample Decklist](./extras/decklist.md)
+# Variants
+- [Fire King Tri-Brigade](./tri_brigade_variant/introduction-to-the-variant.md)
+  -[What makes]
