@@ -13,7 +13,7 @@ This route aims to play under Nibiru and Fuwalos by ending on [_Duelittle Chimer
 
 This route does not play into [_Nibiru, the Primal Being_] as we only summon 4 times.
 
-Under [_Mulcharmy Fuwalos_], your opponent draws 0 cards.
+Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
 </div>
 
