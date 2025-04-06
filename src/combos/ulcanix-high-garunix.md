@@ -2,7 +2,7 @@
 
 As you might already know, opening [_Fire King High Avatar Garunix_] means most Fire King decks won't be able to use Ulcanix's on-destruction effect - that limits your choices when deciding what to destroy with [_Fire King Island_] and [_Sacred Fire King Garunix_].
 
-That said, this starting hand doesn't lend well to any kind of Link plays, as we don't have any way to stop Nibiru. We also need to pay attention to High Avatar Garunix's effect and avoid letting him destroy our board during the Standby Phase, if we choose to go this route.
+That said, this starting hand doesn't lend well to any kind of Link plays, as we don't have any way to stop Nibiru. We also need to pay attention to High Avatar Garunix's effect and avoid letting him destroy our board during the Standby Phase, if we choose to go this route. Usually reviving him with Arvata/Kirin does the job.
 
 ...or we can plan for it, and let him blow up our cards to generate a bit more advantage. Let's take a look!
 
