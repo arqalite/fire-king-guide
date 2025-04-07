@@ -34,7 +34,6 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
     - Activate Barong to add [_Fire King High Avatar Kirin_] from Deck to hand.
     - Activate Ponix to add itself back to hand.
 - When you're ready to interrupt, activate Kirin to destroy Duelittle Chimera and Special Summon itself.
-- Activate Sacred to Special Summon itself from GY.
 - A chain forms:
   - Activate Sacred to Special Summon itself from GY.
   - Activate Chimera to add Ash Blossom back to hand.
