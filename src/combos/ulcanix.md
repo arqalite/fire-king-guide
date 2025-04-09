@@ -1,4 +1,4 @@
-# Ulcanix combos
+# 2-card Ulcanix combos
 
 As discussed in her own page, [_Fire King Courtier Ulcanix_] plays many roles in our deck. As a starter, she builds upon the Ponix lines, giving you a way to search [_Legendary Fire King Ponix_] and enable its Special Summoning condition. Later on, she becomes an extender after being destroyed, allowing you to generate enough material for Link or Xyz plays.
 
