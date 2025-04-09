@@ -74,13 +74,10 @@
     - [Ulcanix + Barong](./combos/ulcanix-barong.md)
     - [Ulcanix + High Avatar Garunix](./combos/ulcanix-high-garunix.md)
     - [Ulcanix + Sacred](./combos/ulcanix-sacred.md)
+    - [Ulcanix + Rangbali](./combos/ulcanix-rangbali.md)
   - [Ulcanix + any FIRE]()
-
   - [Ulcanix + High Avatar Kirin]()
   - [Ulcanix + Arvata]()
-  - [Ulcanix + Barong]()
-  - [Ulcanix + Rangbali]()
- 
   - [Ulcanix + Sanctuary]()
   - [Ulcanix + Island]()
   - [Sanctuary + any FIRE]()
