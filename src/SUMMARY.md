@@ -76,7 +76,7 @@
     - [Ulcanix + Sacred](./combos/ulcanix-sacred.md)
     - [Ulcanix + Rangbali](./combos/ulcanix-rangbali.md)
     - [Ulcanix + High Avatar Kirin]()
-    - [Ulcanix + Arvata]()
+    - [Ulcanix + Arvata](./combos/ulcanix-arvata.md)
     - [Ulcanix + Island](./combos/ulcanix-island.md)
   - [Sanctuary combos](./combos/sanctuary.md)
     - [Sanctuary + any Fire King]()
