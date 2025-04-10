@@ -70,6 +70,7 @@
     - [Ponix + Sacred Garunix](./combos/ponix-sacred.md)
     - [Ponix + Ash Blossom](./combos/ponix-ash.md)
   - [Ulcanix combos](./combos/ulcanix.md)
+    - [Ulcanix + any Fire King](./combos/ulcanix-fire-king.md)
     - [Ulcanix + Ash Blossom](./combos/ulcanix-ash.md)
     - [Ulcanix + Barong](./combos/ulcanix-barong.md)
     - [Ulcanix + High Avatar Garunix](./combos/ulcanix-high-garunix.md)
