@@ -1,8 +1,8 @@
 # Ulcanix + Rangbali
 
-We're slowly returning to wombo-combo territory - as Rangbali doesn't have any effects when destroyed by card effect, we're forced to treat him as a generic FIRE monster until the later half of our combo.
+As Rangbali doesn't have any effects when destroyed by card effect, we're forced to treat him as a generic FIRE monster until the later half of our combos - as such, the Ulcanix + any Fire King lines will serve you well.
 
-What is neat about this starting hand is you can make Amblowhale with either Arvata or Rangbali next to it. This can give you some opportunities to tailor your endboard to the current matchup and squeeze any extra advantage you can get.
+That said, one neat thing about this starting hand is that you can make Amblowhale with either Arvata or Rangbali next to it. This can give you some opportunities to tailor your endboard to the current matchup and squeeze any extra advantage you can get.
 
 Both combos are identical, the only difference is the monster you revive with Princess at the end - Arvata or Rangbali.
 
