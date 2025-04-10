@@ -11,7 +11,7 @@ That said, we really want to keep Kirin in our hand, so more often than not you'
         <option selected>Select the endboard and route below:</option>
         <option value="princess-arvata-ponix-kirin">Princess + Arvata setup (with Ponix and Kirin in hand)</option>
         <option value="amblowhale-duelittle-ponix-kirin">Amblowhale setup (with Ponix and Kirin in hand, Duelittle Chimera in GY)</option>
-        <option value="amblowhale-arvata-kirin">Amblowhale + Arvata setup (with Kirin in hand, Duelittle Chimera in GY)</option>
+        <option value="amblowhale-arvata-kirin">Amblowhale + Arvata setup (with Kirin in hand)</option>
     </select>
 </form>
 
