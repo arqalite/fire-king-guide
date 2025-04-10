@@ -75,7 +75,7 @@
     - [Ulcanix + High Avatar Garunix](./combos/ulcanix-high-garunix.md)
     - [Ulcanix + Sacred](./combos/ulcanix-sacred.md)
     - [Ulcanix + Rangbali](./combos/ulcanix-rangbali.md)
-    - [Ulcanix + High Avatar Kirin]()
+    - [Ulcanix + High Avatar Kirin](./combos/ulcanix-kirin.md)
     - [Ulcanix + Arvata](./combos/ulcanix-arvata.md)
     - [Ulcanix + Island](./combos/ulcanix-island.md)
   - [Sanctuary combos](./combos/sanctuary.md)
