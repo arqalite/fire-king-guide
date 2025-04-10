@@ -15,7 +15,7 @@ Both combos are identical, the only difference is the monster you revive with Pr
 
 <div class="warning">
 
-This combo plays into [_Nibiru, the Primal Being_] - be careful!.
+This combo plays into [_Nibiru, the Primal Being_] - be careful!
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 

@@ -15,7 +15,7 @@ Coupled with [_Duelittle Chimera_] and [_Promethean Princess, Bestower of Flames
 
 <div class="warning">
 
-This combo does play into [_Nibiru, the Primal Being_] - while we can recover from it here, it's not ideal to get hit by it, so be careful!
+This combo plays into [_Nibiru, the Primal Being_] - while we can recover from it here, it's not ideal to get hit by it, so be careful!
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 3 cards.
 
