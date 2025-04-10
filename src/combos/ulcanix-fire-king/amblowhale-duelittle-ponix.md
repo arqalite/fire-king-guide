@@ -13,7 +13,7 @@ By destroying [_Legendary Fire King Ponix_] with [_Fire King Island_], it return
 
 <div class="warning">
 
-This route plays into [_Nibiru, the Primal Being_] as we summon 8 times -  be careful!
+This route plays into [_Nibiru, the Primal Being_] as we summon 8 times - be careful!
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 3 cards.
 
