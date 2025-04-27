@@ -1,7 +1,5 @@
 ### Princess + Arvata setup (with Ulcanix in GY)
 
-Essentially this is the generic [Ponix + any Fire King] line, with a slight change to accomodate for Ulcanix's effect while still avoiding Nibiru.
-
 <center>
 <video controls>
   <source src="2-card-generic.mp4" type="video/mp4">
