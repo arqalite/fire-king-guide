@@ -23,7 +23,9 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 - Activate Sanctuary - place [_Fire King Island_] in Field Zone.
 - Link Summon [_Salamangreat Almiraj_].
 - Activate Island - destroy [_Fire King Avatar Arvata_] in hand, add [_Sacred Fire King Garunix_] from Deck.
-- Activate Sacred in hand - Special Summon it to the field.
+- A chain forms:
+  - CL1: Activate Sacred in hand - Special Summon it.
+  - CL2: Activate Arvata in GY - Special Summon Ponix from GY.
 - Activate Sacred on field - destroy [_Fire King High Avatar Kirin_] from Deck.
 - Activate Kirin in GY - Special Summon Arvata from GY.
 - Link Summon [_Promethean Princess, Bestower of Flames_].
