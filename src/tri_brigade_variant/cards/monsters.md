@@ -6,6 +6,6 @@ We'll start by talking about the best play maker for this variant [_Tri-Brigade 
 
 After that we'll take a look at one of the bosses of the archetype like [_Tri-Brigade Shuraig the Ominous Omen_], and extenders that let us get to our endboard pieces like  [_Tri-Brigade Bearbrumm the Rampant Rampager_].
 
-> Remember that these recommendations are for a fully fleshed out deck without taking into account the economic aspect of the TCG. In later sections these variations of the deck will be adre
+> Remember that these recommendations are for a fully fleshed out deck without taking into account the economic aspect of the TCG. In later sections these variations of the deck will be addressed.
 
 {{#include ../../links.md}}

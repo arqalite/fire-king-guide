@@ -1,1 +1,1 @@
-# Spells and traps
+# Spells and Traps
