@@ -1,10 +1,9 @@
 # Ponix + High Kirin
 
-Kirin is most powerful when used during the opponent's turn; as such, using it as a combo piece isn't amazing.
+Kirin allows you to extend the [1-card Ponix] combo further - by summoning itself under a [_Salamangreat Sunlight Wolf_], you generate more card advantage while also triggering Sacred and getting the interruption chain started.
 
-This line opts to set up a Sunlight Wolf under which we can summon Kirin to trigger its effect, recovering a card from the GY and triggering Sacred.
+As such, this line opts to end on Wolf directly and wait until the opponent's turn to set up Hyang.
 
-> Remember you can also just keep Kirin in hand and either do the [1-card Ponix] combo, or use it for the [Ponix + any Fire King] line.
 
 <center>
 <video controls>
