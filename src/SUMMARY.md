@@ -6,4 +6,4 @@
 - [Ponix + Ulcanix](combos/ponix/2-card-ulcanix.md)
 - [Ponix + Sacred](combos/ponix/2-card-sacred.md)
 - [Ponix + High Kirin](combos/ponix/2-card-kirin.md)
-- [Ponix + Sanctuary](combos/ponix/2-card-sanctuary.md)
+- [Ponix + Island/Sanctuary](combos/ponix/2-card-sanctuary.md)
