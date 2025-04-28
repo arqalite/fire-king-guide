@@ -5,18 +5,18 @@ When opening both starters, you have to pick which one to use depending on the g
 <form autocomplete="off">
     <select id="comboDropdown">
         <option selected>Select the endboard and route below:</option>
-        <option value="princess-arvata-ulcanix">Princess + Arvata setup (with Ulcanix in GY)</option>
-        <option value="high-garunix">High Garunix setup (with Princess + Ulcanix in GY, High Kirin in hand)</option>
+        <option value="princess-arvata-ulcanix">1) Princess + Arvata setup (with Ulcanix in GY)</option>
+        <option value="high-garunix">2) High Garunix setup (with Princess + Ulcanix in GY, High Kirin in hand)</option>
     </select>
 </form>
 
 <div id="princess-arvata-ulcanix" class="inv">
 
-{{#include ulcanix/princess-arvata-ulcanix.md}}
+{{#include ulcanix/1-princess-arvata-ulcanix.md}}
 </div>
 <div id="high-garunix" class="inv">
 
-{{#include ulcanix/high-garunix.md}}
+{{#include ulcanix/2-high-garunix.md}}
 </div>
 
 {{#include ../../links.md}}

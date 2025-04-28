@@ -7,27 +7,27 @@ There are a few lines you can perform here:
 <form autocomplete="off">
     <select id="comboDropdown">
         <option selected>Select the endboard and route below:</option>
-        <option value="princess-arvata-ulcanix">Princess + Arvata setup (with Ulcanix in GY)</option>
-        <option value="princess-arvata-kirin-field">Princess + Arvata + High Kirin setup</option>
-        <option value="princess-arvata-kirin-hand">Princess + Arvata setup (with High Kirin in hand, and a 3rd monster on the field)</option>
+        <option value="princess-arvata-ulcanix">1) Princess + Arvata setup (with Ulcanix in GY)</option>
+        <option value="princess-arvata-kirin-field">2) Princess + Arvata + High Kirin setup</option>
+        <option value="princess-arvata-kirin-hand">3) Princess + Arvata setup (with High Kirin in hand, and a 3rd monster on the field)</option>
     </select>
 </form>
 
 <div id="princess-arvata-ulcanix" class="inv">
 
-{{#include arvata/princess-arvata-ulcanix.md}}
+{{#include arvata/1-princess-arvata-ulcanix.md}}
 
 </div>
 
 <div id="princess-arvata-kirin-field" class="inv">
 
-{{#include arvata/princess-arvata-kirin-field.md}}
+{{#include arvata/2-princess-arvata-kirin-field.md}}
 
 </div>
 
 <div id="princess-arvata-kirin-hand" class="inv">
 
-{{#include arvata/princess-arvata-kirin-hand.md}}
+{{#include arvata/3-princess-arvata-kirin-hand.md}}
 
 </div>
 
