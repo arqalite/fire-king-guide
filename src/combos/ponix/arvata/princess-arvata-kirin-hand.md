@@ -21,14 +21,14 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4-5 cards.
 
 #### Steps
 - Normal Summon [_Legendary Fire King Ponix_].
-- Activate Ponix - add [_Fire King Sanctuary_] from Deck.
-- Activate Sanctuary - place [_Fire King Island_] in Field Zone.
+- Activate Ponix - add [_Fire King Sanctuary_] from Deck to hand.
+- Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
 - Link Summon [_Salamangreat Almiraj_].
-- Activate Island - destroy [_Fire King Avatar Arvata_] in hand, add [_Sacred Fire King Garunix_] from Deck.
+- Activate Island - destroy [_Fire King Avatar Arvata_] in hand, add [_Sacred Fire King Garunix_] from Deck to hand.
 - A chain forms:
-  - CL1: Activate Sacred in hand - Special Summon it to the field.
+  - CL1: Activate Sacred - Special Summon it from hand.
   - CL2: Activate Arvata in GY - Special Summon Ponix from GY.
-- Activate Sacred on field - destroy [_Fire King High Avatar Kirin_] from Deck.
+- Activate Sacred - destroy [_Fire King High Avatar Kirin_] from Deck.
 - Activate Kirin in GY - Special Summon Arvata from GY.
 - Link Summon [_Salamangreat Sunlight Wolf_] using Almiraj and Sacred.
 - Link Summon [_Relinquished Anima_] using Ponix.

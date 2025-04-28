@@ -52,7 +52,6 @@
 [the Green Baboon ruling]: /extras/green-baboon.md
 [_Volcanic Scattershot_]: https://yugipedia.com/wiki/Volcanic_Scattershot
 
-[Ponix + any Fire King]: /combos/ponix/2-card-generic.md
 [Ponix + Sacred]: /combos/ponix/2-card-sacred.md
 [1-card Ponix]: /combos/ponix/1-card.md
 
