@@ -32,4 +32,4 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
 > Depending on the second card there might be other lines available that offer you certain advantages. This line is great when you're first learning the deck, but we encourage reading and learning the other combos as well in order to make the most out of your deck.
 
-{{#include ../../links.md}}
+{{#include ../../common/links.md}}

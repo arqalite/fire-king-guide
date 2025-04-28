@@ -31,4 +31,4 @@ There are a few lines you can perform here:
 
 </div>
 
-{{#include ../../links.md}}
+{{#include ../../common/links.md}}

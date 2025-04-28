@@ -38,4 +38,4 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
     - CL1: Sacred to Special Summon itself from GY.
     - CL2: Wolf to add a monster from GY to hand.
 
-{{#include ../../links.md}}
+{{#include ../../common/links.md}}

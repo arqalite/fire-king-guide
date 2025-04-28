@@ -8,4 +8,4 @@ Opening [_Fire King Island_] is not as fun, as you still need [_Fire King Sanctu
 >
 > You can use Sky Burn to pop Hyang after it wipes the board, if your opponent keeps playing, and then Hyang can bring back Sacred which can destroy Kirin for yet another pop, or do anything you might want to do in preparation for your turn.
 
-{{#include ../../links.md}}
+{{#include ../../common/links.md}}

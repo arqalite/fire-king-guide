@@ -27,4 +27,4 @@ Having [_Sacred Fire King Garunix_] in hand means you can use [_Fire King Island
 
 </div>
 
-{{#include ../../links.md}}
+{{#include ../../common/links.md}}

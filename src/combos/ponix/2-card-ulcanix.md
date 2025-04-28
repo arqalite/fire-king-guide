@@ -19,4 +19,4 @@ When opening both starters, you have to pick which one to use depending on the g
 {{#include ulcanix/2-high-garunix.md}}
 </div>
 
-{{#include ../../links.md}}
+{{#include ../../common/links.md}}
