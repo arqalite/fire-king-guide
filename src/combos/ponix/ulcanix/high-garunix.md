@@ -19,19 +19,21 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 #### Steps
 - Normal Summon [_Legendary Fire King Ponix_].
-- Activate Ponix - add [_Fire King Sanctuary_] from Deck.
-- Activate Sanctuary - place [_Fire King Island_] in Field Zone.
-- Activate Island - destroy [_Fire King Courtier Ulcanix_] in hand, add [_Sacred Fire King Garunix_] from Deck.
+- Activate Ponix - add [_Fire King Sanctuary_] from Deck to hand.
+- Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
+- Activate Island - destroy [_Fire King Courtier Ulcanix_] in hand, add [_Sacred Fire King Garunix_] from Deck to hand.
 - A chain forms:
-    - CL1: Activate Sacred in hand to Special Summon it to the field.
-    - CL2: Activate Ulcanix in GY to Special Summon [_Fire King High Avatar Garunix_] from Deck.
-- Activate Sacred on field - destroy [_Fire King High Avatar Kirin_] from Deck.
+    - CL1: Activate Sacred - Special Summon it from hand.
+    - CL2: Activate Ulcanix in GY - Special Summon [_Fire King High Avatar Garunix_] from Deck.
+- Activate Sacred - destroy [_Fire King High Avatar Kirin_] from Deck.
 - Activate Kirin in GY - Special Summon Ulcanix from GY.
-- Activate Ulcanix - destroy High Garunix and add a second Kirin from Deck to hand.
+- Activate Ulcanix in GY - destroy High Garunix and add a second Kirin from Deck to hand.
 - Link Summon [_Promethean Princess, Bestower of Flames_].
 - Activate Princess - revive Ponix from GY.
 - Pass turn.
 
 ##### Opponent's turn
-- In the Standby Phase, activate High Garunix to Special Summon itself, then activate it's effect to destroy all other monsters on the field.
+- In the Standby Phase:
+  - Activate High Garunix in GY - Special Summon it from GY. 
+  - Activate High Garunix on the field - destroy all other monsters on the field.
 

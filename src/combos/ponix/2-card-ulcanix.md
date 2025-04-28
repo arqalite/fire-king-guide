@@ -1,8 +1,6 @@
 # Ponix + Ulcanix
 
-When opening both starters, you have to pick which one to use depending on the goals you want to achieve. Generally, starting with Ponix lets you play lower to the ground which is a considerable advantage when [_Nibiru, the Primal Being_] is in the format.
-
-Let's see what lines we have available.
+When opening both starters, you have to pick which one to use depending on the goals you want to achieve. Generally, starting with [_Legendary Fire King Ponix_] lets you play lower to the ground which is a considerable advantage when [_Nibiru, the Primal Being_] is in the format.
 
 <form autocomplete="off">
     <select id="comboDropdown">
@@ -15,12 +13,10 @@ Let's see what lines we have available.
 <div id="princess-arvata-ulcanix" class="inv">
 
 {{#include ulcanix/princess-arvata-ulcanix.md}}
-
 </div>
 <div id="high-garunix" class="inv">
 
 {{#include ulcanix/high-garunix.md}}
-
 </div>
 
 {{#include ../../links.md}}
