@@ -22,20 +22,20 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 #### Steps
 - Normal Summon [_Legendary Fire King Ponix_].
-- Activate Ponix's effect to search [_Fire King Sanctuary_].
-- Activate Sanctuary from hand, place [_Fire King Island_] in Field Zone.
-- Activate Island's effect to destroy Ponix and search [_Sacred Fire King Garunix_].
-- Activate Sacred Garunix's first effect to Special Summon itself from hand.
-- Activate Sacred Garunix's second effect to destroy [_Fire King Courtier Ulcanix_] from deck.
-- Activate Ulcanix's effect to Special Summon [_Fire King High Avatar Garunix_] from Deck.
+- Activate Ponix - add [_Fire King Sanctuary_] from Deck to hand.
+- Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
+- Activate Island - destroy Ponix, add [_Sacred Fire King Garunix_] from Deck to hand.
+- Activate Sacred - Special Summon it from hand.
+- Activate Sacred - destroy [_Fire King Courtier Ulcanix_] from Deck.
+- Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from Deck.
 - Link Summon [_Salamangreat Sunlight Wolf_].
 - Pass turn.
 
 ##### Opponent's turn
-- In Standby Phase, Ponix returns to hand.
+- In the Standby Phase, activate Ponix - add it from the GY to your hand.
 - When you're ready to interrupt, use Kirin to destroy Ponix, and summon it under Wolf's link.
 - A chain forms:
-    - CL1: Sacred to Special Summon itself.
+    - CL1: Sacred to Special Summon itself from GY.
     - CL2: Wolf to add a monster from GY to hand.
 
 {{#include ../../links.md}}

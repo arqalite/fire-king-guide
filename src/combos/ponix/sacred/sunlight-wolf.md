@@ -19,16 +19,16 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 #### Steps
 - Normal Summon [_Legendary Fire King Ponix_].
-- Activate Ponix - add [_Fire King Sanctuary_] from Deck.
-- Activate Sanctuary - place [_Fire King Island_] in Field Zone.
-- Activate Island - destroy Ponix for [_Fire King High Avatar Kirin_].
-- Activate Sacred in hand - Special Summon it.
-- Activate Sacred on field - destroy [_Fire King Courtier Ulcanix_] from Deck.
+- Activate Ponix - add [_Fire King Sanctuary_] from Deck to hand.
+- Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
+- Activate Island - destroy Ponix, add [_Fire King High Avatar Kirin_] from Deck to hand.
+- Activate Sacred - Special Summon it from hand.
+- Activate Sacred - destroy [_Fire King Courtier Ulcanix_] from Deck.
 - Activate Ulcanix in GY - Special Summon [_Fire King High Avatar Garunix_] from Deck.
 - Link Summon [_Salamangreat Sunlight Wolf_].
 
 ##### Opponent's turn
-- In the Standby Phase, activate Ponix to return it to hand.
+- In the Standby Phase, activate Ponix - add it from the GY to your hand.
 - When you're ready to interrupt, use Kirin to destroy Ponix, summoning it under Wolf's link.
 - A chain forms:
     - CL1: Sacred in GY to Special Summon itself.
