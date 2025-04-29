@@ -20,24 +20,24 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4-5 cards.
 </div>
 
 #### Steps
-- Normal Summon [_Legendary Fire King Ponix_].
-- Activate Ponix - add [_Fire King Sanctuary_] from Deck to hand.
-- Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
-- Link Summon [_Salamangreat Almiraj_].
-- Activate Island - destroy [_Fire King Avatar Arvata_] in hand, add [_Sacred Fire King Garunix_] from Deck to hand.
-- A chain forms:
-  - CL1: Activate Sacred - Special Summon it from hand.
-  - CL2: Activate Arvata in GY - Special Summon Ponix from GY.
-- Activate Sacred - destroy [_Fire King High Avatar Kirin_] from Deck.
-- Activate Kirin in GY - Special Summon Arvata from GY.
-- Link Summon [_Salamangreat Sunlight Wolf_] using Almiraj and Sacred.
-- Link Summon [_Relinquished Anima_] using Ponix.
-- Activate Wolf - add Kirin from GY to hand.
-- Link Summon [_Promethean Princess, Bestower of Flames_] using Wolf and Anima.
+1. Normal Summon [_Legendary Fire King Ponix_].
+2. Activate Ponix - add [_Fire King Sanctuary_] from Deck to hand.
+3. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
+4. Link Summon [_Salamangreat Almiraj_].
+5. Activate Island - destroy [_Fire King Avatar Arvata_] in hand, add [_Sacred Fire King Garunix_] from Deck to hand.
+6. A chain forms:
+    - CL1: Activate Sacred - Special Summon it from hand.
+    - CL2: Activate Arvata in GY - Special Summon Ponix from GY.
+7. Activate Sacred - destroy [_Fire King High Avatar Kirin_] from Deck.
+8. Activate Kirin in GY - Special Summon Arvata from GY.
+9. Link Summon [_Salamangreat Sunlight Wolf_] using Almiraj and Sacred.
+10. Link Summon [_Relinquished Anima_] using Ponix.
+11. Activate Wolf - add Kirin from GY to hand.
+12. Link Summon [_Promethean Princess, Bestower of Flames_] using Wolf and Anima.
 
 Note we haven't used Princess' effect yet - this gives us the following options:
-- Revive Wolf under the other Extra Monster Zone, forcing opponents on Link decks to let you recover another card from the GY (or try to play around it).
-- Revive Ponix, which can be used by Arvata, Kirin or Princess' effects, or can just be destroyed by Hyang so it returns to your hand next turn.
-- Revive Almiraj, in some niche applications where you need to protect Arvata/Princess from being destroyed by your opponent.
+- Special Summon Wolf under the other Extra Monster Zone, forcing opponents on Link decks to let you recover another card from GY (or try to play around it).
+- Special Summon Ponix, which can be used by Arvata, Kirin or Princess' effects, or can just be destroyed by Hyang so it returns to your hand next turn.
+- Special Summon Almiraj, in some niche applications where you need to protect Arvata/Princess from being destroyed by your opponent.
 
-> Alternatively, you can Link Summon [_Hiita the Fire Charmer, Ablaze_] using Princess and any revived monster, setting up Princess in the GY while still keeping Arvata online.
+> Alternatively, you can Link Summon [_Hiita the Fire Charmer, Ablaze_] using Princess and any Special Summoned monster, setting up Princess in the GY while still keeping Arvata online.
