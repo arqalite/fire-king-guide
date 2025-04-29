@@ -2,9 +2,9 @@
 
 This is a simpler setup that aims to set up [_Garunix Eternity, Hyang of the Fire Kings_] as soon as possible, which can be helpful against certain matchups where clearing their materials early can stop their plays.
 
-Once Hyang hits the field, we can use High Kirin to destroy it, triggering its effect to Special Summon 2 Fire Kings from the GY.
+Once Hyang hits the field, you can use High Kirin to destroy it, triggering its effect to Special Summon 2 Fire Kings from the GY.
 
-Ulcanix and High Garunix are good options. The Ponix in hand would chain to Hyang's effect, allowing us to add a [_Fire King SKy Burn_] to our hand. Ulcanix can then destroy Ponix or High Garunix (for turn 3 pressure) to add a Fire King to our hand, triggering Sacred in the process.
+Ulcanix and High Garunix are good options. The Ponix in hand would chain to Hyang's effect, allowing you to add a [_Fire King SKy Burn_] to your hand. Ulcanix can then destroy Ponix or High Garunix (for turn 3 pressure) to add a Fire King to your hand, triggering Sacred in the process.
 
 <center>
 <video controls>
@@ -15,7 +15,7 @@ Ulcanix and High Garunix are good options. The Ponix in hand would chain to Hyan
 
 <div class="warning">
 
-This route plays under [_Nibiru, the Primal Being_], as we only summon 3 times.
+This route plays under [_Nibiru, the Primal Being_], as you only summon 3 times.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 

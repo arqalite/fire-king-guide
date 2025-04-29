@@ -1,8 +1,8 @@
 ### Princess + Arvata setup (with Ulcanix in GY)
 
-As Arvata is already in the GY at the time [_Sacred Fire King Garunix_] is summoned, we can deviate from the [generic 2-card Ponix] combo and destroy [_Fire King Courtier Ulcanix_] instead.
+As Arvata is already in the GY at the time [_Sacred Fire King Garunix_] is summoned, you can deviate from the [generic 2-card Ponix] combo and destroy [_Fire King Courtier Ulcanix_] instead.
 
-This allows us to still reach the same Princess + Arvata endboard while giving us more options - by Special Summoning Ulcanix during the interruption sequence, we can add any Fire King we need from our Deck to our hand, either to further interrupt our opponent, or set up our turn 3 plays.
+This allows you to still reach the same Princess + Arvata endboard while giving you more options - by Special Summoning Ulcanix during the interruption sequence, you can add any Fire King you need from your Deck to your hand, either to further interrupt your opponent, or set up your turn 3 plays.
 
 <center>
 <video controls>

@@ -1,6 +1,6 @@
 ### High Garunix setup (with Princess + Ulcanix in GY, High Kirin in hand)
 
-This is a cute line that ignores Nibiru entirely. We make full use of Ulcanix and High Garunix's effects to get a High Kirin in hand, and set up Princess in the GY, while still having a FIRE on the field so both effects are live.
+This is a cute line that ignores Nibiru entirely. you make full use of Ulcanix and High Garunix's effects to get a High Kirin in hand, and set up Princess in the GY, while still having a FIRE on the field so both effects are live.
 
 <center>
 <video controls>

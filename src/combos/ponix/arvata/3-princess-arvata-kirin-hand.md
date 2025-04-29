@@ -1,8 +1,8 @@
 ### Princess + Arvata setup (with High Kirin in hand, and a 3rd monster on the field)
 
-Variating further on the previous line, we can instead opt to go for [_Salamangreat Sunlight Wolf_] and add Kirin to our hand instead of summoning it to the field.
+Variating further on the previous line, you can instead opt to go for [_Salamangreat Sunlight Wolf_] and add Kirin to your hand instead of summoning it to the field.
 
-It's a very open-ended line, giving us access to a few different plays we can make before passing turn to the opponent.
+It's a very open-ended line, giving you access to a few different plays you can make before passing turn to the opponent.
 
 <center>
 <video controls>
@@ -35,7 +35,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4-5 cards.
 11. Activate Wolf - add Kirin from the GY to your hand.
 12. Link Summon [_Promethean Princess, Bestower of Flames_] using Wolf and Anima.
 
-Note we haven't used Princess' effect yet - this gives us the following options:
+Note you haven't used Princess' effect yet - this gives you the following options:
 - Special Summon Wolf under the other Extra Monster Zone, forcing opponents on Link decks to let you recover another card from the GY (or try to play around it).
 - Special Summon Ponix, which can be used by Arvata, Kirin or Princess' effects, or can just be destroyed by Hyang so it returns to your hand next turn.
 - Special Summon Almiraj, in some niche applications where you need to protect Arvata/Princess from being destroyed by your opponent.

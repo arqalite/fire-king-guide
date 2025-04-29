@@ -1,8 +1,8 @@
 ### Sacred + High Garunix + Kirin (with Ulcanix in GY, Ponix in hand)
 
-The goal of this line is to end on 2 Hyang materials + Kirin, and let Kirin get destroyed by Hyang, giving us a Special Summon and an extra pop. 
+The goal of this line is to end on 2 Hyang materials + Kirin, and let Kirin get destroyed by Hyang, giving you a Special Summon and an extra pop. 
 
-If we choose to Special Summon Ulcanix, we can then pop Hyang to add a Fire King from your Deck to our hand, giving us plenty of flexibility in setting up for our next turn.
+If you choose to Special Summon Ulcanix, you can then pop Hyang to add a Fire King from your Deck to your hand, giving you plenty of flexibility in setting up for your next turn.
 
 <center>
 <video controls>
@@ -13,7 +13,7 @@ If we choose to Special Summon Ulcanix, we can then pop Hyang to add a Fire King
 
 <div class="warning">
 
-This route plays under [_Nibiru, the Primal Being_], as we only summon 4 times.
+This route plays under [_Nibiru, the Primal Being_], as you only summon 4 times.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 

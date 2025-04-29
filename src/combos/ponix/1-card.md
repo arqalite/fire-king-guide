@@ -13,7 +13,7 @@ The goal is to get the Fire King engine started while also setting up a [_Garuni
 
 <div class="warning">
 
-This route plays under [_Nibiru, the Primal Being_] as we only summon three times.
+This route plays under [_Nibiru, the Primal Being_] as you only summon three times.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 

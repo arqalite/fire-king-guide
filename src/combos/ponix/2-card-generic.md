@@ -1,6 +1,6 @@
 # Ponix + any FIRE Beast, Beast-Warrior or Winged Beast
 
-Adding a second card to the 1-card Ponix combo makes it much more powerful, allowing us to add multiple layers of interruption alongside the board clear that [_Garunix Eternity, Hyang of the Fire Kings_] offers.
+Adding a second card to the 1-card Ponix combo makes it much more powerful, allowing you to add multiple layers of interruption alongside the board clear that [_Garunix Eternity, Hyang of the Fire Kings_] offers.
 
 Here is a generic combo that works with any FIRE Beast, Beast-Warrior or Winged Beast (in short, any Fire King monster). 
 
@@ -32,6 +32,6 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 8. Link Summon [_Promethean Princess, Bestower of Flames_].
 9. Activate Princess - Special Summon Arvata from the GY.
 
-> Depending on the second card there might be other lines available that offer you certain advantages. This line is great when you're first learning the deck, but we encourage reading and learning the other combos as well in order to make the most out of your deck.
+> Depending on the second card there might be other lines available that offer you certain advantages. This line is great when you're first learning the deck, but you encourage reading and learning the other combos as well in order to make the most out of your deck.
 
 {{#include ../../common/links.md}}
