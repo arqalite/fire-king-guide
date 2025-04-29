@@ -4,7 +4,7 @@ This is a simpler setup that aims to set up [_Garunix Eternity, Hyang of the Fir
 
 Once Hyang hits the field, we can use High Kirin to destroy it, triggering its effect to Special Summon 2 Fire Kings from the GY.
 
-Ulcanix and High Garunix are good options. The Ponix in hand would chain to Hyang's effect, allowing us to search a card. Ulcanix can then destroy Ponix or High Garunix (for turn 3 pressure) to search a second card, triggering Sacred in the process.
+Ulcanix and High Garunix are good options. The Ponix in hand would chain to Hyang's effect, allowing us to add a [_Fire King SKy Burn_] to our hand. Ulcanix can then destroy Ponix or High Garunix (for turn 3 pressure) to add a Fire King to our hand, triggering Sacred in the process.
 
 <center>
 <video controls>
