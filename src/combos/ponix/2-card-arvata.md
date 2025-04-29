@@ -1,6 +1,6 @@
 # Ponix + Arvata
 
-Thanks to its on-destruction effect, opening [_Fire King Avatar Arvata_] gives you access to higher-ceiling combos and endboards. It also gives you a lot of flexibility as you end up generating a lot of Link Material that you can use in any way you want.
+Thanks to its on-destruction effect, opening [_Fire King Avatar Arvata_] gives us access to higher-ceiling combos and endboards. It also gives us a lot of flexibility as we end up generating a lot of Link Material that we can use in any way we want.
 
 There are a few lines you can perform here:
 

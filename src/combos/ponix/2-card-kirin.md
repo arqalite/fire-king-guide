@@ -6,7 +6,7 @@ With [_Fire King High Avatar Kirin_], you have two options:
 
 Both options are viable, and depending on the matchup you might want to go for one over the other.
 
-When going for the 1-card combo, Kirin allows you to squeeze additional card advantage - by summoning itself under a [_Salamangreat Sunlight Wolf_], you get to add a card from the GY to your hand, while also triggering Sacred and getting the interruption chain started.
+When going for the 1-card combo, Kirin allows us to squeeze additional card advantage - by summoning itself under a [_Salamangreat Sunlight Wolf_], we get to add a card from the GY to our hand, while also triggering Sacred and getting the interruption chain started.
 
 Let's see it in action.
 

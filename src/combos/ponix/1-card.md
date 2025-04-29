@@ -1,6 +1,7 @@
 # 1-card Ponix combo
 
-The 1-card Ponix combo sets the foundation for all the other combos in this guide. 
+The 1-card Ponix combo sets the foundation for all the other combos in this guide.
+
 The goal is to get the Fire King engine started while also setting up a [_Garunix Eternity, Hyang of the Fire Kings_] on the opponent's turn.
 
 <center>

@@ -2,7 +2,7 @@
 
 Variating further on the previous line, we can instead opt to go for [_Salamangreat Sunlight Wolf_] and add Kirin to our hand instead of summoning it to the field.
 
-It's a very open-ended line, giving you access to a few different plays you can make before passing turn to the opponent.
+It's a very open-ended line, giving us access to a few different plays we can make before passing turn to the opponent.
 
 <center>
 <video controls>

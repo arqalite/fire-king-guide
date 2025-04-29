@@ -2,9 +2,9 @@
 
 An alternative to the previous line is to instead destroy [_Fire King High Avatar Kirin_]. This still allows us to set up Princess + Arvata safely, but we also get Kirin on the field. 
 
-It can be either used as material for [_Garunix Eternity, Hyang of the Fire Kings_], or destroyed by Hyang, triggering its second effect. This allows you to Special Summon a monster from the GY, then destroy a card (maybe a Spell/Trap or any card that might have entered the field after Hyang was summoned).
+It can be either used as material for [_Garunix Eternity, Hyang of the Fire Kings_], or destroyed by Hyang, triggering its second effect. This allows us to Special Summon a monster from the GY, then destroy a card (maybe a Spell/Trap or any card that might have entered the field after Hyang was summoned).
 
-A neat trick you can do with this endboard is using Arvata to negate a monster effect, destroying Kirin on resolution. Kirin's effect will trigger, Special Summoning a Fire King from your hand or GY, then you can destroy 1 card on the field (such as the monster you negated, turning Arvata's negate into a destruction effect too).
+A neat trick we can do with this endboard is using Arvata to negate a monster effect, destroying Kirin on resolution. Kirin's effect will trigger, Special Summoning a Fire King from our hand or GY, then we can destroy 1 card on the field (such as the monster negated earlier, turning Arvata's negate into a destruction effect too).
 
 <center>
 <video controls>

@@ -1,6 +1,8 @@
 # Ponix + Ulcanix
 
-When opening both starters, you have to pick which one to use depending on the goals you want to achieve. Generally, starting with [_Legendary Fire King Ponix_] lets you play lower to the ground which is a considerable advantage when [_Nibiru, the Primal Being_] is in the format.
+When opening both starters, you have to pick which one to use depending on the goals you want to achieve. 
+
+Generally, starting with [_Legendary Fire King Ponix_] lets you play lower to the ground which is a considerable advantage when [_Nibiru, the Primal Being_] is in the format.
 
 <form autocomplete="off">
     <select id="comboDropdown">
