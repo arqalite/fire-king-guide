@@ -21,14 +21,14 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
 #### Steps
 1. Normal Summon [_Legendary Fire King Ponix_].
-2. Activate Ponix - add [_Fire King Sanctuary_] from Deck to hand.
+2. Activate Ponix - add [_Fire King Sanctuary_] from your Deck to your hand.
 3. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
-4. Activate Island - destroy the FIRE Beast, Beast-Warrior or Winged Beast in your hand, add [_Sacred Fire King Garunix_] from Deck to hand.
-5. Activate Sacred - Special Summon it from hand.
-6. Activate Sacred - destroy [_Fire King Avatar Arvata_] from Deck.
-7. Activate Arvata in GY - Special Summon a FIRE Beast, Beast-Warrior or Winged Beast from GY.
+4. Activate Island - destroy the FIRE Beast, Beast-Warrior or Winged Beast in your hand, add [_Sacred Fire King Garunix_] from your Deck to your hand.
+5. Activate Sacred - Special Summon it from your hand.
+6. Activate Sacred again - destroy [_Fire King Avatar Arvata_] from your Deck.
+7. Activate Arvata - Special Summon a FIRE Beast, Beast-Warrior or Winged Beast from the GY.
 8. Link Summon [_Promethean Princess, Bestower of Flames_].
-9. Activate Princess - Special Summon Arvata from GY.
+9. Activate Princess - Special Summon Arvata from the GY.
 
 > Depending on the second card there might be other lines available that offer you certain advantages. This line is great when you're first learning the deck, but we encourage reading and learning the other combos as well in order to make the most out of your deck.
 

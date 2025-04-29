@@ -2,7 +2,7 @@
 
 An alternative to the previous line is to instead destroy [_Fire King High Avatar Kirin_]. This still allows us to set up Princess + Arvata safely, but we also get Kirin on the field. 
 
-It can be either used as material for [_Garunix Eternity, Hyang of the Fire Kings_], or destroyed by Hyang to trigger its second effect, reviving a monster from GY and destroying a card, maybe a Spell/Trap or any card that might have entered the field after Hyang was summoned.
+It can be either used as material for [_Garunix Eternity, Hyang of the Fire Kings_], or destroyed by Hyang, triggering its second effect. This allows you to Special Summon a monster from the GY, then destroy a card (maybe a Spell/Trap or any card that might have entered the field after Hyang was summoned).
 
 A neat trick you can do with this endboard is using Arvata to negate a monster effect, destroying Kirin on resolution. Kirin's effect will trigger, Special Summoning a Fire King from your hand or GY, then you can destroy 1 card on the field (such as the monster you negated, turning Arvata's negate into a destruction effect too).
 
@@ -23,14 +23,14 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 #### Steps
 1. Normal Summon [_Legendary Fire King Ponix_].
-2. Activate Ponix - add [_Fire King Sanctuary_] from Deck to hand.
+2. Activate Ponix - add [_Fire King Sanctuary_] from your Deck to your hand.
 3. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
 4. Link Summon [_Salamangreat Almiraj_].
-5. Activate Island - destroy [_Fire King Avatar Arvata_] in hand, add [_Sacred Fire King Garunix_] from Deck to hand.
+5. Activate Island - destroy [_Fire King Avatar Arvata_] in hand, add [_Sacred Fire King Garunix_] from your Deck to your hand.
 6. A chain forms:
-    - CL1: Activate Sacred - Special Summon it from hand.
-    - CL2: Activate Arvata in GY - Special Summon Ponix from GY.
-7. Activate Sacred - destroy [_Fire King High Avatar Kirin_] from Deck.
-8. Activate Kirin in GY - Special Summon Arvata from GY.
+    - CL1: Activate Sacred - Special Summon it from your hand.
+    - CL2: Activate Arvata - Special Summon Ponix from the GY.
+7. Activate Sacred again - destroy [_Fire King High Avatar Kirin_] from your Deck.
+8. Activate Kirin - Special Summon Arvata from the GY.
 9. Link Summon [_Promethean Princess, Bestower of Flames_].
-10. Activate Princess - Special Summon Kirin from GY.
+10. Activate Princess - Special Summon Kirin from the GY.

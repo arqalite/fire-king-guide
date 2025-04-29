@@ -27,21 +27,23 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 #### Steps
 1. Normal Summon [_Legendary Fire King Ponix_].
-2. Activate Ponix - add [_Fire King Sanctuary_] from Deck to hand.
+2. Activate Ponix - add [_Fire King Sanctuary_] from your Deck to your hand.
 3. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
-4. Activate Island - destroy Ponix, add [_Sacred Fire King Garunix_] from Deck to hand.
-5. Activate Sacred - Special Summon it from hand.
-6. Activate Sacred - destroy [_Fire King Courtier Ulcanix_] from Deck.
-7. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from Deck.
+4. Activate Island - destroy Ponix, add [_Sacred Fire King Garunix_] from your Deck to your hand.
+5. Activate Sacred - Special Summon it from your hand.
+6. Activate Sacred again - destroy [_Fire King Courtier Ulcanix_] from your Deck.
+7. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 8. Link Summon [_Salamangreat Sunlight Wolf_].
 9. Pass turn.
 
 ##### Opponent's turn
-1. In the Standby Phase, activate Ponix - add it from GY to your hand.
-2. When you're ready to interrupt, use Kirin to destroy Ponix, and summon it under Wolf's link.
+1. In the Standby Phase, activate Ponix - add it from the GY to your hand.
+2. When you're ready to interrupt, activate Kirin - destroy Ponix and summon Kirin under Wolf's link.
 3. A chain forms:
-    - CL1: Sacred to Special Summon itself from GY.
-    - CL2: Wolf to add a monster from GY to hand.
+    - CL1: Activate Sacred - Special Summon it from the GY.
+    - CL2: Activate Wolf - add a monster from the GY to your hand.
+
+> Remember Sunlight Wolf's restriction - you are not able to Summon the card you recover with Wolf for the rest of the turn. As such, look to add a card that doesn't need to be Summoned this turn (like an Ash Blossom) or grab something that can help you prepare for your next turn.
 
 [generic 2-card Ponix]: ./2-card-generic.md
 
