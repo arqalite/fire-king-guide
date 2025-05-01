@@ -1,6 +1,6 @@
 ### High Garunix setup (with Princess + Ulcanix in GY, High Kirin in hand)
 
-This is a cute line that ignores Nibiru entirely. you make full use of Ulcanix and High Garunix's effects to get a High Kirin in hand, and set up Princess in the GY, while still having a FIRE on the field so both effects are live.
+This is a cute line that ignores Nibiru entirely. you make full use of Ulcanix and High Garunix's effects to get a High Kirin + a FIRE target in hand, and set up Princess in the GY, while still having a FIRE on the field so her effect is live.
 
 <center>
 <video controls>
@@ -11,7 +11,7 @@ This is a cute line that ignores Nibiru entirely. you make full use of Ulcanix a
 
 <div class="warning">
 
-This route does not care about [_Nibiru, the Primal Being_], as High Garunix, Princess and Kirin are already set up by the 5th summon. You just lose out on Ponix getting destroyed so it can return to your hand on turn 3.
+This route does not care about [_Nibiru, the Primal Being_], as High Garunix, Princess and Kirin are already set up by the 5th summon. You just lose out on Sunlight Wolf's effect so you're less insulated from stuff like Kaijus removing High Garunix from the field.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
@@ -29,11 +29,13 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 7. Activate Kirin - Special Summon Ulcanix from the GY.
 8. Activate Ulcanix - destroy High Garunix and add a second Kirin from your Deck to your hand.
 9. Link Summon [_Promethean Princess, Bestower of Flames_].
-10. Activate Princess - Special Summon Ponix from the GY.
-11. Pass turn.
+10. Activate Princess - Special Summon any FIRE monster from the GY.
+11. Link Summon [_Salamangreat Sunlight Wolf_].
 
 ##### Opponent's turn
 1. In the Standby Phase:
-    - Activate High Garunix - Special Summon it from the GY. 
-    - Activate High Garunix again - destroy all other monsters on the field.
+    - Activate High Garunix - Special Summon it from the GY, under Wolf's link.
+    - A chain forms:
+      - Activate High Garunix again - destroy all other monsters on the field.
+      - Activate Wolf - add Ponix from GY to your hand. (Remember you cannot summon Ponix this turn!)
 
