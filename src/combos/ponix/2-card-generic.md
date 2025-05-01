@@ -27,7 +27,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 3. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
 4. Activate Island - destroy the FIRE Beast, Beast-Warrior or Winged Beast in your hand, add [_Sacred Fire King Garunix_] from your Deck to your hand.
 5. Activate Sacred - Special Summon it from your hand.
-6. Activate Sacred again - destroy [_Fire King Avatar Arvata_] from your Deck.
+6. Activate Sacred again - destroy [_Fire King Avatar Arvata_] in your Deck.
 7. Activate Arvata - Special Summon a FIRE Beast, Beast-Warrior or Winged Beast from the GY.
 8. Link Summon [_Promethean Princess, Bestower of Flames_].
 9. Activate Princess - Special Summon Arvata from the GY.

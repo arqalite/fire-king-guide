@@ -31,7 +31,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 3. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
 4. Activate Island - destroy Ponix, add [_Sacred Fire King Garunix_] from your Deck to your hand.
 5. Activate Sacred - Special Summon it from your hand.
-6. Activate Sacred again - destroy [_Fire King Courtier Ulcanix_] from your Deck.
+6. Activate Sacred again - destroy [_Fire King Courtier Ulcanix_] in your Deck.
 7. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 8. Link Summon [_Salamangreat Sunlight Wolf_].
 9. Pass turn.

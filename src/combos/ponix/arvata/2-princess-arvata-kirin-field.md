@@ -30,7 +30,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 6. A chain forms:
     - CL1: Activate Sacred - Special Summon it from your hand.
     - CL2: Activate Arvata - Special Summon Ponix from the GY.
-7. Activate Sacred again - destroy [_Fire King High Avatar Kirin_] from your Deck.
+7. Activate Sacred again - destroy [_Fire King High Avatar Kirin_] in your Deck.
 8. Activate Kirin - Special Summon Arvata from the GY.
 9. Link Summon [_Promethean Princess, Bestower of Flames_].
 10. Activate Princess - Special Summon Kirin from the GY.

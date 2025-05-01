@@ -25,7 +25,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 5. A chain forms:
     - CL1: Activate Sacred - Special Summon it from your hand.
     - CL2: Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
-6. Activate Sacred again - destroy [_Fire King High Avatar Kirin_] from your Deck.
+6. Activate Sacred again - destroy [_Fire King High Avatar Kirin_] in your Deck.
 7. Activate Kirin - Special Summon Ulcanix from the GY.
 8. Activate Ulcanix - destroy High Garunix and add a second Kirin from your Deck to your hand.
 9. Link Summon [_Promethean Princess, Bestower of Flames_].

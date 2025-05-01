@@ -26,7 +26,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 4. Activate Island - destroy Sacred, add [_Fire King High Avatar Kirin_] from your Deck to your hand.
 5. Activate Kirin - destroy Ponix, then Special Summon Kirin from your hand.
 6. Activate Sacred - Special Summon it.
-7. Activate Sacred again - destroy [_Fire King Courtier Ulcanix_] from your Deck.
+7. Activate Sacred again - destroy [_Fire King Courtier Ulcanix_] in your Deck.
 8. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 
 ##### Opponent's turn
