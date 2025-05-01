@@ -37,9 +37,9 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 9. Pass turn.
 
 ##### Opponent's turn
-1. In the Standby Phase, activate Ponix - add it from the GY to your hand.
-2. When you're ready to interrupt, activate Kirin - destroy Ponix and summon Kirin under Wolf's link.
-3. A chain forms:
+10. In the Standby Phase, activate Ponix - add it from the GY to your hand.
+11. When you're ready to interrupt, activate Kirin - destroy Ponix and summon Kirin under Wolf's link.
+12. A chain forms:
     - CL1: Activate Sacred - Special Summon it from the GY.
     - CL2: Activate Wolf - add a monster from the GY to your hand.
 
