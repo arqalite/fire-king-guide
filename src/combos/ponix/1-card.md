@@ -29,6 +29,6 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 7. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 
 ##### Opponent's turn
-1. In the Standby Phase, activate Ponix - add it from the GY to your hand.
+8. In the Standby Phase, activate Ponix - add it from the GY to your hand.
 
 {{#include ../../common/links.md}}
