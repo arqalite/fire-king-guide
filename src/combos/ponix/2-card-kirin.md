@@ -38,11 +38,13 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 ##### Opponent's turn
 10. In the Standby Phase, activate Ponix - add it from the GY to your hand.
-11. When you're ready to interrupt, activate Kirin - destroy Ponix and summon Kirin under Wolf's link.
-12. A chain forms:
-    - CL1: Activate Sacred - Special Summon it from the GY.
-    - CL2: Activate Wolf - add a monster from the GY to your hand.
 
+> When you're ready to interrupt, activate Kirin - destroy Ponix and summon Kirin under Wolf's link.
+>
+> A chain forms:
+>    - CL1: Activate Sacred - Special Summon it from the GY.
+>    - CL2: Activate Wolf - add a monster from the GY to your hand.
+>
 > Remember Sunlight Wolf's restriction - you are not able to Summon the card you recover with Wolf for the rest of the turn. As such, look to add a card that doesn't need to be Summoned this turn (like an Ash Blossom) or grab something that can help you prepare for your next turn.
 
 [generic 2-card Ponix]: ./2-card-generic.md
