@@ -1,6 +1,6 @@
-### Sacred + High Garunix + Kirin (with Ulcanix in GY, Ponix in your hand)
+### Sacred + High Garunix + High Kirin (with Ulcanix in GY, Ponix in your hand)
 
-The goal of this line is to end on 2 Hyang materials + Kirin, and let Kirin get destroyed by Hyang, giving you a Special Summon and an extra pop. 
+The goal of this line is to end on 2 Hyang materials + High Kirin, and let High Kirin get destroyed by Hyang, giving you a Special Summon and an extra pop. 
 
 If you choose to Special Summon Ulcanix, you can then pop Hyang to add a Fire King from your Deck to your hand, giving you plenty of flexibility in setting up for your next turn.
 
@@ -24,7 +24,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 2. Activate Ponix - add [_Fire King Sanctuary_] from your Deck to your hand.
 3. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
 4. Activate Island - destroy Sacred, then add [_Fire King High Avatar Kirin_] from your Deck to your hand.
-5. Activate Kirin - destroy Ponix, then Special Summon Kirin from your hand.
+5. Activate High Kirin - destroy Ponix, then Special Summon High Kirin from your hand.
 6. Activate Sacred - Special Summon it from your hand.
 7. Activate Sacred again - destroy [_Fire King Courtier Ulcanix_] in your Deck.
 8. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.

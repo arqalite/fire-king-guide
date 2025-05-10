@@ -11,7 +11,7 @@ This is a cute line that ignores Nibiru entirely. you make full use of Ulcanix a
 
 <div class="warning">
 
-This route does not care about [_Nibiru, the Primal Being_], as High Garunix, Princess and Kirin are already set up by the 5th summon. You just lose out on Sunlight Wolf's effect so you're no longer insulated from stuff like Kaijus removing High Garunix from the field.
+This route does not care about [_Nibiru, the Primal Being_], as High Garunix, Princess and High Kirin are already set up by the 5th summon. You just lose out on Sunlight Wolf's effect so you're no longer insulated from stuff like Kaijus removing High Garunix from the field.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
@@ -26,8 +26,8 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
     - CL1: Activate Sacred - Special Summon it from your hand.
     - CL2: Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 6. Activate Sacred again - destroy [_Fire King High Avatar Kirin_] in your Deck.
-7. Activate Kirin - Special Summon Ulcanix from the GY.
-8. Activate Ulcanix - destroy High Garunix and add a second Kirin from your Deck to your hand.
+7. Activate High Kirin - Special Summon Ulcanix from the GY.
+8. Activate Ulcanix - destroy High Garunix and add a second High Kirin from your Deck to your hand.
 9. Link Summon [_Promethean Princess, Bestower of Flames_].
 10. Activate Princess - Special Summon any FIRE monster from the GY.
 11. Link Summon [_Salamangreat Sunlight Wolf_].
