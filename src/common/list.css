@@ -1,3 +1,7 @@
 .content ol {
     line-height: 1.75em;
 }
+
+.content ul {
+    line-height: 1.60em;
+}
