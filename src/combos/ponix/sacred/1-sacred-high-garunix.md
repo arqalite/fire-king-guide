@@ -4,7 +4,7 @@ This is a simpler setup that aims to set up [_Garunix Eternity, Hyang of the Fir
 
 Once Hyang hits the field, you can use High Kirin to destroy it, triggering its effect to Special Summon 2 Fire Kings from the GY.
 
-Ulcanix and High Garunix are good options. The Ponix in hand would chain to Hyang's effect, allowing you to add a [_Fire King Sky Burn_] to your hand. Ulcanix can then destroy Ponix or High Garunix (for turn 3 pressure) to add a Fire King to your hand, triggering Sacred in the process.
+Ulcanix and High Garunix are good options. The Ponix in your hand would chain to Hyang's effect, allowing you to add a [_Fire King Sky Burn_] to your hand. Ulcanix can then destroy Ponix or High Garunix (for turn 3 pressure) to add a Fire King to your hand, triggering Sacred in the process.
 
 <center>
 <video controls>
@@ -25,7 +25,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 1. Normal Summon [_Legendary Fire King Ponix_].
 2. Activate Ponix - add [_Fire King Sanctuary_] from your Deck to your hand.
 3. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
-4. Activate Island - destroy Ponix, add [_Fire King High Avatar Kirin_] from your Deck to your hand.
+4. Activate Island - destroy Ponix, then add [_Fire King High Avatar Kirin_] from your Deck to your hand.
 5. Activate Sacred - Special Summon it from your hand.
 6. Activate Sacred again - destroy [_Fire King Courtier Ulcanix_] in your Deck.
 7. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.

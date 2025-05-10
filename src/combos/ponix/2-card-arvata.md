@@ -9,7 +9,7 @@ There are a few lines you can perform here:
         <option selected>Select the endboard and route below:</option>
         <option value="princess-arvata-ulcanix">1) Princess + Arvata setup (with Ulcanix in GY)</option>
         <option value="princess-arvata-kirin-field">2) Princess + Arvata + High Kirin setup</option>
-        <option value="princess-arvata-kirin-hand">3) Princess + Arvata setup (with High Kirin in hand, and a 3rd monster on the field)</option>
+        <option value="princess-arvata-kirin-hand">3) Princess + Arvata setup (with High Kirin in your hand, and a 3rd monster on the field)</option>
     </select>
 </form>
 

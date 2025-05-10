@@ -26,7 +26,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 2. Activate Ponix - add [_Fire King Sanctuary_] from your Deck to your hand.
 3. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
 4. Link Summon [_Salamangreat Almiraj_].
-5. Activate Island - destroy [_Fire King Avatar Arvata_] in hand, add [_Sacred Fire King Garunix_] from your Deck to your hand.
+5. Activate Island - destroy [_Fire King Avatar Arvata_], then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 6. A chain forms:
     - CL1: Activate Sacred - Special Summon it from your hand.
     - CL2: Activate Arvata - Special Summon Ponix from the GY.

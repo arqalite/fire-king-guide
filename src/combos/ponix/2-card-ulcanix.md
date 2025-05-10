@@ -8,7 +8,7 @@ Generally, starting with [_Legendary Fire King Ponix_] lets you play lower to th
     <select id="comboDropdown">
         <option selected>Select the endboard and route below:</option>
         <option value="princess-arvata-ulcanix">1) Princess + Arvata setup (with Ulcanix in GY)</option>
-        <option value="high-garunix">2) High Garunix setup (with Princess + Ulcanix in GY, High Kirin in hand)</option>
+        <option value="high-garunix">2) High Garunix setup (with Princess + Ulcanix in GY, High Kirin in your hand)</option>
     </select>
 </form>
 
