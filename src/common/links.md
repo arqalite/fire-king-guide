@@ -58,3 +58,4 @@
 <script src="/common/dropdown.js"></script>
 <link rel="stylesheet" href="/common/dropdown.css">
 <link rel="stylesheet" href="/common/table.css">
+<link rel="stylesheet" href="/common/list.css">
