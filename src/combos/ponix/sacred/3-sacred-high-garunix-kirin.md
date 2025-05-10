@@ -28,6 +28,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 6. Activate Sacred - Special Summon it from your hand.
 7. Activate Sacred again - destroy [_Fire King Courtier Ulcanix_] in your Deck.
 8. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
+9. Pass turn.
 
 ##### Opponent's turn
-9. In the Standby Phase, activate Ponix - add it from the GY to your hand.
+10. In the Standby Phase, activate Ponix - add it from the GY to your hand.

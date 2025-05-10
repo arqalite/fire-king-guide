@@ -31,10 +31,11 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 9. Link Summon [_Promethean Princess, Bestower of Flames_].
 10. Activate Princess - Special Summon any FIRE monster from the GY.
 11. Link Summon [_Salamangreat Sunlight Wolf_].
+12. Pass turn.
 
 ##### Opponent's turn
-12. In the Standby Phase, activate High Garunix - Special Summon it from the GY, under Wolf's link.
-13. A chain forms:
+13. In the Standby Phase, activate High Garunix - Special Summon it from the GY, under Wolf's link.
+14. A chain forms:
       - Activate High Garunix again - destroy all other monsters on the field.
       - Activate Wolf - add Ponix from the GY to your hand. (Remember you cannot summon Ponix this turn!)
 
