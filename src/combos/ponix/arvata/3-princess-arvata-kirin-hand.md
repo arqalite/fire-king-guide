@@ -1,4 +1,4 @@
-### Princess + Arvata setup (with High Kirin in your hand, and a 3rd monster on the field)
+### Promethean Princess + Arvata setup (with High Kirin in your hand, and a 3rd monster on the field)
 
 Variating further on the previous line, you can instead opt to go for [_Salamangreat Sunlight Wolf_] and add High Kirin to your hand instead of summoning it to the field.
 
@@ -35,9 +35,9 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4-5 cards.
 11. Activate Wolf - add High Kirin from the GY to your hand.
 12. Link Summon [_Promethean Princess, Bestower of Flames_] using Wolf and Anima.
 
-Note you haven't used Princess' effect yet - this gives you the following options:
+Note you haven't used Promethean Princess' effect yet - this gives you the following options:
 - Special Summon Wolf under the other Extra Monster Zone, forcing opponents on Link decks to let you recover another card from the GY (or try to play around it).
-- Special Summon Ponix, which can be used by Arvata, High Kirin or Princess' effects, or can just be destroyed by Hyang so it returns to your hand next turn.
-- Special Summon Almiraj, in some niche applications where you need to protect Arvata/Princess from being destroyed by your opponent.
+- Special Summon Ponix, which can be used by Arvata, High Kirin or Promethean Princess' effects, or can just be destroyed by Hyang so it returns to your hand next turn.
+- Special Summon Almiraj, in some niche applications where you need to protect Arvata/Promethean Princess from being destroyed by your opponent.
 
-> Alternatively, you can Link Summon [_Hiita the Fire Charmer, Ablaze_] using Princess and any Special Summoned monster, setting up Princess in the GY while still keeping Arvata online.
+> Alternatively, you can Link Summon [_Hiita the Fire Charmer, Ablaze_] using Promethean Princess and any Special Summoned monster, setting up Promethean Princess in the GY while still keeping Arvata online.

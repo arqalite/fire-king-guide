@@ -1,6 +1,6 @@
-### Princess + Arvata + High Kirin setup
+### Promethean Princess + Arvata + High Kirin setup
 
-An alternative to the previous line is to instead destroy [_Fire King High Avatar Kirin_]. This still allows you to set up Princess + Arvata safely, but you also get High Kirin on the field. 
+An alternative to the previous line is to instead destroy [_Fire King High Avatar Kirin_]. This still allows you to set up Promethean Princess + Arvata safely, but you also get High Kirin on the field. 
 
 It can either be used as material for [_Garunix Eternity, Hyang of the Fire Kings_], or be destroyed by Hyang, triggering its second effect. This allows you to Special Summon a Fire King from GY (or hand), then destroy a card (maybe a Spell/Trap or any card that might have entered the field after Hyang was summoned).
 
@@ -33,4 +33,4 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 7. Activate Sacred again - destroy [_Fire King High Avatar Kirin_] in your Deck.
 8. Activate High Kirin - Special Summon Arvata from the GY.
 9. Link Summon [_Promethean Princess, Bestower of Flames_].
-10. Activate Princess - Special Summon High Kirin from the GY.
+10. Activate Promethean Princess - Special Summon High Kirin from the GY.

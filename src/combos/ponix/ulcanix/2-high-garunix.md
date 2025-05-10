@@ -1,6 +1,6 @@
-### High Garunix setup (with Princess + Ulcanix in GY, High Kirin in your hand)
+### High Garunix setup (with Promethean Princess + Ulcanix in GY, High Kirin in your hand)
 
-This is a cute line that ignores Nibiru entirely. you make full use of Ulcanix and High Garunix's effects to get a High Kirin + a FIRE target in your hand, and set up Princess in the GY, while still having a FIRE on the field so her effect is live.
+This is a cute line that ignores Nibiru entirely. you make full use of Ulcanix and High Garunix's effects to get a High Kirin + a FIRE target in your hand, and set up Promethean Princess in the GY, while still having a FIRE on the field so her effect is live.
 
 <center>
 <video controls>
@@ -11,7 +11,7 @@ This is a cute line that ignores Nibiru entirely. you make full use of Ulcanix a
 
 <div class="warning">
 
-This route does not care about [_Nibiru, the Primal Being_], as High Garunix, Princess and High Kirin are already set up by the 5th summon. You just lose out on Sunlight Wolf's effect so you're no longer insulated from stuff like Kaijus removing High Garunix from the field.
+This route does not care about [_Nibiru, the Primal Being_], as High Garunix, Promethean Princess and High Kirin are already set up by the 5th summon. You just lose out on Sunlight Wolf's effect so you're no longer insulated from stuff like Kaijus removing High Garunix from the field.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
@@ -29,7 +29,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 7. Activate High Kirin - Special Summon Ulcanix from the GY.
 8. Activate Ulcanix - destroy High Garunix and add a second High Kirin from your Deck to your hand.
 9. Link Summon [_Promethean Princess, Bestower of Flames_].
-10. Activate Princess - Special Summon any FIRE monster from the GY.
+10. Activate Promethean Princess - Special Summon any FIRE monster from the GY.
 11. Link Summon [_Salamangreat Sunlight Wolf_].
 12. Pass turn.
 
