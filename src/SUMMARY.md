@@ -8,3 +8,5 @@
 - [Ponix + Ulcanix](combos/ponix/2-card-ulcanix.md)
 - [Ponix + Sacred](combos/ponix/2-card-sacred.md)
 - [Ponix + Island/Sanctuary](combos/ponix/2-card-sanctuary.md)
+# Ulcanix combos
+- [Ulcanix + any FIRE monster](combos/ulcanix/2-card-generic.md)
