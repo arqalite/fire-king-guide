@@ -1,6 +1,7 @@
-document
-    .getElementById('comboDropdown')
-    .addEventListener('change', function () {
+dropdown = document.getElementById('comboDropdown');
+
+if (dropdown != null) {
+    dropdown.addEventListener('change', function () {
         'use strict';
         var vis = document.querySelector('.vis'),
             target = document.getElementById(this.value);
@@ -11,3 +12,4 @@ document
             target.className = 'vis';
         }
     });
+}
