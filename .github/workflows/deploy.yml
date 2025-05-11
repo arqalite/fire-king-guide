@@ -1,8 +1,8 @@
-name: Deploy
+name: Deploy production site
 on:
   push:
-    branches:
-      - main
+    tags:        
+      - '*'
 
 jobs:
   deploy:
@@ -12,6 +12,9 @@ jobs:
       pages: write # To push to a GitHub Pages site
       id-token: write # To update the deployment status
     steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -27,6 +30,8 @@ jobs:
           sed -i 's/]: \//]: \/fire-king-guide\//g' src/common/links.md
           sed -i 's/href="\//href="\/fire-king-guide\//g' src/common/links.md
           sed -i 's/src="\//src="\/fire-king-guide\//g' src/common/links.md
+          sed -i "s#{VERSION}#${{ github.ref_name }}#g" src/cover-page.md
+          sed -i "s#{DATE}#${{ steps.date.outputs.date }}#g" src/cover-page.md
       - name: Build Book
         run: |
           # This assumes your book is in the root of your repository.
