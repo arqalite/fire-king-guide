@@ -1,4 +1,5 @@
 # Summary
+[Homepage](./cover-page.md)
 # Ponix combos
 - [Ponix](combos/ponix/1-card.md)
 - [Ponix + any FIRE Beast, Beast-Warrior or Winged Beast](combos/ponix/2-card-generic.md)
