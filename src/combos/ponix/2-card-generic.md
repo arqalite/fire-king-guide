@@ -7,7 +7,7 @@ Here is a generic combo that works with any FIRE Beast, Beast-Warrior or Winged 
 The goal is to set up the FK engine and end on a [_Promethean Princess, Bestower of Flames_] backed up by [_Fire King Avatar Arvata_].
 
 <center>
-<video controls>
+<br/><video controls>
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

@@ -3,7 +3,7 @@
 This is a slight variation on the earlier combo, giving up instant access to Hyang in order to set up a Sunlight Wolf recycle, while also triggering Sacred to set up Hyang.
 
 <center>
-<video controls>
+<br/><video controls>
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

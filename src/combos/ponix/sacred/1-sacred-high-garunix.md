@@ -7,7 +7,7 @@ Once Hyang hits the field, you can use High Kirin to destroy it, triggering its 
 Ulcanix and High Garunix are good options. The Ponix in your hand would chain to Hyang's effect, allowing you to add a [_Fire King Sky Burn_] to your hand. Ulcanix can then destroy Ponix or High Garunix (for turn 3 pressure) to add a Fire King to your hand, triggering Sacred in the process.
 
 <center>
-<video controls>
+<br/><video controls>
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

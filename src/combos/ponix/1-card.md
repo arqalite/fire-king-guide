@@ -5,7 +5,7 @@ The 1-card Ponix combo sets the foundation for all the other combos in this guid
 The goal is to get the Fire King engine started while also setting up a [_Garunix Eternity, Hyang of the Fire Kings_] on the opponent's turn.
 
 <center>
-<video controls>
+<br/><video controls>
   <source src="1-card.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
