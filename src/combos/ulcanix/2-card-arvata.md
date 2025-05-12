@@ -30,15 +30,15 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 8. Activate Sacred again - destroy [_Fire King High Avatar Kirin_] in your Deck.
 9. Activate High Kirin - Special Summon Arvata from the GY.
 10. Link Summon [_Salamangreat Sunlight Wolf_] using Sacred and High Garunix.
-11. Link Summon [_Relinquished Anima_] using Ponix, under Wolf's link.
-12. Activate Wolf - add High Kirin from the GY to your hand.
-13. Link Summon [_Promethean Princess, Bestower of Flames_] using Wolf and Anima.
+11. Link Summon [_Relinquished Anima_] using Ponix, under Sunlight Wolf's link.
+12. Activate Sunlight Wolf - add High Kirin from the GY to your hand.
+13. Link Summon [_Promethean Princess, Bestower of Flames_] using Sunlight Wolf and Anima.
 
 >   If your opponent decides to still activate Nibiru at the 5th summon (step 9), use Arvata's effect to negate it, then destroy Ponix - ensuring it will return to your hand in the next Standby Phase.
 >
-> An experienced opponent might use Nibiru after Anima is summoned and Wolf triggers (step 12) - in that case, you will not be able to climb into Promethean Princess, as Arvata is forced to destroy Wolf (unless you already have another FIRE monster in your hand). 
+> An experienced opponent might use Nibiru after Anima is summoned and Sunlight Wolf triggers (step 12) - in that case, you will not be able to climb into Promethean Princess, as Arvata is forced to destroy Sunlight Wolf (unless you already have another FIRE monster in your hand). 
 >
-> That said, you will still recover Kirin from the GY (Wolf CL1, Nibiru CL2, Arvata CL3), meaning Arvata remains live next turn, and you're able to get the interruption sequence started.
+> That said, you will still recover Kirin from the GY (Sunlight Wolf CL1, Nibiru CL2, Arvata CL3), meaning Arvata remains live next turn, and you're able to get the interruption sequence started.
 >
 > Lastly, if Nibiru hits after Princess is summoned, negate with Arvata and destroy Princess. This makes Princess live next turn at the cost of either Arvata's negate or Kirin's Quick Effect, meaning you don't lose out on much and should still have plenty of interruptions for your opponent.
 

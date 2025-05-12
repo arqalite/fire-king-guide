@@ -29,15 +29,15 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 7. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
 8. Link Summon [_Salamangreat Sunlight Wolf_] using Sacred and Ponix.
 9. Activate Island - destroy Ulcanix, then add [_Fire King Avatar Arvata_] from your Deck to your hand.
-10. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck, under Wolf's link.
-11. Activate Wolf - add High Kirin from the GY to your hand.
+10. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck, under Sunlight Wolf's link.
+11. Activate Sunlight Wolf - add High Kirin from the GY to your hand.
 
-> You can leave the board as it is to get another cheap recycle on the opponent's turn, by summoning High Kirin or even [_Garunix Eternity, Hyang of the Fire Kings_] underneath Wolf. 
+> You can leave the board as it is to get another cheap recycle on the opponent's turn, by summoning High Kirin or even [_Garunix Eternity, Hyang of the Fire Kings_] underneath Sunlight Wolf. 
 >
 > Or you can further extend this board by summoning [_Promethean Princess, Bestower of Flames_], as long as you keep in mind you are now vulnerable to Nibiru. 
 >
 > Promethean Princess gives you multiple options:
->   - Summon Wolf underneath the other Extra Monster Zone.
+>   - Summon Sunlight Wolf underneath the other Extra Monster Zone.
 >   - Summon High Garunix (or Sacred, if you need it) for Hyang material, or to setup a future board wipe.
 >   - Summon Ponix to get him back to your hand during your turn again.
 >   - Summon anything and Link Summon [_Hiita the Fire Charmer, Ablaze_], ensuring Princess is in the GY, ready to interrupt your opponent.
