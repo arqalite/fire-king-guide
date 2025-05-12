@@ -1,6 +1,6 @@
 # Ulcanix + Sacred
 
-By starting with [_Sacred Fire King Garunix_] in our hand, you can use your [_Fire King Island_] search on [_Fire King High Avatar Kirin_] or [_Fire King Avatar Arvata_] instead, giving you additional utility that you wouldn't really have otherwise.
+By starting with [_Sacred Fire King Garunix_] in your hand, you can use your [_Fire King Island_] search on [_Fire King High Avatar Kirin_] or [_Fire King Avatar Arvata_] instead, giving you additional utility that you wouldn't really have otherwise.
 
 There are four lines to pick from, depending on your situation:
 
