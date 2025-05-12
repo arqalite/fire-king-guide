@@ -40,6 +40,6 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 >   - Summon Sunlight Wolf underneath the other Extra Monster Zone.
 >   - Summon High Garunix (or Sacred, if you need it) for Hyang material, or to setup a future board wipe.
 >   - Summon Ponix to get him back to your hand during your turn again.
->   - Summon anything and Link Summon [_Hiita the Fire Charmer, Ablaze_], ensuring Princess is in the GY, ready to interrupt your opponent.
+>   - Summon anything and Link Summon [_Hiita the Fire Charmer, Ablaze_], ensuring Promethean Princess is in the GY, ready to interrupt your opponent.
 
 {{#include ../../common/links.md}}
