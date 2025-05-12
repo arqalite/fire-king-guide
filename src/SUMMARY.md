@@ -13,3 +13,4 @@
 - [Ulcanix + Ponix](combos/ulcanix/2-card-ponix.md)
 - [Ulcanix + Arvata](combos/ulcanix/2-card-arvata.md)
 - [Ulcanix + High Garunix](combos/ulcanix/2-card-high-garunix.md)
+- [Ulcanix + Sacred](combos/ulcanix/2-card-sacred.md)
