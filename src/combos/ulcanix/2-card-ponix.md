@@ -1,6 +1,8 @@
 # Ulcanix + Ponix
 
-We can take advantage of the fact that Ponix is already in our hand
+You can take advantage of the fact that [_Legendary Fire King Ponix_] is already in your hand, and choose to grab [_Sacred Fire King Garunix_] instead.
+
+This allows you to end on [_Salamangreat Sunlight Wolf_] and [_Fire King High Avatar Garunix_], recycling a [_Fire King High Avatar Kirin_] back to your hand.
 
 <center>
 <br/><video controls>
@@ -30,14 +32,14 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 10. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck, under Wolf's link.
 11. Activate Wolf - add High Kirin from the GY to your hand.
 
-> You can leave the board as it is to get another cheap add-back on the opponent's turn, by summoning High Kirin or even Hyang underneath Wolf. 
+> You can leave the board as it is to get another cheap recycle on the opponent's turn, by summoning High Kirin or even [_Garunix Eternity, Hyang of the Fire Kings_] underneath Wolf. 
 >
-> Or, you can further extend this board by summoning [_Promethean Princess, Bestower of Flames_], as long as you keep in mind High Garunix was already the 5th summon, so you are vulnerable to Nibiru. 
+> Or you can further extend this board by summoning [_Promethean Princess, Bestower of Flames_], as long as you keep in mind you are now vulnerable to Nibiru. 
 >
-> Princess gives you multiple options:
->   - Summon Wolf underneath the other EMZ.
+> Promethean Princess gives you multiple options:
+>   - Summon Wolf underneath the other Extra Monster Zone.
 >   - Summon High Garunix (or Sacred, if you need it) for Hyang material, or to setup a future board wipe.
 >   - Summon Ponix to get him back to your hand during your turn again.
->   - Summon anything and Link Summon [_Hiita the Fire Charmer, Ablaze_], ensuring Princess is in the GY and her effect is live.
+>   - Summon anything and Link Summon [_Hiita the Fire Charmer, Ablaze_], ensuring Princess is in the GY, ready to interrupt your opponent.
 
 {{#include ../../common/links.md}}
