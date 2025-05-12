@@ -13,7 +13,7 @@ By destroying her with the [_Fire King High Avatar Kirin_] in your hand, you get
 
 <div class="warning">
 
-This route does not care about [_Nibiru, the Primal Being_]. While we summon 5 times, we want Promethean Princess in the GY anyway, so we just skip destroying her with High Kirin. Instead, to start the interruption sequence, we destroy the Ponix we just retrieved from the GY.
+This route does not care about [_Nibiru, the Primal Being_]. While you do summon 5 times, you want Promethean Princess in the GY anyway, so you can just skip destroying her with High Kirin. Instead, to start the interruption sequence, destroy the Ponix you just retrieved from the GY.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
