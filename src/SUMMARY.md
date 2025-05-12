@@ -10,6 +10,7 @@
 - [Ponix + Island/Sanctuary](combos/ponix/2-card-sanctuary.md)
 # Ulcanix combos
 - [Ulcanix + any FIRE monster](combos/ulcanix/2-card-generic.md)
+- [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast](combos/ulcanix/2-card-tri-beast.md)
 - [Ulcanix + Ponix](combos/ulcanix/2-card-ponix.md)
 - [Ulcanix + Arvata](combos/ulcanix/2-card-arvata.md)
 - [Ulcanix + High Garunix](combos/ulcanix/2-card-high-garunix.md)
