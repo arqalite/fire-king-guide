@@ -42,4 +42,4 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 >   - Summon Sunlight Wolf underneath the other Extra Monster Zone.
 >   - Summon Ponix to get it back to your hand during your next Standby Phase, by using it as fodder for Arvata's negate or Kirin's Quick Effect during the opponent's turn.
 >   - Summon High Garunix (or Sacred, if you need it) for Hyang material, or to setup a future board wipe.
->   - Summon anything and Link Summon [_Hiita the Fire Charmer, Ablaze_], ensuring Princess is in the GY, ready to interrupt your opponent.
+>   - Summon anything and Link Summon [_Hiita the Fire Charmer, Ablaze_], ensuring Promethean Princess is in the GY, ready to interrupt your opponent.
