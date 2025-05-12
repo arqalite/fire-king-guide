@@ -12,3 +12,4 @@
 - [Ulcanix + any FIRE monster](combos/ulcanix/2-card-generic.md)
 - [Ulcanix + Ponix](combos/ulcanix/2-card-ponix.md)
 - [Ulcanix + Arvata](combos/ulcanix/2-card-arvata.md)
+- [Ulcanix + High Garunix](combos/ulcanix/2-card-high-garunix.md)
