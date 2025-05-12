@@ -1,8 +1,8 @@
 ### Promethean Princess setup (with Ponix + High Kirin in your hand)
 
-If [_Mulcharmy Fuwalos_] isn't a concern, or you're low on non-engine, you can extend the previous combo a little by Link Summoning [_Promethean Princess, Bestower of Flames_].
+You can extend the previous combo a little by Link Summoning [_Promethean Princess, Bestower of Flames_].
 
-By destroying her with the [_Fire King High Avatar Kirin_] in your hand, you get an additional interruption via her GY effect ready to use whenever you need it.
+By destroying her with the [_Fire King High Avatar Kirin_] in your hand, you get an additional interruption ready to use whenever you need it.
 
 <center>
 <br/><video controls>
