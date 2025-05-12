@@ -32,11 +32,11 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4-5 cards.
 8. Activate High Kirin - Special Summon Arvata from the GY.
 9. Link Summon [_Salamangreat Sunlight Wolf_] using Almiraj and Sacred.
 10. Link Summon [_Relinquished Anima_] using Ponix.
-11. Activate Wolf - add High Kirin from the GY to your hand.
-12. Link Summon [_Promethean Princess, Bestower of Flames_] using Wolf and Anima.
+11. Activate Sunlight Wolf - add High Kirin from the GY to your hand.
+12. Link Summon [_Promethean Princess, Bestower of Flames_] using Sunlight Wolf and Anima.
 
 Note you haven't used Promethean Princess' effect yet - this gives you the following options:
-- Special Summon Wolf under the other Extra Monster Zone, forcing opponents on Link decks to let you recover another card from the GY (or try to play around it).
+- Special Summon Sunlight Wolf under the other Extra Monster Zone, forcing opponents on Link decks to let you recover another card from the GY (or try to play around it).
 - Special Summon Ponix, which can be used by Arvata, High Kirin or Promethean Princess' effects, or can just be destroyed by Hyang so it returns to your hand next turn.
 - Special Summon Almiraj, in some niche applications where you need to protect Arvata/Promethean Princess from being destroyed by your opponent.
 
