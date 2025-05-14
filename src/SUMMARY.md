@@ -16,3 +16,6 @@
 - [Ulcanix + Arvata](combos/ulcanix/12_2-card-arvata.md)
 - [Ulcanix + High Garunix](combos/ulcanix/13_2-card-high-garunix.md)
 - [Ulcanix + Sacred](combos/ulcanix/14_2-card-sacred.md)
+
+# Sanctuary combos
+- [Sanctuary + any Normal Summoned monster with 1000 or less ATK](combos/sanctuary/2-card-almiraj.md)
