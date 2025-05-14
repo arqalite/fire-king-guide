@@ -1,10 +1,10 @@
 ### Promethean Princess + Arvata setup (with High Kirin in your hand)
 
-This line goes all the way and combos up to a [_Promethean Princess, Bestower of Flames_] backed up by [_Fire King Avatar Arvata_], while also recycling a [_Fire King High Avatar Kirin_] with [_Salamangreat Sunlight Wolf_].
+Lastly, you can put it all together and combo up to a [_Promethean Princess, Bestower of Flames_] backed up by [_Fire King Avatar Arvata_], while also recycling a [_Fire King High Avatar Kirin_] with [_Salamangreat Sunlight Wolf_].
 
 It's a very powerful route, but it comes at the cost of giving 4 draws under [_Mulcharmy Fuwalos_], so be sure it's out of the picture before committing.
 
-> You can theoretically skip the Sunlight Wolf recycle and go straight for Promethean Princess if you want, thus only giving 2 draws under Fuwalos. Keep that in mind as you weigh your options.
+> You can skip the Sunlight Wolf recycle and go straight for Promethean Princess if you want, thus only giving 2 draws under Fuwalos. Keep that in mind as you weigh your options.
 
 <center>
 <br/><video controls>
