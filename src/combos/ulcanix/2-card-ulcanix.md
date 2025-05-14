@@ -1,8 +1,8 @@
 # Ulcanix + Ulcanix
 
-Opening two copies of [_Fire King Courtier Ulcanix_] honestly isn't the best.
+Opening two copies of [_Fire King Courtier Ulcanix_] is not ideal, but you still have options.
 
-One option available is to give up [_Fire King Sanctuary_] and end on [_Promethean Princess, Bestower of Flames_] plus [_Fire King Avatar Arvata_], similarly to the [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast] line. 
+One such option is to skip [_Legendary Fire King Ponix_] and end on [_Promethean Princess, Bestower of Flames_] plus [_Fire King Avatar Arvata_], similarly to the [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast] line. 
 
 Alternatively, you can end on a [_Salamangreat Sunlight Wolf_], using [_Fire King High Avatar Garunix_]'s effect to trigger it and recover a card from the GY.
 
