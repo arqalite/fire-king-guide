@@ -1,8 +1,10 @@
 # Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast
 
-By giving up access to [_Legendary Fire King Ponix_], [_Fire King Sanctuary_] and [_Fire King Island_], you can reach [_Promethean Princess, Bestower of Flames_] plus [_Fire King Avatar Arvata_] with any Fire King (or any FIRE Beast, Beast-Warrior or Winged Beast for that matter), while still playing under [_Nibiru, the Primal Being_]'s 5 summon threshold.
+Most of the time, you're inclined to grab [_Legendary Fire King Ponix_] off Ulcanix's effect. However, skipping Ponix (and thus, giving up access to [_Fire King Sanctuary_] and [_Fire King Island_]) has considerable benefits.
 
-This can be preferable when you really need a monster negate and could do without [_Garunix Eternity, Hyang of the Fire Kings_]'s board clear, and it really shines when you have a lot of non-engine to back this board up.
+By grabbing [_Sacred Fire King Garunix_] directly, you're able to end on the usual [_Promethean Princess, Bestower of Flames_] backed up by [_Fire King Avatar Arvata_] board, while playing around [_Nibiru, the Primal Being_] and [_Droll & Lock Bird_].
+
+This does mean your most important interruption - [_Garunix Eternity, Hyang of the Fire Kings_] - is inaccessible during your opponent's turn. As such, this line really shines when you have a lot of non-engine to back this board up.
 
 <center>
 <br/><video controls>
