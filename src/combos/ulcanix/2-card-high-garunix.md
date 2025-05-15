@@ -34,8 +34,8 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 12. Pass turn.
 
 ##### Opponent's turn
-12. In the Standby Phase, activate High Garunix - Special Summon it from the GY.
-13. Activate High Garunix again - destroy all other monsters on the field.
+13. In the Standby Phase, activate High Garunix - Special Summon it from the GY.
+14. Activate High Garunix again - destroy all other monsters on the field.
 
 > If the duel lasts until turn 3, remember to activate Ponix's effect in the Standby Phase so it returns to your hand.
 
