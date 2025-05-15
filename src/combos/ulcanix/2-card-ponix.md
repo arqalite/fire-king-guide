@@ -13,7 +13,7 @@ This allows you to end on [_Salamangreat Sunlight Wolf_] and [_Fire King High Av
 
 <div class="warning">
 
-This combo, up to step 11, does not care about [_Nibiru, the Primal Being_]. Caution is advised if you choose to extend further.
+This combo plays safely into [_Nibiru, the Primal Being_].
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
