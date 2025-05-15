@@ -30,13 +30,12 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 8. Activate Sacred again - destroy [_Fire King Avatar Arvata_] in your Deck.
 9. Activate Arvata - Special Summon Ponix from the GY.
 10. Link Summon [_Promethean Princess, Bestower of Flames_].
-11. Activate Promethean Princess - Special Summon Ponix from the GY.
+11. Activate Promethean Princess - Special Summon Arvata from the GY.
 12. Pass turn.
 
 ##### Opponent's turn
 13. In the Standby Phase, activate High Garunix - Special Summon it from the GY.
 14. Activate High Garunix again - destroy all other monsters on the field.
-
-> If the duel lasts until turn 3, remember to activate Ponix's effect in the Standby Phase so it returns to your hand.
+15. Activate Arvata - Special Summon Ponix from the GY.
 
 {{#include ../../common/links.md}}
