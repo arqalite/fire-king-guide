@@ -20,3 +20,4 @@
 # Sanctuary combos
 - [Sanctuary + any Normal Summoned monster with 1000 or less ATK](combos/sanctuary/2-card-almiraj.md)
 - [Sanctuary + any FIRE monster](combos/sanctuary/2-card-generic.md)
+- [Sanctuary + Ponix](combos/sanctuary/2-card-ponix.md)
