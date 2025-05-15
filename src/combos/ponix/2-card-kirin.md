@@ -19,7 +19,7 @@ Let's see it in action.
 
 <div class="warning">
 
-This route plays under [_Nibiru, the Primal Being_] as you only summon four times.
+This route plays under [_Nibiru, the Primal Being_], as you only summon 4 times.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
