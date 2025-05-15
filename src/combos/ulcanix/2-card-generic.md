@@ -32,6 +32,6 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 10. Pass turn.
 
 ##### Opponent's turn
-9. In the Standby Phase, activate Ponix - add it from the GY to your hand.
+11. In the Standby Phase, activate Ponix - add it from the GY to your hand.
 
 {{#include ../../common/links.md}}
