@@ -15,7 +15,7 @@ This does mean your most important interruption - [_Garunix Eternity, Hyang of t
 
 <div class="warning">
 
-This route stops [_Nibiru, the Primal Being_], as Arvata is on the field by the 5th summon. Destroying Promethean Princess is perfectly fine here, as you want her in the GY anyway.
+This route stops [_Nibiru, the Primal Being_], as Arvata is on the field by the 5th summon.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 

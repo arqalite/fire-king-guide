@@ -13,7 +13,7 @@ The goal is to get the Fire King engine going, then summon [_Promethean Princess
 
 <div class="warning">
 
-This combo plays safely into [_Nibiru, the Primal Being_], as Promethean Princess is the 5th summon, and you want her in the GY. High Garunix will return from the GY in the Standby Phase and remove both Nibiru and its token, as well.
+This combo plays safely into [_Nibiru, the Primal Being_], as Promethean Princess is the 5th summon. High Garunix will return from the GY in the Standby Phase and remove both Nibiru and its token, as well.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
