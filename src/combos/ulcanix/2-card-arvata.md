@@ -34,12 +34,21 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 12. Activate Sunlight Wolf - add High Kirin from the GY to your hand.
 13. Link Summon [_Promethean Princess, Bestower of Flames_] using Sunlight Wolf and Anima.
 
+> You can further extend this board by using Promethean Princess' effect, which gives you multiple options:
+>   - Summon Sunlight Wolf underneath the other Extra Monster Zone.
+>   - Summon High Garunix (or Sacred, if you need it) for Hyang material, or to setup a future board wipe.
+>   - Summon Ponix to get him back to your hand during your turn again.
+>   - Summon anything and Link Summon [_Hiita the Fire Charmer, Ablaze_], ensuring Promethean Princess is in the GY, ready to interrupt your opponent.
+
+
+<!-- > Remember you're past Nibiru's 5 summon threshold though!
+>
 >   If your opponent decides to still activate Nibiru at the 5th summon (step 9), use Arvata's effect to negate it, then destroy Ponix - ensuring it will return to your hand in the next Standby Phase.
 >
 > An experienced opponent might use Nibiru after Anima is summoned and Sunlight Wolf triggers (step 12) - in that case, you will not be able to climb into Promethean Princess, as Arvata is forced to destroy Sunlight Wolf (unless you already have another FIRE monster in your hand). 
 >
 > That said, you will still recover Kirin from the GY (Sunlight Wolf CL1, Nibiru CL2, Arvata CL3), meaning Arvata remains live next turn, and you're able to get the interruption sequence started.
 >
-> Lastly, if Nibiru hits after Promethean Princess is summoned, negate with Arvata and destroy Promethean Princess. This makes her live next turn at the cost of either Arvata's negate or Kirin's Quick Effect, meaning you don't lose out on much and should still have plenty of interruptions for your opponent.
+> Lastly, if Nibiru hits after Promethean Princess is summoned, negate with Arvata and destroy Promethean Princess. This makes her live next turn at the cost of either Arvata's negate or Kirin's Quick Effect, meaning you don't lose out on much and should still have plenty of interruptions for your opponent. -->
 
 {{#include ../../common/links.md}}
