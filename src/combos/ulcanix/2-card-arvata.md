@@ -11,7 +11,7 @@ Opening [_Fire King Avatar Arvata_] alongside Ulcanix allows you to insulate you
 
 <div class="warning">
 
-This combo stops [_Nibiru, the Primal Being_], as Arvata is the 5th summon exactly.
+This route stops [_Nibiru, the Primal Being_], as Arvata is the 5th summon.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 

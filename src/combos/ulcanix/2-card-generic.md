@@ -13,7 +13,7 @@ As such, the basic combo ends on a similar result as the [1-card Ponix] combo: 2
 
 <div class="warning">
 
-This combo plays under [_Nibiru, the Primal Being_], as you only summon 4 times.
+This route plays under [_Nibiru, the Primal Being_], as you only summon 4 times.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 

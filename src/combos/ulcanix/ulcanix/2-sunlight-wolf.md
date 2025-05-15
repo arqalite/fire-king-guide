@@ -11,13 +11,13 @@ That said, you're no longer able to reach Promethean Princess anymore without pl
 </video>
 </center>
 
-<!-- <div class="warning">
+<div class="warning">
 
-This route stops [_Nibiru, the Primal Being_], as Arvata is on the field by the 5th summon. Destroying Promethean Princess is perfectly fine here, as you want her in the GY anyway.
+This route does not play into [_Nibiru, the Primal Being_], as you only summon 4 times.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
-</div> -->
+</div>
 
 #### Steps
 1. Normal Summon [_Fire King Courtier Ulcanix_].

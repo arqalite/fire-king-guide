@@ -15,7 +15,7 @@ It's a very powerful route, but it comes at the cost of giving 4 draws under [_M
 
 <div class="warning">
 
-This route stops [_Nibiru, the Primal Being_], as Arvata is on the field by the 5th summon. However, you'll be forced to destroy Sunlight Wolf if you don't have another FIRE in your hand, so be careful!
+This route stops [_Nibiru, the Primal Being_], as Arvata is the 5th summon. However, you'll be forced to destroy Sunlight Wolf if you don't have another FIRE in your hand, so be careful!
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 
