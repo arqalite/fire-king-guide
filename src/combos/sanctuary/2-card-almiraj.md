@@ -17,6 +17,8 @@ This route plays under [_Nibiru, the Primal Being_] as you only summon four time
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
+Additionally, this route plays through [_Droll & Lock Bird_].
+
 </div>
 
 #### Steps
