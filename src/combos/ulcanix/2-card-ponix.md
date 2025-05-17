@@ -35,9 +35,10 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 > You can leave the board as it is to get another cheap recycle on the opponent's turn, by summoning High Kirin or even [_Garunix Eternity, Hyang of the Fire Kings_] underneath Sunlight Wolf. 
 >
 > Or you can further extend this board by summoning [_Promethean Princess, Bestower of Flames_], giving you multiple options:
->   - Summon Sunlight Wolf underneath the other Extra Monster Zone.
+>   - Summon Sunlight Wolf under the other Extra Monster Zone, forcing opponents on Link decks to let you recover another card from the GY (or try to play around it).
 >   - Summon High Garunix (or Sacred, if you need it) for Hyang material, or to setup a future board wipe.
->   - Summon Ponix to get him back to your hand during your turn again.
+>   - Summon Ponix, which can be used by High Kirin or Promethean Princess' effects, or can just be destroyed by Hyang so it returns to your hand next turn.
 >   - Summon anything and Link Summon [_Hiita the Fire Charmer, Ablaze_], ensuring Promethean Princess is in the GY, ready to interrupt your opponent.
+
 
 {{#include ../../common/links.md}}
