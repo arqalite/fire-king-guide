@@ -27,7 +27,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
     - CL2: Activate Ulcanix in GY - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 4. Activate Ponix again - add [_Fire King Sanctuary_] from your Deck to your hand.
 5. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
-6. Activate Island - destroy Ulcanix, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
+6. Activate Island - destroy High Garunix, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 7. <span style="color:darkorange;"><b>Do not activate Sacred's effect here!</b></span>  Instead, Link Summon [_Salamangreat Sunlight Wolf_].
 8. Pass turn.
 
