@@ -38,8 +38,9 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 12. Activate Sunlight Wolf - add High Kirin from the GY to your hand.
 13. Link Summon [_Promethean Princess, Bestower of Flames_] using Sunlight Wolf and Anima.
 
-> Here, Promethean Princess gives you multiple options:
->   - Summon Sunlight Wolf underneath the other Extra Monster Zone.
->   - Summon Ponix to get it back to your hand during your next Standby Phase, by using it as fodder for Arvata's negate or Kirin's Quick Effect during the opponent's turn.
+> You can further extend this board by using Promethean Princess' effect, giving you multiple options:
+>   - Summon Sunlight Wolf under the other Extra Monster Zone, forcing opponents on Link decks to let you recover another card from the GY (or try to play around it).
 >   - Summon High Garunix (or Sacred, if you need it) for Hyang material, or to setup a future board wipe.
->   - Summon anything and Link Summon [_Hiita the Fire Charmer, Ablaze_], ensuring Promethean Princess is in the GY, ready to interrupt your opponent.
+>   - Summon Ponix, which can be used by Arvata, High Kirin or Promethean Princess' effects, or can just be destroyed by Hyang so it returns to your hand next turn.
+>
+> Alternatively, you can Link Summon [_Hiita the Fire Charmer, Ablaze_] using Promethean Princess and any Special Summoned monster, setting up Promethean Princess in the GY while still keeping Arvata online.
