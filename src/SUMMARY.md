@@ -18,6 +18,6 @@
 - [Ulcanix + Sacred](combos/ulcanix/14_2-card-sacred.md)
 
 # Sanctuary combos
-- [Sanctuary + any Normal Summoned monster with 1000 or less ATK](combos/sanctuary/2-card-almiraj.md)
-- [Sanctuary + any FIRE monster](combos/sanctuary/2-card-generic.md)
-- [Sanctuary + Ponix](combos/sanctuary/2-card-ponix.md)
+- [Sanctuary + any Normal Summoned monster with 1000 or less ATK](combos/sanctuary/15-sanctuary-almiraj.md)
+- [Sanctuary + any FIRE monster](combos/sanctuary/16-sanctuary-fire.md)
+- [Sanctuary + Ponix](combos/sanctuary/17-sanctuary-ponix.md)
