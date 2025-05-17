@@ -1,29 +1,35 @@
 # Ulcanix + Ulcanix
 
-Opening two copies of [_Fire King Courtier Ulcanix_] is not ideal, but you still have options.
+Opening two copies of [_Fire King Courtier Ulcanix_] is not ideal, but you still have a line.
 
-One such option is to skip [_Legendary Fire King Ponix_] and end on [_Promethean Princess, Bestower of Flames_] plus [_Fire King Avatar Arvata_], similarly to the [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast] line. 
+Similarly to the [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast] combo, you can skip [_Legendary Fire King Ponix_] and end on [_Promethean Princess, Bestower of Flames_] plus [_Fire King Avatar Arvata_], 
 
-Alternatively, you can end on a [_Salamangreat Sunlight Wolf_], using [_Fire King High Avatar Garunix_]'s effect to trigger it and recover a card from the GY.
+One neat thing is that you can use Ulcanix's effect to chainblock [_Sacred Fire King Garunix_], ensuring Sacred cannot be hit by a [_Dominus Impulse_] or any kind of interruption that would end your turn right there.
 
-<form autocomplete="off">
-    <select id="comboDropdown">
-        <option selected>Select the endboard and route below:</option>
-        <option value="princess-arvata">1) Promethean Princess + Arvata setup (without Sanctuary)</option>
-        <option value="sunlight-wolf">2) Sunlight Wolf setup</option>
-    </select>
-</form>
+<center>
+<br/><video controls>
+  <source src="2-card-generic.mp4" type="video/mp4">
+  Your browser does not support the MP4 format, or the &lt;video&gt; tag.
+</video>
+</center>
 
-<div id="princess-arvata" class="inv">
+<div class="warning">
 
-{{#include ulcanix/1-princess-arvata.md}}
+This route stops [_Nibiru, the Primal Being_], as Arvata is the 5th summon.
 
-</div>
-<div id="sunlight-wolf" class="inv">
-
-{{#include ulcanix/2-sunlight-wolf.md}}
+Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 </div>
+
+#### Steps
+1. Normal Summon [_Fire King Courtier Ulcanix_].
+2. Activate Ulcanix - destroy the 2nd Ulcanix in your hand, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
+3. A chain forms:
+    - CL1: Activate Sacred - Special Summon it from your hand.
+    - CL2: Activate the Ulcanix in GY - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
+4. Activate Sacred again - destroy [_Fire King Avatar Arvata_] in your Deck.
+5. <span style="color:darkorange;"><b>Do not activate Arvata's effect here!</b></span> Instead, Link Summon [_Promethean Princess, Bestower of Flames_].
+6. Activate Promethean Princess - Special Summon Arvata from the GY.
 
 [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast]: ./2-card-tri-beast.md
 {{#include ../../common/links.md}}
