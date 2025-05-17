@@ -1,5 +1,6 @@
 # Summary
 [Homepage](./cover-page.md)
+
 # Ponix combos
 - [Ponix](combos/ponix/1_1-card.md)
 - [Ponix + any FIRE Beast, Beast-Warrior or Winged Beast](combos/ponix/2_2-card-generic.md)
@@ -8,6 +9,7 @@
 - [Ponix + Ulcanix](combos/ponix/5_2-card-ulcanix.md)
 - [Ponix + Sacred](combos/ponix/6_2-card-sacred.md)
 - [Ponix + Island/Sanctuary](combos/ponix/7_2-card-sanctuary.md)
+
 # Ulcanix combos
 - [Ulcanix + any FIRE monster](combos/ulcanix/8_2-card-generic.md)
 - [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast](combos/ulcanix/9_2-card-tri-beast.md)
@@ -21,3 +23,5 @@
 - [Sanctuary + any Normal Summoned monster with 1000 or less ATK](combos/sanctuary/15-sanctuary-almiraj.md)
 - [Sanctuary + any FIRE monster](combos/sanctuary/16-sanctuary-fire.md)
 - [Sanctuary + Ponix](combos/sanctuary/17-sanctuary-ponix.md)
+- [Sanctuary + Ulcanix](combos/sanctuary/18-sanctuary-ulcanix.md)
+- [Sanctuary + Sacred](combos/sanctuary/19-sanctuary-sacred.md)
