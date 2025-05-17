@@ -19,6 +19,8 @@ This route stops [_Nibiru, the Primal Being_], as Arvata is the 5th summon.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
+Additionally, this route plays through [_Droll & Lock Bird_].
+
 </div>
 
 #### Steps
