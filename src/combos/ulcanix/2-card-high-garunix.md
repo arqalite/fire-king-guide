@@ -30,12 +30,16 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 8. Activate Sacred again - destroy [_Fire King Avatar Arvata_] in your Deck.
 9. Activate Arvata - Special Summon Ponix from the GY.
 10. Link Summon [_Promethean Princess, Bestower of Flames_].
-11. Activate Promethean Princess - Special Summon Arvata from the GY.
-12. Pass turn.
+11. Pass turn.
+
 
 ##### Opponent's turn
-13. In the Standby Phase, activate High Garunix - Special Summon it from the GY.
-14. Activate High Garunix again - destroy all other monsters on the field.
-15. Activate Arvata - Special Summon Ponix from the GY.
+12. In the Standby Phase, activate High Garunix - Special Summon it from the GY.
+13. Activate High Garunix again - destroy all other monsters on the field.
+
+> Optionally, you can use Promethean Princess' effect after step 10 to Special Summon either Ponix or Arvata from the GY, and let them get destroyed by High Garunix to trigger their effects.
+>
+> Ponix would return to your hand in your Standby Phase, ensuring you have turn 3 follow-up, while Arvata would allow you to Special Summon something from the GY, helping you maintain board presence and/or Level 8 material for Sanctuary.
+
 
 {{#include ../../common/links.md}}
