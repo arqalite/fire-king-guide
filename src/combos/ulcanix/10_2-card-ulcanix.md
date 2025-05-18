@@ -1,8 +1,6 @@
 # Ulcanix + Ulcanix
 
-Opening two copies of [_Fire King Courtier Ulcanix_] is not ideal, but you still have a line.
-
-Similarly to the [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast] combo, you can skip [_Legendary Fire King Ponix_] and end on [_Promethean Princess, Bestower of Flames_] plus [_Fire King Avatar Arvata_], 
+Similarly to the [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast] combo, you can skip [_Legendary Fire King Ponix_] and end on [_Promethean Princess, Bestower of Flames_] plus [_Fire King Avatar Arvata_].
 
 One neat thing is that you can use Ulcanix's effect to chainblock [_Sacred Fire King Garunix_], ensuring Sacred cannot be hit by a [_Dominus Impulse_] or any kind of interruption that would end your turn right there.
 
@@ -18,6 +16,8 @@ One neat thing is that you can use Ulcanix's effect to chainblock [_Sacred Fire 
 This route stops [_Nibiru, the Primal Being_], as Arvata is the 5th summon.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
+
+Additionally, this route plays through [_Droll & Lock Bird_].
 
 </div>
 
