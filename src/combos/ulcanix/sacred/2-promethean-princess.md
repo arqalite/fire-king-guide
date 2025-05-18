@@ -36,7 +36,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 12. In the Standby Phase, activate Ponix - add it from the GY to your hand.
 
 > You can further extend this board by using Promethean Princess' effect, giving you multiple options:
+>
 >   - Summon High Garunix (or Sacred, if you need it) for Hyang material, or to setup a future board wipe.
 >   - Summon Ponix, which can be used by High Kirin or Promethean Princess' effects, or can just be destroyed by Hyang so it returns to your hand next turn.
->
-> Alternatively, you can Link Summon [_Hiita the Fire Charmer, Ablaze_] using Promethean Princess and any Special Summoned monster, setting up Promethean Princess in the GY.
+>   - Summon any FIRE monster, then Link Summon [_Hiita the Fire Charmer, Ablaze_] using Promethean Princess and the summoned monster, thus setting up Promethean Princess in the GY.

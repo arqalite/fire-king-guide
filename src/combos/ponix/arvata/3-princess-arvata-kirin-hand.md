@@ -36,8 +36,8 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4-5 cards.
 12. Link Summon [_Promethean Princess, Bestower of Flames_] using Sunlight Wolf and Anima.
 
 > You can further extend this board by using Promethean Princess' effect, giving you multiple options:
+>
 > - Special Summon Sunlight Wolf under the other Extra Monster Zone, forcing opponents on Link decks to let you recover another card from the GY (or try to play around it).
 > - Special Summon Ponix, which can be used by Arvata, High Kirin or Promethean Princess' effects, or can just be destroyed by Hyang so it returns to your hand next turn.
 > - Special Summon Almiraj, in some niche applications where you need to protect Arvata/Promethean Princess from being destroyed by your opponent.
->
-> Alternatively, you can Link Summon [_Hiita the Fire Charmer, Ablaze_] using Promethean Princess and any Special Summoned monster, setting up Promethean Princess in the GY while still keeping Arvata online.
+> - Summon any FIRE monster, then Link Summon [_Hiita the Fire Charmer, Ablaze_] using Promethean Princess and the summoned monster, thus setting up Promethean Princess in the GY while still keeping Arvata online.
