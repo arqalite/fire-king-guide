@@ -25,3 +25,6 @@
 - [Sanctuary + Ponix](combos/sanctuary/17-sanctuary-ponix.md)
 - [Sanctuary + Ulcanix](combos/sanctuary/18-sanctuary-ulcanix.md)
 - [Sanctuary + Sacred](combos/sanctuary/19-sanctuary-sacred.md)
+
+# Island combos
+- [Island + Ulcanix](combos/island/20-island-ulcanix.md)
