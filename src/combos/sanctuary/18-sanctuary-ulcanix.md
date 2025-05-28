@@ -8,7 +8,7 @@ This opening hand proves itself to be quite versatile, offering routes that set 
         <option value="ponix-ulcanix">1) Ponix + Ulcanix setup (with Sky Burn set)</option>
         <option value="arvata-ulcanix">2) Arvata + Ulcanix setup</option>
         <option value="princess-arvata">3) Promethean Princess + Arvata setup</option>
-        <option value="high-garunix">4) High Garunix setup (with Promethean Princess in GY, High Kirin in hand)</option>
+        <option value="high-garunix">4) High Garunix setup (with Promethean Princess in GY, Sky Burn set, High Kirin in hand)</option>
     </select>
 </form>
 
