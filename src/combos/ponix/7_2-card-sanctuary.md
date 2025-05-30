@@ -4,7 +4,7 @@ This hand allows you to start with either card, depending on what you want to ac
 
 Starting with [_Legendary Fire King Ponix_] can be preferable for two reasons:
 - If you get interrupted, that's one less interruption you have to worry about, as you already have [_Fire King Sanctuary_] and can proceed to combo as usual.
-- If Ponix's effect resolves, then you're able to grab [_Fire King Sky Burn_], giving you at least one additional interruption to your endboards.
+- If Ponix's effect resolves, you're able to grab [_Fire King Sky Burn_], giving you at least one additional interruption to your endboards.
 
 > That said, this approach is vulnerable to [_Droll & Lock Bird_] - you can play around that by [starting with Sanctuary].
 
