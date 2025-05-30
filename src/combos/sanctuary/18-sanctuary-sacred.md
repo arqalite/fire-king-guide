@@ -17,7 +17,7 @@ This route plays under [_Nibiru, the Primal Being_] as you only summon two times
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
-Additionally, this route plays through [_Droll & Lock Bird_].
+Additionally, this route does not trigger [_Droll & Lock Bird_].
 
 </div>
 
