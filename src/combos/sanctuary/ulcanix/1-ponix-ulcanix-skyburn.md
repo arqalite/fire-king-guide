@@ -1,4 +1,4 @@
-### Ponix + Ulcanix setup (with Sky Burn set)
+## Ponix + Ulcanix setup (with Sky Burn set)
 
 This route is the simplest, aiming to set up [_Fire King Sky Burn_] besides the usual Fire King engine.
 

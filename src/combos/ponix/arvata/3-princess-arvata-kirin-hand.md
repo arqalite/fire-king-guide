@@ -1,4 +1,4 @@
-### Promethean Princess + Arvata setup (with High Kirin in your hand, and a 3rd monster on the field)
+## Promethean Princess + Arvata setup (with High Kirin in your hand, and a 3rd monster on the field)
 
 Variating further on the previous line, you can instead opt to go for [_Salamangreat Sunlight Wolf_] and add High Kirin to your hand instead of summoning it to the field.
 

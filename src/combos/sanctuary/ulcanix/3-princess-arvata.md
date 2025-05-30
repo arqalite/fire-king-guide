@@ -1,4 +1,4 @@
-### Promethean Princess + Arvata setup
+## Promethean Princess + Arvata setup
 
 This route chooses to set up the usual [_Promethean Princess, Bestower of Flames_] + [_Fire King Avatar Arvata_] endboard, but starting with [_Fire King Sanctuary_] means this can now be performed through [_Droll & Lock Bird_].
 

@@ -1,4 +1,4 @@
-### Promethean Princess + Arvata setup (with Ulcanix in GY)
+## Promethean Princess + Arvata setup (with Ulcanix in GY)
 
 <center>
 <br/><video controls>

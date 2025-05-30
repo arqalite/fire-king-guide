@@ -1,4 +1,4 @@
-### Promethean Princess setup (with Ponix + High Kirin in your hand)
+## Promethean Princess setup (with Ponix + High Kirin in your hand)
 
 Instead of destroying the Ulcanix on your side of the field, you can opt to destroy a second copy in your Deck. This allows you to extend the previous combo a little by Link Summoning [_Promethean Princess, Bestower of Flames_]. 
 

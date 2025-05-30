@@ -1,4 +1,4 @@
-### Promethean Princess + Arvata setup (with High Kirin in your hand)
+## Promethean Princess + Arvata setup (with High Kirin in your hand)
 
 Lastly, you can put it all together and combo up to a [_Promethean Princess, Bestower of Flames_] backed up by [_Fire King Avatar Arvata_], while also recycling a [_Fire King High Avatar Kirin_] with [_Salamangreat Sunlight Wolf_].
 

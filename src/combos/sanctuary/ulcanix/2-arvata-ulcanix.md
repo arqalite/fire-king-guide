@@ -1,4 +1,4 @@
-### Arvata + Ulcanix setup
+## Arvata + Ulcanix setup
 
 Alternatively, you can opt to set up [_Fire King Avatar Arvata_] instead of [_Fire King Sky Burn_].
 

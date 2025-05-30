@@ -1,4 +1,4 @@
-### Sacred + High Garunix setup
+## Sacred + High Garunix setup
 
 This is a simpler setup that aims to set up [_Garunix Eternity, Hyang of the Fire Kings_] as soon as possible, which can be helpful against certain matchups where clearing their materials early can stop their plays.
 

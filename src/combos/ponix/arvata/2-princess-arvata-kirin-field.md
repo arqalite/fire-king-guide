@@ -1,4 +1,4 @@
-### Promethean Princess + Arvata + High Kirin setup
+## Promethean Princess + Arvata + High Kirin setup
 
 An alternative to the previous line is to instead destroy [_Fire King High Avatar Kirin_]. This still allows you to set up Promethean Princess + Arvata safely, but you also get High Kirin on the field. 
 

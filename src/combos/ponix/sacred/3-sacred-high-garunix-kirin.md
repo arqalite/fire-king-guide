@@ -1,4 +1,4 @@
-### Sacred + High Garunix + High Kirin (with Ulcanix in GY, Ponix in your hand)
+## Sacred + High Garunix + High Kirin (with Ulcanix in GY, Ponix in your hand)
 
 The goal of this line is to end on 2 Hyang materials + High Kirin, and let High Kirin get destroyed by Hyang, giving you a Special Summon and an extra pop. 
 

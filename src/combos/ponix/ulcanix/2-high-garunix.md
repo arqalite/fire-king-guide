@@ -1,4 +1,4 @@
-### High Garunix setup (with Promethean Princess + Ulcanix in GY, High Kirin in your hand)
+## High Garunix setup (with Promethean Princess + Ulcanix in GY, High Kirin in your hand)
 
 This is a cute line that ignores Nibiru entirely. you make full use of Ulcanix and High Garunix's effects to get a High Kirin + a FIRE target in your hand, and set up Promethean Princess in the GY, while still having a FIRE on the field so her effect is live.
 

@@ -1,4 +1,4 @@
-### Promethean Princess + Arvata setup (with Ulcanix in GY)
+## Promethean Princess + Arvata setup (with Ulcanix in GY)
 
 As Arvata is already in the GY at the time [_Sacred Fire King Garunix_] is summoned, you can deviate from the [generic 2-card Ponix] combo and destroy [_Fire King Courtier Ulcanix_] instead.
 

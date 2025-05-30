@@ -1,4 +1,4 @@
-### Arvata + Sunlight Wolf setup (with Ponix in your hand)
+## Arvata + Sunlight Wolf setup (with Ponix in your hand)
 
 Alternatively, you can end on a [_Salamangreat Sunlight Wolf_] with nothing under its link, backed up by a [_Fire King Avatar Arvata_].
 
