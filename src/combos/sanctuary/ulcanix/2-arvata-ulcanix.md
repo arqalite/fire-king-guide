@@ -25,3 +25,7 @@ Under [_Mulcharmy Fuwalos_], your opponent doesn't draw any cards.
 5. Activate High Kirin - Special Summon Ulcanix from the GY.
 6. Activate Ulcanix - destroy Sacred, then add [_Fire King Avatar Arvata_] from your Deck to your hand.
 7. Normal Summon Arvata.
+
+> It's necessary to destroy High Kirin from the Deck instead of [_Fire King Avatar Arvata_], in order to allow Ulcanix to use her effect.
+>
+> That said, High Kirin is not wasted - during the interruption sequence you can use Sacred's effect to destroy Arvata, then use Arvata to Special Summon High Kirin from the GY. You can later destroy him with [_Garunix Eternity, Hyang of the Fire Kings_], getting you another Special Summon plus the opportunity to destroy a card on the field.

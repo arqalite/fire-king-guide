@@ -27,3 +27,7 @@ Under [_Mulcharmy Fuwalos_], your opponent doesn't draw any cards.
 7. Activate Ponix - Special Summon it from your hand.
 8. Activate Ponix again - add [_Fire King Sky Burn_] from your Deck to your hand.
 9. Set Sky Burn.
+
+> It's necessary to destroy High Kirin from the Deck instead of [_Fire King Avatar Arvata_], in order to allow Ulcanix to use her effect.
+>
+> That said, High Kirin is not wasted - during the interruption sequence you can use Sacred's effect to destroy Arvata, then use Arvata to Special Summon High Kirin from the GY. You can later destroy him with [_Garunix Eternity, Hyang of the Fire Kings_], getting you another Special Summon plus the opportunity to destroy a card on the field.
