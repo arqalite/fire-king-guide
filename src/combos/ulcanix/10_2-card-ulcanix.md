@@ -21,7 +21,7 @@ Additionally, this route plays through [_Droll & Lock Bird_].
 
 </div>
 
-#### Steps
+### Steps
 1. Normal Summon [_Fire King Courtier Ulcanix_].
 2. Activate Ulcanix - destroy the 2nd Ulcanix in your hand, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 3. A chain forms:

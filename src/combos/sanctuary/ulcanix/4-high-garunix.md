@@ -17,7 +17,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 
 </div>
 
-#### Steps
+### Steps
 1. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
 2. Activate Island - destroy [_Fire King Courtier Ulcanix_], then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 3. A chain forms:

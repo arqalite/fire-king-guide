@@ -21,7 +21,7 @@ Additionally, this route does not trigger [_Droll & Lock Bird_].
 
 </div>
 
-#### Steps
+### Steps
 1. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
 2. Activate Island - Special Summon [_Sacred Fire King Garunix_] from your hand.
 3. Activate Sacred - destroy [_Fire King Courtier Ulcanix_] in your Deck.

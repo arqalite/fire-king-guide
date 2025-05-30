@@ -23,7 +23,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
 </div>
 
-#### Steps
+### Steps
 1. Normal Summon [_Legendary Fire King Ponix_].
 2. Activate Ponix - add [_Fire King Sky Burn_] from your Deck to your hand.
 3. Activate [_Fire King Sanctuary_] - place [_Fire King Island_] in the Field Zone.
