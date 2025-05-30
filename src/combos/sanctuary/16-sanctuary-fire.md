@@ -11,7 +11,7 @@ By already having a FIRE monster in your hand, we can perform the previous combo
 
 <div class="warning">
 
-This route plays under [_Nibiru, the Primal Being_] as you only summon three times.
+This route plays under [_Nibiru, the Primal Being_] as you only summon two times.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
