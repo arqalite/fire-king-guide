@@ -1,11 +1,41 @@
-# Ponix + Island/Sanctuary
+# Ponix + Sanctuary
 
-Opening [_Fire King Sanctuary_] directly gives you the opportunity to grab something else off [_Legendary Fire King Ponix_]'s effect - mainly [_Fire King Sky Burn_], which gives you at least one additional interruption to your endboards.
+This hand allows you to start with either card, depending on what you want to achieve. 
 
-Opening [_Fire King Island_] is not as fun, as you still need [_Fire King Sanctuary_], so Ponix will have to go towards that.
+Starting with [_Legendary Fire King Ponix_] can be preferable for two reasons:
+- If you get interrupted, that's one less interruption you have to worry about, as you already have [_Fire King Sanctuary_] and can proceed to combo as usual.
+- If Ponix's effect resolves, then you're able to grab [_Fire King Sky Burn_], giving you at least one additional interruption to your endboards.
 
-> When opening Ponix, Sanctuary and 3 non-engine, perform the [1-card Ponix] combo, using Ponix's effect to add Sky Burn to your hand instead of Sanctuary. The rest of the steps are the same.
->
-> You can use Sky Burn to pop Hyang after it wipes the board, if your opponent decides to keep playing. Hyang can then Special Summon 2 Fire Kings from the GY, allowing you to set up for next turn or interrupt your opponent further.
+> That said, this approach is vulnerable to [_Droll & Lock Bird_] - you can play around that by [starting with Sanctuary].
+
+<center>
+<br/><video controls>
+  <source src="ponix-sanctuary.mp4" type="video/mp4">
+  Your browser does not support the MP4 format, or the &lt;video&gt; tag.
+</video>
+</center>
+
+<div class="warning">
+
+This route plays under [_Nibiru, the Primal Being_], as you only summon 3 times.
+
+Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
+
+</div>
+
+#### Steps
+1. Normal Summon [_Legendary Fire King Ponix_].
+2. Activate Ponix - add [_Fire King Sky Burn_] from your Deck to your hand.
+3. Activate [_Fire King Sanctuary_] - place [_Fire King Island_] in the Field Zone.
+4. Activate Island - destroy Ponix, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
+5. Activate Sacred - Special Summon it from your hand.
+6. Activate Sacred again - destroy [_Fire King Courtier Ulcanix_] in your Deck.
+7. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
+8. Pass turn.
+
+##### Opponent's turn
+9. In the Standby Phase, activate Ponix - add it from the GY to your hand.
 
 {{#include ../../common/links.md}}
+
+[starting with Sanctuary]: ../sanctuary/17-sanctuary-ponix.md

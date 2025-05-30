@@ -8,7 +8,7 @@
 - [Ponix + Arvata](combos/ponix/4_2-card-arvata.md)
 - [Ponix + Ulcanix](combos/ponix/5_2-card-ulcanix.md)
 - [Ponix + Sacred](combos/ponix/6_2-card-sacred.md)
-- [Ponix + Island/Sanctuary](combos/ponix/7_2-card-sanctuary.md)
+- [Ponix + Sanctuary](combos/ponix/7_2-card-sanctuary.md)
 
 # Ulcanix combos
 - [Ulcanix + any FIRE monster](combos/ulcanix/8_2-card-generic.md)
