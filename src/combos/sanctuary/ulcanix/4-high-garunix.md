@@ -36,6 +36,6 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 14. Set Sky Burn.
 15. Pass turn.
 
-##### Opponent's turn
+#### Opponent's turn
 16. In the Standby Phase, activate High Garunix - Special Summon it from the GY,
 17. Activate High Garunix again - destroy all other monsters on the field.

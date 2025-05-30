@@ -32,7 +32,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 10. Link Summon [_Promethean Princess, Bestower of Flames_].
 11. Pass turn.
 
-##### Opponent's turn
+#### Opponent's turn
 12. In the Standby Phase, activate Ponix - add it from the GY to your hand.
 
 > You can further extend this board by using Promethean Princess' effect, giving you multiple options:

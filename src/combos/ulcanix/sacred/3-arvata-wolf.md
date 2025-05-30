@@ -32,7 +32,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 10. Link Summon [_Salamangreat Sunlight Wolf_] using Ulcanix and Sacred.
 11. Pass turn.
 
-##### Opponent's turn
+#### Opponent's turn
 12. In the Standby Phase, activate Ponix - add it from the GY to your hand.
 
 > Remember Sunlight Wolf's restriction - you are not able to Summon the card you recover with it for the rest of the turn. As such, look to add a card that doesn't need to be Summoned this turn or grab something that can help you prepare for your next turn.

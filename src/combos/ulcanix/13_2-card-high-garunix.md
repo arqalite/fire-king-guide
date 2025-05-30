@@ -33,7 +33,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 11. Pass turn.
 
 
-##### Opponent's turn
+#### Opponent's turn
 12. In the Standby Phase, activate High Garunix - Special Summon it from the GY.
 13. Activate High Garunix again - destroy all other monsters on the field.
 

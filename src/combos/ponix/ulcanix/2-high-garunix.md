@@ -33,7 +33,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 11. Link Summon [_Salamangreat Sunlight Wolf_].
 12. Pass turn.
 
-##### Opponent's turn
+#### Opponent's turn
 13. In the Standby Phase, activate High Garunix - Special Summon it from the GY, under Sunlight Wolf's link.
 14. A chain forms:
       - Activate High Garunix again - destroy all other monsters on the field.
