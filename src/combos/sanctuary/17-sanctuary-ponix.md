@@ -1,6 +1,10 @@
 # Sanctuary + Ponix
 
-> With this hand, you will almost always want to start with [_Legendary Fire King Ponix_] - opponents might try to stop its effect with a handtrap, which can give you the opportunity to combo safely with Sanctuary. 
+> This starting hand gives you a choice: 
+> - Start with [_Legendary Fire King Ponix_] and perform the [1-card Ponix] combo - opponents might try to stop its effect with a handtrap, which can give you the opportunity to combo safely with Sanctuary. However, if it goes through, you can get stopped by [_Droll & Lock Bird_].
+> - Start with Sanctuary in order to play around [_Droll & Lock Bird_], but you risk getting interrupted by other handtraps.
+>
+> Depending on the format and matchup, either option can be preferable.
 
 If you do decide to start with Sanctuary, the steps are the same as steps 3-9 of the [1-card Ponix] combo.
 
