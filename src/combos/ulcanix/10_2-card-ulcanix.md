@@ -23,13 +23,13 @@ Additionally, this route plays through [_Droll & Lock Bird_].
 
 #### Steps
 1. Normal Summon [_Fire King Courtier Ulcanix_].
-2. Activate Ulcanix - destroy the 2nd Ulcanix in your hand, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
+2. Activate Ulcanix: destroy the 2nd Ulcanix in your hand, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 3. A chain forms:
-    - CL1: Activate Sacred - Special Summon it from your hand.
-    - CL2: Activate the Ulcanix in GY - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
-4. Activate Sacred again - destroy [_Fire King Avatar Arvata_] in your Deck.
+    - CL1: Activate Sacred: Special Summon it from your hand.
+    - CL2: Activate the Ulcanix in GY: Special Summon [_Fire King High Avatar Garunix_] from your Deck.
+4. Activate Sacred again: destroy [_Fire King Avatar Arvata_] in your Deck.
 5. <span style="color:darkorange;"><b>Do not activate Arvata's effect here!</b></span> Instead, Link Summon [_Promethean Princess, Bestower of Flames_].
-6. Activate Promethean Princess - Special Summon Arvata from the GY.
+6. Activate Promethean Princess: Special Summon Arvata from the GY.
 
 [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast]: ./2-card-tri-beast.md
 {{#include ../../common/links.md}}

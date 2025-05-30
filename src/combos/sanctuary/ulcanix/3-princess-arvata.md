@@ -20,12 +20,12 @@ Additionally, this route plays through [_Droll & Lock Bird_].
 </div>
 
 #### Steps
-1. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
-2. Activate Island - destroy [_Fire King Courtier Ulcanix_], then add [_Sacred Fire King Garunix_] from your Deck to your hand.
+1. Activate Sanctuary: place [_Fire King Island_] in the Field Zone.
+2. Activate Island: destroy [_Fire King Courtier Ulcanix_], then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 3. A chain forms:
-    - CL1: Activate Sacred - Special Summon it from your hand.
-    - CL2: Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
-4. Activate Sacred again - destroy [_Fire King Avatar Arvata_] in your Deck.
-5. Activate Arvata - Special Summon Ulcanix from the GY.
+    - CL1: Activate Sacred: Special Summon it from your hand.
+    - CL2: Activate Ulcanix: Special Summon [_Fire King High Avatar Garunix_] from your Deck.
+4. Activate Sacred again: destroy [_Fire King Avatar Arvata_] in your Deck.
+5. Activate Arvata: Special Summon Ulcanix from the GY.
 6. Link Summon [_Promethean Princess, Bestower of Flames_].
-7. Activate Promethean Princess - Special Summon Arvata from the GY.
+7. Activate Promethean Princess: Special Summon Arvata from the GY.
