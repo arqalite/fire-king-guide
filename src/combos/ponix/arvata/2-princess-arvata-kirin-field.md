@@ -1,4 +1,4 @@
-### Promethean Princess + Arvata + High Kirin setup
+## Promethean Princess + Arvata + High Kirin setup
 
 An alternative to the previous line is to instead destroy [_Fire King High Avatar Kirin_]. This still allows you to set up Promethean Princess + Arvata safely, but you also get High Kirin on the field. 
 
@@ -21,7 +21,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 </div>
 
-#### Steps
+### Steps
 1. Normal Summon [_Legendary Fire King Ponix_].
 2. Activate Ponix - add [_Fire King Sanctuary_] from your Deck to your hand.
 3. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.

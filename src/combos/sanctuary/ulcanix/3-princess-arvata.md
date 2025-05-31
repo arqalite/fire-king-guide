@@ -1,6 +1,6 @@
-### Promethean Princess + Arvata setup
+## Promethean Princess + Arvata setup
 
-This route chooses set up the usual [_Promethean Princess, Bestower of Flames_] + [_Fire King Avatar Arvata_] endboard, but starting with [_Fire King Sanctuary_] means this can be achieved through [_Droll & Lock Bird_] without making any sacrifices.
+This route chooses to set up the usual [_Promethean Princess, Bestower of Flames_] + [_Fire King Avatar Arvata_] endboard, but starting with [_Fire King Sanctuary_] means this can now be performed through [_Droll & Lock Bird_].
 
 <center>
 <br/><video controls>
@@ -11,7 +11,7 @@ This route chooses set up the usual [_Promethean Princess, Bestower of Flames_] 
 
 <div class="warning">
 
-This route plays safely into [_Nibiru, the Primal Being_],
+This route plays safely into [_Nibiru, the Primal Being_].
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
@@ -19,8 +19,8 @@ Additionally, this route plays through [_Droll & Lock Bird_].
 
 </div>
 
-#### Steps
-1. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
+### Steps
+1. Activate [_Fire King Sanctuary_] - place [_Fire King Island_] in the Field Zone.
 2. Activate Island - destroy [_Fire King Courtier Ulcanix_], then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 3. A chain forms:
     - CL1: Activate Sacred - Special Summon it from your hand.

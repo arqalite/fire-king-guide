@@ -11,7 +11,7 @@ By already having a FIRE monster in your hand, we can perform the previous combo
 
 <div class="warning">
 
-This route plays under [_Nibiru, the Primal Being_] as you only summon three times.
+This route plays under [_Nibiru, the Primal Being_] as you only summon two times.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
@@ -19,8 +19,8 @@ Additionally, this route plays through [_Droll & Lock Bird_].
 
 </div>
 
-#### Steps
-1. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
+### Steps
+1. Activate [_Fire King Sanctuary_] - place [_Fire King Island_] in the Field Zone.
 2. Activate Island - destroy the FIRE monster in your hand, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 3. Activate Sacred - Special Summon it from your hand.
 4. Activate Sacred again - destroy [_Fire King Courtier Ulcanix_] in your Deck.

@@ -1,4 +1,4 @@
-### High Garunix setup (with Promethean Princess + Ulcanix in GY, High Kirin in your hand)
+## High Garunix setup (with Promethean Princess + Ulcanix in GY, High Kirin in your hand)
 
 This is a cute line that ignores Nibiru entirely. you make full use of Ulcanix and High Garunix's effects to get a High Kirin + a FIRE target in your hand, and set up Promethean Princess in the GY, while still having a FIRE on the field so her effect is live.
 
@@ -17,7 +17,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 </div>
 
-#### Steps
+### Steps
 1. Normal Summon [_Legendary Fire King Ponix_].
 2. Activate Ponix - add [_Fire King Sanctuary_] from your Deck to your hand.
 3. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
@@ -33,7 +33,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 11. Link Summon [_Salamangreat Sunlight Wolf_].
 12. Pass turn.
 
-##### Opponent's turn
+#### Opponent's turn
 13. In the Standby Phase, activate High Garunix - Special Summon it from the GY, under Sunlight Wolf's link.
 14. A chain forms:
       - Activate High Garunix again - destroy all other monsters on the field.

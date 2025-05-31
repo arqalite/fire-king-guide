@@ -1,8 +1,10 @@
 # Sanctuary + Ponix
 
-> With this hand, you will almost always want to start with [_Legendary Fire King Ponix_] - opponents might try to stop its effect with a handtrap, which can give you the opportunity to combo safely with Sanctuary. 
+This hand allows you to start with either card, depending on what you want to achieve.  
 
-If you do decide to start with Sanctuary, the steps are the same as steps 3-9 of the [1-card Ponix] combo.
+Going with [_Fire King Sanctuary_] allows you to play through [_Droll & Lock Bird_], which can be necessary in formats and matchups where it is seeing a lot of play.
+
+> If Droll isn't an issue, [starting with Ponix] allows you to bait out handtraps and search [_Fire King Sky Burn_].
 
 <center>
 <br/><video controls>
@@ -21,12 +23,17 @@ Additionally, this route plays through [_Droll & Lock Bird_].
 
 </div>
 
-#### Steps
-1. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
+### Steps
+1. Activate [_Fire King Sanctuary_] - place [_Fire King Island_] in the Field Zone.
 2. Activate Island - destroy Ponix, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 3. Activate Sacred - Special Summon it from your hand.
 4. Activate Sacred again - destroy [_Fire King Courtier Ulcanix_] in your Deck.
 5. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
+6. Pass turn.
+
+#### Opponent's turn
+7. In the Standby Phase, activate Ponix - add it from the GY to your hand.
 
 {{#include ../../common/links.md}}
 
+[starting with Ponix]: ../ponix/7_2-card-sanctuary.md

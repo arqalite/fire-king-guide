@@ -1,4 +1,4 @@
-### Sacred + High Garunix setup (with Ponix + High Kirin in your hand)
+## Sacred + High Garunix setup (with Ponix + High Kirin in your hand)
 
 This route plays a little lower to the ground, choosing to end on 2 Level 8s, ready to summon [_Garunix Eternity, Hyang of the Fire Kings_]. 
 
@@ -19,7 +19,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
 </div>
 
-#### Steps
+### Steps
 1. Normal Summon [_Fire King Courtier Ulcanix_].
 2. Activate Ulcanix - destroy [_Sacred Fire King Garunix_], then add [_Legendary Fire King Ponix_] from your Deck to your hand.
 3. Activate Ponix - Special Summon it from your hand.
@@ -31,5 +31,5 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 9. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 10. Pass turn.
 
-##### Opponent's turn
+#### Opponent's turn
 11. In the Standby Phase, activate Ponix - add it from the GY to your hand.

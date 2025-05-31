@@ -1,4 +1,4 @@
-### Arvata + Ulcanix setup
+## Arvata + Ulcanix setup
 
 Alternatively, you can opt to set up [_Fire King Avatar Arvata_] instead of [_Fire King Sky Burn_].
 
@@ -17,11 +17,15 @@ Under [_Mulcharmy Fuwalos_], your opponent doesn't draw any cards.
 
 </div>
 
-#### Steps
-1. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
+### Steps
+1. Activate [_Fire King Sanctuary_] - place [_Fire King Island_] in the Field Zone.
 2. Activate Island - destroy [_Fire King Courtier Ulcanix_], then add [_Sacred Fire King Garunix_] from your Deck to your hand.
-3. <span style="color:darkorange;"><b>Do not activate Ulcanix's effect here!</b></span> Instead, activate Sacred only- Special Summon it from your hand.
+3. <span style="color:darkorange;"><b>Do not activate Ulcanix's effect here!</b></span> Instead, activate Sacred only - Special Summon it from your hand.
 4. Activate Sacred again - destroy [_Fire King High Avatar Kirin_] in your Deck.
 5. Activate High Kirin - Special Summon Ulcanix from the GY.
 6. Activate Ulcanix - destroy Sacred, then add [_Fire King Avatar Arvata_] from your Deck to your hand.
 7. Normal Summon Arvata.
+
+> It's necessary to destroy High Kirin from the Deck instead of [_Fire King Avatar Arvata_], in order to allow Ulcanix to use her effect.
+>
+> That said, High Kirin is not wasted - during the interruption sequence you can use Sacred's effect to destroy Arvata, then use Arvata to Special Summon High Kirin from the GY. You can later destroy him with [_Garunix Eternity, Hyang of the Fire Kings_], getting you another Special Summon plus the opportunity to destroy a card on the field.

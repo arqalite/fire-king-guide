@@ -1,4 +1,4 @@
-### Arvata + Sunlight Wolf setup (with Ponix in your hand)
+## Arvata + Sunlight Wolf setup (with Ponix in your hand)
 
 Alternatively, you can end on a [_Salamangreat Sunlight Wolf_] with nothing under its link, backed up by a [_Fire King Avatar Arvata_].
 
@@ -19,7 +19,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
 </div>
 
-#### Steps
+### Steps
 1. Normal Summon [_Fire King Courtier Ulcanix_].
 2. Activate Ulcanix - destroy [_Sacred Fire King Garunix_], then add [_Legendary Fire King Ponix_] from your Deck to your hand.
 3. Activate Ponix - Special Summon it from your hand.
@@ -32,7 +32,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 10. Link Summon [_Salamangreat Sunlight Wolf_] using Ulcanix and Sacred.
 11. Pass turn.
 
-##### Opponent's turn
+#### Opponent's turn
 12. In the Standby Phase, activate Ponix - add it from the GY to your hand.
 
 > Remember Sunlight Wolf's restriction - you are not able to Summon the card you recover with it for the rest of the turn. As such, look to add a card that doesn't need to be Summoned this turn or grab something that can help you prepare for your next turn.
