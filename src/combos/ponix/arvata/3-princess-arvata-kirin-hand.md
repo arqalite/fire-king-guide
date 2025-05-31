@@ -1,4 +1,4 @@
-### Promethean Princess + Arvata setup (with High Kirin in your hand, and a 3rd monster on the field)
+## Promethean Princess + Arvata setup (with High Kirin in your hand, and a 3rd monster on the field)
 
 Variating further on the previous line, you can instead opt to go for [_Salamangreat Sunlight Wolf_] and add High Kirin to your hand instead of summoning it to the field.
 
@@ -19,7 +19,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4-5 cards.
 
 </div>
 
-#### Steps
+### Steps
 1. Normal Summon [_Legendary Fire King Ponix_].
 2. Activate Ponix - add [_Fire King Sanctuary_] from your Deck to your hand.
 3. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.

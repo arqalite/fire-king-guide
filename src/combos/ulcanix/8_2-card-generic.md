@@ -19,7 +19,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
 </div>
 
-#### Steps
+### Steps
 1. Normal Summon [_Fire King Courtier Ulcanix_].
 2. Activate Ulcanix - destroy the FIRE monster in your hand, then add [_Legendary Fire King Ponix_] from your Deck to your hand.
 3. Activate Ponix - Special Summon it from your hand.
@@ -31,7 +31,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 9. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 10. Pass turn.
 
-##### Opponent's turn
+#### Opponent's turn
 11. In the Standby Phase, activate Ponix - add it from the GY to your hand.
 
 {{#include ../../common/links.md}}

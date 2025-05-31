@@ -1,4 +1,4 @@
-### Promethean Princess + Arvata setup (with Ulcanix in GY)
+## Promethean Princess + Arvata setup (with Ulcanix in GY)
 
 As Arvata is already in the GY at the time [_Sacred Fire King Garunix_] is summoned, you can deviate from the [generic 2-card Ponix] combo and destroy [_Fire King Courtier Ulcanix_] instead.
 
@@ -19,7 +19,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 </div>
 
-#### Steps
+### Steps
 1. Normal Summon [_Legendary Fire King Ponix_].
 2. Activate Ponix - add [_Fire King Sanctuary_] from your Deck to your hand.
 3. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.

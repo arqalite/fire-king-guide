@@ -19,7 +19,7 @@ Additionally, this route plays through [_Droll & Lock Bird_].
 
 </div>
 
-#### Steps
+### Steps
 1. Activate [_Fire King Sanctuary_] - place [_Fire King Island_] in the Field Zone.
 2. Activate Island - destroy the FIRE monster in your hand, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 3. Activate Sacred - Special Summon it from your hand.

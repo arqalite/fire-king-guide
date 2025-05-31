@@ -1,4 +1,4 @@
-### High Garunix setup (with Promethean Princess in GY, Sky Burn set, High Kirin in hand)
+## High Garunix setup (with Promethean Princess in GY, Sky Burn set, High Kirin in hand)
 
 Last but not least, this is a greedier route that tries to set up a [_Promethean Princess, Bestower of Flames_] in the GY, search [_Fire King Sky Burn_] _and_ recover a [_Fire King High Avatar Kirin_], giving you three separate ways to start the interruption sequence.
 
@@ -17,7 +17,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 
 </div>
 
-#### Steps
+### Steps
 1. Activate [_Fire King Sanctuary_] - place [_Fire King Island_] in the Field Zone.
 2. Activate Island - destroy [_Fire King Courtier Ulcanix_], then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 3. A chain forms:
@@ -36,6 +36,6 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 14. Set Sky Burn.
 15. Pass turn.
 
-##### Opponent's turn
+#### Opponent's turn
 16. In the Standby Phase, activate High Garunix - Special Summon it from the GY,
 17. Activate High Garunix again - destroy all other monsters on the field.

@@ -21,7 +21,7 @@ Additionally, this route plays through [_Droll & Lock Bird_].
 
 </div>
 
-#### Steps
+### Steps
 1. Normal Summon a monster with 1000 or less ATK.
 2. Link Summon [_Salamangreat Almiraj_].
 3. Activate [_Fire King Sanctuary_] - place [_Fire King Island_] in the Field Zone.

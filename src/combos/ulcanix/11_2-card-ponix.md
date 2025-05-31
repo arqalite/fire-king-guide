@@ -19,7 +19,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 </div>
 
-#### Steps
+### Steps
 1. Normal Summon [_Fire King Courtier Ulcanix_].
 2. Activate Ulcanix - destroy [_Legendary Fire King Ponix_], then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 3. Activate Sacred - Special Summon it from your hand.

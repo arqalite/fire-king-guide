@@ -23,7 +23,7 @@ Additionally, this route plays through [_Droll & Lock Bird_].
 
 </div>
 
-#### Steps
+### Steps
 1. Normal Summon [_Fire King Courtier Ulcanix_].
 2. Activate Ulcanix - destroy the FIRE Beast, Beast-Warrior or Winged Beast in your hand, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 3. Activate Sacred - Special Summon it from your hand.

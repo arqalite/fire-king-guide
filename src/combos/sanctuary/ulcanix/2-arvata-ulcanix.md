@@ -1,4 +1,4 @@
-### Arvata + Ulcanix setup
+## Arvata + Ulcanix setup
 
 Alternatively, you can opt to set up [_Fire King Avatar Arvata_] instead of [_Fire King Sky Burn_].
 
@@ -17,7 +17,7 @@ Under [_Mulcharmy Fuwalos_], your opponent doesn't draw any cards.
 
 </div>
 
-#### Steps
+### Steps
 1. Activate [_Fire King Sanctuary_] - place [_Fire King Island_] in the Field Zone.
 2. Activate Island - destroy [_Fire King Courtier Ulcanix_], then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 3. <span style="color:darkorange;"><b>Do not activate Ulcanix's effect here!</b></span> Instead, activate Sacred only - Special Summon it from your hand.

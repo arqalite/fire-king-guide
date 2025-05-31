@@ -1,4 +1,4 @@
-### Sacred + High Garunix setup
+## Sacred + High Garunix setup
 
 This is a simpler setup that aims to set up [_Garunix Eternity, Hyang of the Fire Kings_] as soon as possible, which can be helpful against certain matchups where clearing their materials early can stop their plays.
 
@@ -21,7 +21,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
 </div>
 
-#### Steps
+### Steps
 1. Normal Summon [_Legendary Fire King Ponix_].
 2. Activate Ponix - add [_Fire King Sanctuary_] from your Deck to your hand.
 3. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
@@ -31,5 +31,5 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 7. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 8. Pass turn.
 
-##### Opponent's turn
+#### Opponent's turn
 9. In the Standby Phase, activate Ponix - add it from the GY to your hand.

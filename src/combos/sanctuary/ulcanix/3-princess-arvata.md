@@ -1,4 +1,4 @@
-### Promethean Princess + Arvata setup
+## Promethean Princess + Arvata setup
 
 This route chooses to set up the usual [_Promethean Princess, Bestower of Flames_] + [_Fire King Avatar Arvata_] endboard, but starting with [_Fire King Sanctuary_] means this can now be performed through [_Droll & Lock Bird_].
 
@@ -19,7 +19,7 @@ Additionally, this route plays through [_Droll & Lock Bird_].
 
 </div>
 
-#### Steps
+### Steps
 1. Activate [_Fire King Sanctuary_] - place [_Fire King Island_] in the Field Zone.
 2. Activate Island - destroy [_Fire King Courtier Ulcanix_], then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 3. A chain forms:
