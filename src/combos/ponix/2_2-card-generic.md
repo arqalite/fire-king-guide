@@ -15,7 +15,7 @@ The goal is to set up the FK engine and end on a [_Promethean Princess, Bestower
 
 <div class="warning">
 
-This route stops [_Nibiru, the Primal Being_], as Arvata is the 5th summon.
+This combo stops [_Nibiru, the Primal Being_], as Arvata is the 5th summon.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
@@ -32,8 +32,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 8. Link Summon [_Promethean Princess, Bestower of Flames_].
 9. Activate Promethean Princess: Special Summon Arvata from the GY.
 
-> Depending on the second card, there might be other lines available that offer you certain advantages. 
+> This combo is great when you're first learning Fire Kings, but depending on the second card, there might be other lines available that offer you certain advantages.
 >
-> This line is great when you just started learning about Fire Kings, but we encourage reading and learning the other combos as well in order to make the most out of your deck.
-
+> As such, we encourage reading and learning the other combos in this guide as well, so you can make the most out of your deck.
 {{#include ../../common/links.md}}

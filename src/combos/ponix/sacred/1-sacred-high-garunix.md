@@ -15,7 +15,7 @@ Ulcanix and High Garunix are good options. The Ponix in your hand would chain to
 
 <div class="warning">
 
-This route plays under [_Nibiru, the Primal Being_], as you only summon 3 times.
+This combo plays under [_Nibiru, the Primal Being_], as you only summon 3 times.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 

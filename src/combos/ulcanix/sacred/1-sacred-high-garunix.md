@@ -1,6 +1,6 @@
 ## Sacred + High Garunix setup (with Ponix + High Kirin in your hand)
 
-This route plays a little lower to the ground, choosing to end on 2 Level 8s, ready to summon [_Garunix Eternity, Hyang of the Fire Kings_]. 
+This combo plays a little lower to the ground, choosing to end on 2 Level 8s, ready to summon [_Garunix Eternity, Hyang of the Fire Kings_]. 
 
 This is preferable when you have a lot of non-engine or if [_Mulcharmy Fuwalos_] is used against you.
 
@@ -13,7 +13,7 @@ This is preferable when you have a lot of non-engine or if [_Mulcharmy Fuwalos_]
 
 <div class="warning">
 
-This route plays under [_Nibiru, the Primal Being_], as you only summon 4 times.
+This combo plays under [_Nibiru, the Primal Being_], as you only summon 4 times.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 

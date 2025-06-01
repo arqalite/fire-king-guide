@@ -13,11 +13,11 @@ One neat thing is that you can use Ulcanix's effect to chainblock [_Sacred Fire 
 
 <div class="warning">
 
-This route stops [_Nibiru, the Primal Being_], as Arvata is the 5th summon.
+This combo stops [_Nibiru, the Primal Being_], as Arvata is the 5th summon.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
-Additionally, this route plays through [_Droll & Lock Bird_].
+Additionally, this combo plays through [_Droll & Lock Bird_].
 
 </div>
 

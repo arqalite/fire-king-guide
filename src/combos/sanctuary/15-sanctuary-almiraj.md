@@ -13,11 +13,11 @@ This means that a starting hand of [_Fire King Sanctuary_] and 4 handtraps is ac
 
 <div class="warning">
 
-This route plays under [_Nibiru, the Primal Being_] as you only summon four times.
+This combo plays under [_Nibiru, the Primal Being_], as you only summon 4 times.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
-Additionally, this route plays through [_Droll & Lock Bird_].
+Additionally, this combo plays through [_Droll & Lock Bird_].
 
 </div>
 

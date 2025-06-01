@@ -11,7 +11,7 @@ Alternatively, you can opt to set up [_Fire King Avatar Arvata_] instead of [_Fi
 
 <div class="warning">
 
-This route plays under [_Nibiru, the Primal Being_], as you only summon 3 times.
+This combo plays under [_Nibiru, the Primal Being_], as you only summon 3 times.
 
 Under [_Mulcharmy Fuwalos_], your opponent doesn't draw any cards.
 

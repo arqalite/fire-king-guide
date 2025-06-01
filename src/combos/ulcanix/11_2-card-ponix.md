@@ -16,7 +16,8 @@ Starting with [_Fire King Courtier Ulcanix_] lets you grab [_Sacred Fire King Ga
 
 <div class="warning">
 
-This combo plays safely into [_Nibiru, the Primal Being_].
+This combo survives [_Nibiru, the Primal Being_].
+> If activated, you will lose Sunlight Wolf and High Garunix, forcing you to destroy Arvata with High Kirin in order to start the interruption sequence.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 

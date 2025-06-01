@@ -13,7 +13,8 @@ Then, by destroying her with the [_Fire King High Avatar Kirin_] in your hand, y
 
 <div class="warning">
 
-This route plays safely into [_Nibiru, the Primal Being_].
+This combo plays safely into [_Nibiru, the Primal Being_].
+> While your opponent can activate it, it doesn't make you lose any interruptions.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
