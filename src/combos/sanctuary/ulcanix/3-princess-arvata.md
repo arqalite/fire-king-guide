@@ -1,6 +1,6 @@
 ## Promethean Princess + Arvata setup
 
-This route chooses to set up the usual [_Promethean Princess, Bestower of Flames_] + [_Fire King Avatar Arvata_] endboard, but starting with [_Fire King Sanctuary_] means this can now be performed through [_Droll & Lock Bird_].
+This combo chooses to set up the usual [_Promethean Princess, Bestower of Flames_] + [_Fire King Avatar Arvata_] endboard, but starting with [_Fire King Sanctuary_] means this can now be performed through [_Droll & Lock Bird_].
 
 <center>
 <br/><video controls>
@@ -11,11 +11,11 @@ This route chooses to set up the usual [_Promethean Princess, Bestower of Flames
 
 <div class="warning">
 
-This route plays safely into [_Nibiru, the Primal Being_].
+This combo stops [_Nibiru, the Primal Being_], as Arvata is the 5th summon.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
-Additionally, this route plays through [_Droll & Lock Bird_].
+Additionally, this combo plays through [_Droll & Lock Bird_].
 
 </div>
 

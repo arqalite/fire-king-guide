@@ -13,7 +13,7 @@ We use [_Fire King High Avatar Garunix_]'s effect to our advantage here, sending
 
 <div class="warning">
 
-This route plays safely into [_Nibiru, the Primal Being_].
+This combo plays safely into [_Nibiru, the Primal Being_].
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 

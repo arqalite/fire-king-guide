@@ -1,6 +1,6 @@
 ## Ponix + Ulcanix setup (with Sky Burn set)
 
-This route is the simplest, aiming to set up [_Fire King Sky Burn_] besides the usual Fire King engine.
+This line is the simplest, aiming to set up [_Fire King Sky Burn_] besides the usual Fire King engine.
 
 <center>
 <br/><video controls>
@@ -11,7 +11,7 @@ This route is the simplest, aiming to set up [_Fire King Sky Burn_] besides the 
 
 <div class="warning">
 
-This route plays under [_Nibiru, the Primal Being_], as you only summon 3 times.
+This combo plays under [_Nibiru, the Primal Being_], as you only summon 3 times.
 
 Under [_Mulcharmy Fuwalos_], your opponent doesn't draw any cards.
 

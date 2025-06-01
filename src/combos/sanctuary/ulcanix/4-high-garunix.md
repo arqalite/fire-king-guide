@@ -1,6 +1,6 @@
 ## High Garunix setup (with Promethean Princess in GY, Sky Burn set, High Kirin in hand)
 
-Last but not least, this is a greedier route that tries to set up a [_Promethean Princess, Bestower of Flames_] in the GY, search [_Fire King Sky Burn_] _and_ recover a [_Fire King High Avatar Kirin_], giving you three separate ways to start the interruption sequence.
+Last but not least, this is a greedier line that tries to set up a [_Promethean Princess, Bestower of Flames_] in the GY, search [_Fire King Sky Burn_] _and_ recover a [_Fire King High Avatar Kirin_], giving you three separate ways to start the interruption sequence.
 
 <center>
 <br/><video controls>
@@ -11,7 +11,10 @@ Last but not least, this is a greedier route that tries to set up a [_Promethean
 
 <div class="warning">
 
-This route plays safely into [_Nibiru, the Primal Being_].
+This combo survives [_Nibiru, the Primal Being_]. 
+> If activated, you will not be able to recycle a card with Sunlight Wolf, and you cannot Summon Promethean Princess.
+>
+> You are still able to start an interruption sequence with Sky Burn and High Garunix.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 

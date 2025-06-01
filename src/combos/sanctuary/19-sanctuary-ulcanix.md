@@ -1,10 +1,10 @@
 # Sanctuary + Ulcanix
 
-This opening hand proves itself to be quite versatile, offering routes that set up at least 3 interruptions while giving zero draws into [_Mulcharmy Fuwalos_], and one route that plays through [_Droll & Lock Bird_].
+This opening hand proves itself to be quite versatile, offering combos that set up at least 3 interruptions while giving zero draws into [_Mulcharmy Fuwalos_], and one combo that plays through [_Droll & Lock Bird_].
 
 <form autocomplete="off">
     <select id="comboDropdown">
-        <option selected>Select the endboard and route below:</option>
+        <option selected>Select one of the following endboards:</option>
         <option value="ponix-ulcanix">1) Ponix + Ulcanix setup (with Sky Burn set)</option>
         <option value="arvata-ulcanix">2) Arvata + Ulcanix setup</option>
         <option value="princess-arvata">3) Promethean Princess + Arvata setup</option>

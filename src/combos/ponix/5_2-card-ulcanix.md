@@ -10,7 +10,7 @@ Starting with [_Legendary Fire King Ponix_] offers you two lines:
 
 <form autocomplete="off">
     <select id="comboDropdown">
-        <option selected>Select the endboard and route below:</option>
+        <option selected>Select one of the following endboards:</option>
         <option value="princess-arvata-ulcanix">1) Promethean Princess + Arvata setup (with Ulcanix in GY)</option>
         <option value="high-garunix">2) High Garunix setup (with Promethean Princess + Ulcanix in GY, High Kirin in your hand)</option>
     </select>

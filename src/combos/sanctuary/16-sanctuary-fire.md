@@ -11,11 +11,11 @@ By already having a FIRE monster in your hand, we can perform the previous combo
 
 <div class="warning">
 
-This route plays under [_Nibiru, the Primal Being_] as you only summon two times.
+This combo plays under [_Nibiru, the Primal Being_], as you only summon 2 times.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
-Additionally, this route plays through [_Droll & Lock Bird_].
+Additionally, this combo plays through [_Droll & Lock Bird_].
 
 </div>
 

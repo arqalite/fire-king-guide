@@ -13,7 +13,7 @@ If you choose to Special Summon Ulcanix, you can then pop Hyang to add a Fire Ki
 
 <div class="warning">
 
-This route plays under [_Nibiru, the Primal Being_], as you only summon 4 times.
+This combo plays under [_Nibiru, the Primal Being_], as you only summon 4 times.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 

@@ -11,7 +11,7 @@ This is a slight variation on the earlier combo, giving up instant access to Hya
 
 <div class="warning">
 
-This route plays under [_Nibiru, the Primal Being_], as you only summon 4 times.
+This combo plays under [_Nibiru, the Primal Being_], as you only summon 4 times.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 

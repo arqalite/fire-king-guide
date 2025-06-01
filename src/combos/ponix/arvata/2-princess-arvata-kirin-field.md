@@ -15,7 +15,7 @@ A neat trick you can do with this endboard is using Arvata to negate a monster e
 
 <div class="warning">
 
-This route stops [_Nibiru, the Primal Being_], as Arvata is the 5th summon.
+This combo stops [_Nibiru, the Primal Being_], as Arvata is the 5th summon.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 

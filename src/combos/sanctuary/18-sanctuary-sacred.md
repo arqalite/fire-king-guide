@@ -13,11 +13,11 @@ With this starting hand, you can set up [_Garunix Eternity, Hyang of the Fire Ki
 
 <div class="warning">
 
-This route plays under [_Nibiru, the Primal Being_] as you only summon two times.
+This combo plays under [_Nibiru, the Primal Being_], as you only summon 2 times.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
-Additionally, this route does not trigger [_Droll & Lock Bird_].
+Additionally, this combo does not trigger [_Droll & Lock Bird_].
 
 </div>
 

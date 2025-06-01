@@ -17,7 +17,7 @@ Starting with [_Legendary Fire King Ponix_] can be preferable for two reasons:
 
 <div class="warning">
 
-This route plays under [_Nibiru, the Primal Being_], as you only summon 3 times.
+This combo plays under [_Nibiru, the Primal Being_], as you only summon 3 times.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 

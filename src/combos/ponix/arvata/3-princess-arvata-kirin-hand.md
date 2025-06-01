@@ -13,7 +13,7 @@ It's a very open-ended line, giving you access to a few different plays you can 
 
 <div class="warning">
 
-This route stops [_Nibiru, the Primal Being_], as Arvata is the 5th summon.
+This combo stops [_Nibiru, the Primal Being_], as Arvata is the 5th summon.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 4-5 cards.
 
