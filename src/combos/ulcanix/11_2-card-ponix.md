@@ -16,8 +16,7 @@ Starting with [_Fire King Courtier Ulcanix_] lets you grab [_Sacred Fire King Ga
 
 <div class="warning">
 
-This combo survives [_Nibiru, the Primal Being_].
-> If activated, you will lose Sunlight Wolf and High Garunix, forcing you to destroy Arvata with High Kirin in order to start the interruption sequence.
+This combo plays into [_Nibiru, the Primal Being_] - read the section at the end for more details on how to recover.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
@@ -44,7 +43,18 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 >   - Summon Ponix, which can be used by High Kirin or Promethean Princess' effects, or can just be destroyed by Hyang so it returns to your hand next turn.
 >   - Summon any FIRE monster, then Link Summon [_Hiita the Fire Charmer, Ablaze_] using Promethean Princess and the summoned monster, thus setting up Promethean Princess in the GY.
 
+<details>
+  <summary><b>If Nibiru hits</b></summary>
+  <br/>
+  Depending on where Nibiru is activated, you can do the following:
 
+  ##### On the 5th summon (step 10)
+  Nibiru will remove Sunlight Wolf and High Garunix off the field on the same Chain as Wolf's effect, meaning you will still get to recover High Kirin from the GY.
+
+  You can start the interruption sequence by destroying Arvata with High Kirin's effect.
+  #### If you choose to extend further
+  Nibiru will remove Promethean Princess (and the monster she summoned), causing the same scenario as above, where you have to start the interruption sequence by destroying Arvata with High Kirin's effect.
+</details>
 
 
 {{#include ../../common/links.md}}
