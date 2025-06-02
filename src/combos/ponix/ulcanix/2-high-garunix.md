@@ -11,8 +11,7 @@ This is a cute line that ignores Nibiru entirely. you make full use of Ulcanix a
 
 <div class="warning">
 
-This combo survives [_Nibiru, the Primal Being_]. 
-> If activated, you will only lose out on Sunlight Wolf's effect - meaning you're no longer insulated from stuff like Kaijus removing High Garunix from the field.
+This combo plays into [_Nibiru, the Primal Being_] - read the section at the end for more details on how to recover.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 3 cards.
 
@@ -39,4 +38,19 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 3 cards.
 14. A chain forms:
       - CL1: Activate High Garunix - destroy all other monsters on the field.
       - CL2: Activate Sunlight Wolf - add Ponix from the GY to your hand. (Remember you cannot summon Ponix this turn!)
+
+<details>
+  <summary><b>If Nibiru hits</b></summary>
+  <br/>
+  Depending on where Nibiru is activated, the following will happen:
+
+  ##### On the 5th summon (step 9)
+  Nibiru will remove Promethean Princess, meaning you are no longer able to reach Sunlight Wolf.
+
+  However, High Garunix will revive in the Standby Phase, removing Nibiru and its token. Coupled with Promethean Princess' GY effect, you should be able to start an interruption sequence.
+
+  ##### At the end of the Main Phase (step 12)
+  Nibiru will remove Sunlight Wolf before High Garunix can Summon itself and trigger Wolf, meaning you cannot add Ponix back to your hand.
+
+  Just like in the previous section, you have Promethean Princess in the GY and High Garunix on the field, so you can start interrupting your opponent that way.
 

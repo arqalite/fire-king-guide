@@ -31,3 +31,4 @@
 <link rel="stylesheet" href="/common/dropdown.css">
 <link rel="stylesheet" href="/common/table.css">
 <link rel="stylesheet" href="/common/list.css">
+<link rel="stylesheet" href="/common/details.css">

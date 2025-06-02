@@ -11,10 +11,7 @@ Last but not least, this is a greedier line that tries to set up a [_Promethean 
 
 <div class="warning">
 
-This combo survives [_Nibiru, the Primal Being_]. 
-> If activated, you will not be able to recycle a card with Sunlight Wolf, and you cannot Summon Promethean Princess.
->
-> You are still able to start an interruption sequence with Sky Burn and High Garunix.
+This combo plays into [_Nibiru, the Primal Being_] - read the section at the end for more details on how to recover.
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 
@@ -42,3 +39,20 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 #### Opponent's turn
 16. In the Standby Phase, activate High Garunix: Special Summon it from the GY,
 17. Activate High Garunix again: destroy all other monsters on the field.
+
+<details>
+  <summary><b>If Nibiru hits</b></summary>
+  <br/>
+  Depending on where Nibiru is activated, you can do the following:
+
+  ##### On the 5th summon (step 9)
+  Nibiru will remove Sunlight Wolf and Ponix off the field, cutting you off from getting to recover High Kirin from the GY. This also means you no longer have access to Promethean Princess.
+
+  However, High Garunix will revive in the Standby Phase, removing Nibiru and its token. Coupled with the set Sky Burn, you should be able to start an interruption sequence.
+
+  ##### At the end of the Main Phase (step 15)
+  Nibiru will remove Promethean Princess and Ponix - meaning Ponix cannot be destroyed by High Garunix in order to return to your hand in the Standby Phase.
+
+  As mentioned above, High Garunix will revive and wipe the board in the Standby Phase, and you have Sky Burn set.
+
+</details>
