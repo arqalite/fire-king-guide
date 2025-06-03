@@ -13,7 +13,7 @@ This is a cute line that ignores Nibiru entirely. you make full use of Ulcanix a
 
 This route does not care about [_Nibiru, the Primal Being_], as High Garunix, Promethean Princess and High Kirin are already set up by the 5th summon. You just lose out on Sunlight Wolf's effect so you're no longer insulated from stuff like Kaijus removing High Garunix from the field.
 
-Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
+Under [_Mulcharmy Fuwalos_], your opponent draws 3 cards.
 
 </div>
 
