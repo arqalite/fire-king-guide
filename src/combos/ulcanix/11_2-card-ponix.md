@@ -1,8 +1,11 @@
 # Ulcanix + Ponix
 
-You can take advantage of the fact that [_Legendary Fire King Ponix_] is already in your hand, and choose to grab [_Sacred Fire King Garunix_] instead.
+Starting with [_Fire King Courtier Ulcanix_] lets you grab [_Sacred Fire King Garunix_] directly, ensuring you have options in formats where [_Droll & Lock Bird_] is present:
+- If you go uninterrupted, you can end on [_Fire King High Avatar Garunix_] + [_Salamangreat Sunlight Wolf_], with a [_Fire King High Avatar Kirin_] in hand to start your plays;
+- If Droll hits on Ulcanix's effect, you are able to pivot into the [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast](9_2-card-tri-beast.md) line;
+- Finally, if it is activated after [_Legendary Fire King Ponix_]'s effect, you are able to end on a [_Garunix Eternity, Hyang of the Fire Kings_] setup, with a Level 8 Ulcanix, Sacred and Ponix on the field.
 
-This allows you to end on [_Salamangreat Sunlight Wolf_] and [_Fire King High Avatar Garunix_], recycling a [_Fire King High Avatar Kirin_] back to your hand.
+> On the other hand, if Droll isn't an issue, [starting with Ponix](../ponix/5_2-card-ulcanix.md) allows you to set up an early monster negate, or two board wipes, depending on the route you choose to follow.
 
 <center>
 <br/><video controls>
@@ -21,7 +24,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 ### Steps
 1. Normal Summon [_Fire King Courtier Ulcanix_].
-2. Activate Ulcanix - destroy [_Legendary Fire King Ponix_], then add [_Sacred Fire King Garunix_] from your Deck to your hand.
+2. Activate Ulcanix - destroy [_Legendary Fire King Ponix_], add [_Sacred Fire King Garunix_] from your Deck to your hand, then declare on resolution that Ulcanix is now Level 8.
 3. Activate Sacred - Special Summon it from your hand.
 4. Activate Sacred again - destroy [_Fire King High Avatar Kirin_] in your Deck.
 5. Activate High Kirin - Special Summon Ponix from the GY.

@@ -1,8 +1,12 @@
 # Ponix + Ulcanix
 
-When opening both starters, you have to pick which one to use depending on the goals you want to achieve. 
+When opening both starters, you have to pick which one to use depending on the goals you want to achieve.
 
-Generally, starting with [_Legendary Fire King Ponix_] lets you play lower to the ground which is a considerable advantage when [_Nibiru, the Primal Being_] is in the format.
+Starting with [_Legendary Fire King Ponix_] offers you two lines:
+- a [_Promethean Princess, Bestower of Flames_] + [_Fire King Avatar Arvata_] setup, when you need an early monster negate
+- a [_Fire King High Avatar Garunix_] setup with Promethean Princess in GY, when having two board wipes would be advantageous
+
+> On the other hand, [starting with Ulcanix](../ulcanix/11_2-card-ponix.md) allows you to pivot if [_Droll & Lock Bird_] hits.
 
 <form autocomplete="off">
     <select id="comboDropdown">
