@@ -36,6 +36,6 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 3 cards.
 #### Opponent's turn
 13. In the Standby Phase, activate High Garunix - Special Summon it from the GY, under Sunlight Wolf's link.
 14. A chain forms:
-      - Activate High Garunix again - destroy all other monsters on the field.
-      - Activate Sunlight Wolf - add Ponix from the GY to your hand. (Remember you cannot summon Ponix this turn!)
+      - CL1: Activate Sunlight Wolf - add Ponix from the GY to your hand. (Remember you cannot summon Ponix this turn!)
+      - CL2: Activate High Garunix - destroy all other monsters on the field.
 
