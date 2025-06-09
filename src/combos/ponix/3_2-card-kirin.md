@@ -6,7 +6,7 @@ With [_Fire King High Avatar Kirin_], you have two options:
 
 Both options are viable, and depending on the matchup you might want to go for one over the other.
 
-When going for the 1-card combo, High Kirin allows you to squeeze additional card advantage - by summoning itself under a [_Salamangreat Sunlight Wolf_], you get to add a card from the GY to your hand, while also triggering Sacred and getting the interruption chain started.
+When going for the 1-card combo, High Kirin allows you to squeeze additional card advantage. By summoning itself under a [_Salamangreat Sunlight Wolf_], you get to add a card from the GY to your hand, while also triggering Sacred and getting the interruption chain started.
 
 Let's see it in action.
 
@@ -27,19 +27,19 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 ### Steps
 1. Normal Summon [_Legendary Fire King Ponix_].
-2. Activate Ponix - add [_Fire King Sanctuary_] from your Deck to your hand.
-3. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
-4. Activate Island - destroy Ponix, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
-5. Activate Sacred - Special Summon it from your hand.
-6. Activate Sacred again - destroy [_Fire King Courtier Ulcanix_] in your Deck.
-7. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
+2. Activate Ponix: add [_Fire King Sanctuary_] from your Deck to your hand.
+3. Activate Sanctuary: place [_Fire King Island_] in the Field Zone.
+4. Activate Island: destroy Ponix, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
+5. Activate Sacred: Special Summon it from your hand.
+6. Activate Sacred again: destroy [_Fire King Courtier Ulcanix_] in your Deck.
+7. Activate Ulcanix: Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 8. Link Summon [_Salamangreat Sunlight Wolf_].
 9. Pass turn.
 
 #### Opponent's turn
-10. In the Standby Phase, activate Ponix - add it from the GY to your hand.
+10. In the Standby Phase, activate Ponix: add it from the GY to your hand.
 
-> Remember Sunlight Wolf's restriction - you are not able to Summon the card you recover with it for the rest of the turn. As such, look to add a card that doesn't need to be Summoned this turn (like an [_Ash Blossom & Joyous Spring_]) or grab something that can help you prepare for your next turn.
+> Remember Sunlight Wolf's restriction! You are not able to Summon the card you recover with it for the rest of the turn. As such, look to add a card that doesn't need to be Summoned this turn (like an [_Ash Blossom & Joyous Spring_]) or grab something that can help you prepare for your next turn.
 
 [generic 2-card Ponix]: ./2-card-generic.md
 

@@ -1,6 +1,6 @@
 # Ulcanix + Arvata
 
-Opening [_Fire King Avatar Arvata_] alongside Ulcanix allows you to insulate your plays from [_Nibiru, the Primal Being_] - as such, you get to recycle a card with [_Salamangreat Sunlight Wolf_] before ending on Arvata and [_Promethean Princess, Bestower of Flames_].
+Opening [_Fire King Avatar Arvata_] alongside Ulcanix allows you to insulate your plays from [_Nibiru, the Primal Being_]. As such, you get to recycle a card with [_Salamangreat Sunlight Wolf_] before ending on Arvata and [_Promethean Princess, Bestower of Flames_].
 
 <center>
 <br/><video controls>
@@ -19,19 +19,19 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 
 ### Steps
 1. Normal Summon [_Fire King Courtier Ulcanix_].
-2. Activate Ulcanix - destroy [_Fire King Avatar Arvata_], then add [_Legendary Fire King Ponix_] from your Deck to your hand.
-3. Activate Ponix - Special Summon it from your hand.
-4. Activate Ponix again - add [_Fire King Sanctuary_] from your Deck to your hand.
-5. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
-6. Activate Island - destroy Ulcanix, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
+2. Activate Ulcanix: destroy [_Fire King Avatar Arvata_], then add [_Legendary Fire King Ponix_] from your Deck to your hand.
+3. Activate Ponix: Special Summon it from your hand.
+4. Activate Ponix again: add [_Fire King Sanctuary_] from your Deck to your hand.
+5. Activate Sanctuary: place [_Fire King Island_] in the Field Zone.
+6. Activate Island: destroy Ulcanix, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 7. A chain forms:
-    - CL1: Activate Sacred - Special Summon it from your hand.
-    - CL2: Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
-8. Activate Sacred again - destroy [_Fire King High Avatar Kirin_] in your Deck.
-9. Activate High Kirin - Special Summon Arvata from the GY.
+    - CL1: Activate Sacred: Special Summon it from your hand.
+    - CL2: Activate Ulcanix: Special Summon [_Fire King High Avatar Garunix_] from your Deck.
+8. Activate Sacred again: destroy [_Fire King High Avatar Kirin_] in your Deck.
+9. Activate High Kirin: Special Summon Arvata from the GY.
 10. Link Summon [_Salamangreat Sunlight Wolf_] using Sacred and High Garunix.
 11. Link Summon [_Relinquished Anima_] using Ponix, under Sunlight Wolf's link.
-12. Activate Sunlight Wolf - add High Kirin from the GY to your hand.
+12. Activate Sunlight Wolf: add High Kirin from the GY to your hand.
 13. Link Summon [_Promethean Princess, Bestower of Flames_] using Sunlight Wolf and Anima.
 
 > You can further extend this board by using Promethean Princess' effect, giving you multiple options:

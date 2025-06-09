@@ -24,10 +24,10 @@ Additionally, this route plays through [_Droll & Lock Bird_].
 ### Steps
 1. Normal Summon a monster with 1000 or less ATK.
 2. Link Summon [_Salamangreat Almiraj_].
-3. Activate [_Fire King Sanctuary_] - place [_Fire King Island_] in the Field Zone.
-4. Activate Island - destroy Almiraj, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
-5. Activate Sacred - Special Summon it from your hand.
-6. Activate Sacred again - destroy [_Fire King Courtier Ulcanix_] in your Deck.
-7. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
+3. Activate [_Fire King Sanctuary_]: place [_Fire King Island_] in the Field Zone.
+4. Activate Island: destroy Almiraj, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
+5. Activate Sacred: Special Summon it from your hand.
+6. Activate Sacred again: destroy [_Fire King Courtier Ulcanix_] in your Deck.
+7. Activate Ulcanix: Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 
 {{#include ../../common/links.md}}

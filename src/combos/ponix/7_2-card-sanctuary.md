@@ -6,7 +6,7 @@ Starting with [_Legendary Fire King Ponix_] can be preferable for two reasons:
 - If you get interrupted, that's one less interruption you have to worry about, as you already have [_Fire King Sanctuary_] and can proceed to combo as usual.
 - If Ponix's effect resolves, you're able to grab [_Fire King Sky Burn_], giving you at least one additional interruption to your endboards.
 
-> That said, this approach is vulnerable to [_Droll & Lock Bird_] - you can play around that by [starting with Sanctuary].
+> That said, this approach is vulnerable to [_Droll & Lock Bird_]. You can play around that by [starting with Sanctuary].
 
 <center>
 <br/><video controls>
@@ -25,17 +25,17 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
 ### Steps
 1. Normal Summon [_Legendary Fire King Ponix_].
-2. Activate Ponix - add [_Fire King Sky Burn_] from your Deck to your hand.
-3. Activate [_Fire King Sanctuary_] - place [_Fire King Island_] in the Field Zone.
-4. Activate Island - destroy Ponix, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
-5. Activate Sacred - Special Summon it from your hand.
-6. Activate Sacred again - destroy [_Fire King Courtier Ulcanix_] in your Deck.
-7. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
+2. Activate Ponix: add [_Fire King Sky Burn_] from your Deck to your hand.
+3. Activate [_Fire King Sanctuary_]: place [_Fire King Island_] in the Field Zone.
+4. Activate Island: destroy Ponix, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
+5. Activate Sacred: Special Summon it from your hand.
+6. Activate Sacred again: destroy [_Fire King Courtier Ulcanix_] in your Deck.
+7. Activate Ulcanix: Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 8. Set Sky Burn.
 9. Pass turn.
 
 #### Opponent's turn
-10. In the Standby Phase, activate Ponix - add it from the GY to your hand.
+10. In the Standby Phase, activate Ponix: add it from the GY to your hand.
 
 
 {{#include ../../common/links.md}}
