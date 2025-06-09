@@ -25,11 +25,11 @@ Additionally, this route plays through [_Droll & Lock Bird_].
 
 ### Steps
 1. Normal Summon [_Fire King Courtier Ulcanix_].
-2. Activate Ulcanix - destroy the FIRE Beast, Beast-Warrior or Winged Beast in your hand, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
-3. Activate Sacred - Special Summon it from your hand.
-4. Activate Sacred again - destroy [_Fire King Avatar Arvata_] in your Deck.
-5. Activate Arvata - Special Summon the the FIRE Beast, Beast-Warrior or Winged Beast you destroyed earlier from the GY.
+2. Activate Ulcanix: destroy the FIRE Beast, Beast-Warrior or Winged Beast in your hand, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
+3. Activate Sacred: Special Summon it from your hand.
+4. Activate Sacred again: destroy [_Fire King Avatar Arvata_] in your Deck.
+5. Activate Arvata: Special Summon the the FIRE Beast, Beast-Warrior or Winged Beast you destroyed earlier from the GY.
 6. Link Summon [_Promethean Princess, Bestower of Flames_].
-7. Activate Promethean Princess - Special Summon Arvata from the GY.
+7. Activate Promethean Princess: Special Summon Arvata from the GY.
 
 {{#include ../../common/links.md}}

@@ -21,14 +21,14 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
 ### Steps
 1. Normal Summon [_Legendary Fire King Ponix_].
-2. Activate Ponix - add [_Fire King Sanctuary_] from your Deck to your hand.
-3. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
-4. Activate Island - destroy Sacred, then add [_Fire King High Avatar Kirin_] from your Deck to your hand.
-5. Activate High Kirin - destroy Ponix, then Special Summon High Kirin from your hand.
-6. Activate Sacred - Special Summon it from your hand.
-7. Activate Sacred again - destroy [_Fire King Courtier Ulcanix_] in your Deck.
-8. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
+2. Activate Ponix: add [_Fire King Sanctuary_] from your Deck to your hand.
+3. Activate Sanctuary: place [_Fire King Island_] in the Field Zone.
+4. Activate Island: destroy Sacred, then add [_Fire King High Avatar Kirin_] from your Deck to your hand.
+5. Activate High Kirin: destroy Ponix, then Special Summon High Kirin from your hand.
+6. Activate Sacred: Special Summon it from your hand.
+7. Activate Sacred again: destroy [_Fire King Courtier Ulcanix_] in your Deck.
+8. Activate Ulcanix: Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 9. Pass turn.
 
 #### Opponent's turn
-10. In the Standby Phase, activate Ponix - add it from the GY to your hand.
+10. In the Standby Phase, activate Ponix: add it from the GY to your hand.

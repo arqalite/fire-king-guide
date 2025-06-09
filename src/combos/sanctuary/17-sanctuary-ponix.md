@@ -24,15 +24,15 @@ Additionally, this route plays through [_Droll & Lock Bird_].
 </div>
 
 ### Steps
-1. Activate [_Fire King Sanctuary_] - place [_Fire King Island_] in the Field Zone.
-2. Activate Island - destroy Ponix, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
-3. Activate Sacred - Special Summon it from your hand.
-4. Activate Sacred again - destroy [_Fire King Courtier Ulcanix_] in your Deck.
-5. Activate Ulcanix - Special Summon [_Fire King High Avatar Garunix_] from your Deck.
+1. Activate [_Fire King Sanctuary_]: place [_Fire King Island_] in the Field Zone.
+2. Activate Island: destroy Ponix, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
+3. Activate Sacred: Special Summon it from your hand.
+4. Activate Sacred again: destroy [_Fire King Courtier Ulcanix_] in your Deck.
+5. Activate Ulcanix: Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 6. Pass turn.
 
 #### Opponent's turn
-7. In the Standby Phase, activate Ponix - add it from the GY to your hand.
+7. In the Standby Phase, activate Ponix: add it from the GY to your hand.
 
 {{#include ../../common/links.md}}
 

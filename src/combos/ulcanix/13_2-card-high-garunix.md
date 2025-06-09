@@ -21,21 +21,21 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
 ### Steps
 1. Normal Summon [_Fire King Courtier Ulcanix_].
-2. Activate Ulcanix - destroy [_Fire King High Avatar Garunix_], then add [_Legendary Fire King Ponix_] from your Deck to your hand.
-3. Activate Ponix - Special Summon it from your hand.
-4. Activate Ponix again - add [_Fire King Sanctuary_] from your Deck to your hand.
-5. Activate Sanctuary - place [_Fire King Island_] in the Field Zone.
-6. Activate Island - destroy Ponix, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
-7. Activate Sacred - Special Summon it from your hand.
-8. Activate Sacred again - destroy [_Fire King Avatar Arvata_] in your Deck.
-9. Activate Arvata - Special Summon Ponix from the GY.
+2. Activate Ulcanix: destroy [_Fire King High Avatar Garunix_], then add [_Legendary Fire King Ponix_] from your Deck to your hand.
+3. Activate Ponix: Special Summon it from your hand.
+4. Activate Ponix again: add [_Fire King Sanctuary_] from your Deck to your hand.
+5. Activate Sanctuary: place [_Fire King Island_] in the Field Zone.
+6. Activate Island: destroy Ponix, then add [_Sacred Fire King Garunix_] from your Deck to your hand.
+7. Activate Sacred: Special Summon it from your hand.
+8. Activate Sacred again: destroy [_Fire King Avatar Arvata_] in your Deck.
+9. Activate Arvata: Special Summon Ponix from the GY.
 10. Link Summon [_Promethean Princess, Bestower of Flames_].
 11. Pass turn.
 
 
 #### Opponent's turn
-12. In the Standby Phase, activate High Garunix - Special Summon it from the GY.
-13. Activate High Garunix again - destroy all other monsters on the field.
+12. In the Standby Phase, activate High Garunix: Special Summon it from the GY.
+13. Activate High Garunix again: destroy all other monsters on the field.
 
 > Optionally, you can use Promethean Princess' effect after step 10 to Special Summon either Ponix or Arvata from the GY, and let them get destroyed by High Garunix to trigger their effects.
 >
