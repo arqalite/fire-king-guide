@@ -30,4 +30,4 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 8. Link Summon [_Promethean Princess, Bestower of Flames_].
 9. Activate Promethean Princess: Special Summon Arvata from the GY.
 
-[generic 2-card Ponix]: ./2-card-generic.md
+[generic 2-card Ponix]: ./2-generic.md

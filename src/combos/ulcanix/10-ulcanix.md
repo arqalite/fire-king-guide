@@ -31,5 +31,5 @@ Additionally, this combo plays through [_Droll & Lock Bird_].
 5. <span style="color:darkorange;"><b>Do not activate Arvata's effect here!</b></span> Instead, Link Summon [_Promethean Princess, Bestower of Flames_].
 6. Activate Promethean Princess: Special Summon Arvata from the GY.
 
-[Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast]: ./2-card-tri-beast.md
+[Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast]: ./2-tri-beast.md
 {{#include ../../common/links.md}}

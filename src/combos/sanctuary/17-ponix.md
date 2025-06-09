@@ -36,4 +36,4 @@ Additionally, this combo plays through [_Droll & Lock Bird_].
 
 {{#include ../../common/links.md}}
 
-[starting with Ponix]: ../ponix/7_2-card-sanctuary.md
+[starting with Ponix]: ../ponix/7-sanctuary.md

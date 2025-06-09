@@ -25,7 +25,7 @@
 [_Dominus Impulse_]: https://yugipedia.com/wiki/Dominus_Impulse
 
 <!-- Links to combos -->
-[1-card Ponix]: /combos/ponix/1-card.md
+[1-card Ponix]: /combos/ponix/1.md
 
 <script src="/common/dropdown.js"></script>
 <link rel="stylesheet" href="/common/dropdown.css">

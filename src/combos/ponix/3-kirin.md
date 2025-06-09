@@ -41,6 +41,6 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 > Remember Sunlight Wolf's restriction! You are not able to Summon the card you recover with it for the rest of the turn. As such, look to add a card that doesn't need to be Summoned this turn (like an [_Ash Blossom & Joyous Spring_]) or grab something that can help you prepare for your next turn.
 
-[generic 2-card Ponix]: ./2-card-generic.md
+[generic 2-card Ponix]: ./2-generic.md
 
 {{#include ../../common/links.md}}

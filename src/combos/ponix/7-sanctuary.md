@@ -40,4 +40,4 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
 {{#include ../../common/links.md}}
 
-[starting with Sanctuary]: ../sanctuary/17-sanctuary-ponix.md
+[starting with Sanctuary]: ../sanctuary/17-ponix.md

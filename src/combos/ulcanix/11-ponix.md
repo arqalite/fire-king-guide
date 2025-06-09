@@ -2,10 +2,10 @@
 
 Starting with [_Fire King Courtier Ulcanix_] lets you grab [_Sacred Fire King Garunix_] directly, ensuring you have options in formats where [_Droll & Lock Bird_] is present:
 - If you go uninterrupted, you can end on [_Fire King High Avatar Garunix_] + [_Salamangreat Sunlight Wolf_], with a [_Fire King High Avatar Kirin_] in hand to start your plays;
-- If Droll hits on Ulcanix's effect, you are able to pivot into the [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast](9_2-card-tri-beast.md) line;
+- If Droll hits on Ulcanix's effect, you are able to pivot into the [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast](9-tri-beast.md) line;
 - Finally, if it is activated after [_Legendary Fire King Ponix_]'s effect, you are able to end on a [_Garunix Eternity, Hyang of the Fire Kings_] setup, with a Level 8 Ulcanix, Sacred and Ponix on the field.
 
-> On the other hand, if Droll isn't an issue, [starting with Ponix](../ponix/5_2-card-ulcanix.md) allows you to set up an early monster negate, or two board wipes, depending on the route you choose to follow.
+> On the other hand, if Droll isn't an issue, [starting with Ponix](../ponix/5-ulcanix.md) allows you to set up an early monster negate, or two board wipes, depending on the route you choose to follow.
 
 <center>
 <br/><video controls>
