@@ -32,7 +32,6 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 #### Opponent's turn
 9. In the Standby Phase, activate Ponix - add it from the GY to your hand.
 
-> This is the bread and butter combo of the Fire King deck - make sure to learn it well, as the rest of the 2-card combos in this guide will build on top of it.
->
-> To see what we mean, continue to the generic [2-card Ponix combo](./2_2-card-generic.md).
+> This is the bread and butter combo of the Fire King deck. Make sure to learn it well, as the rest of the 2-card combos in this guide will build on top of it.
+
 {{#include ../../common/links.md}}
