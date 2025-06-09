@@ -34,4 +34,4 @@ Under [_Mulcharmy Fuwalos_], your opponent doesn't draw any cards.
 >
 > **Why did we not use Ulcanix's effect?**
 >
-> We don't need the additional material Ulcanix would provide during this line. As such, we can instead use her effect during the opponent's turn, to chain-block Sacred's effect. After Ulcanix is destroyed by Sky Burn, you can go CL1 Sacred, CL2 Ulcanix, thus making it difficult for your opponent to prevent Sacred from resolving.
+> We don't need the additional material Ulcanix would provide during this line. As such, we can instead use her effect during the opponent's turn, to chain-block Sacred's effect. After Ulcanix is destroyed by Arvata, you can go CL1 Sacred, CL2 Ulcanix, thus making it difficult for your opponent to prevent Sacred from resolving.
