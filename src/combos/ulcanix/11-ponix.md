@@ -24,7 +24,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 ### Steps
 1. Normal Summon [_Fire King Courtier Ulcanix_].
-2. Activate Ulcanix: destroy [_Legendary Fire King Ponix_], add [_Sacred Fire King Garunix_] from your Deck to your hand, then declare on resolution that Ulcanix is now Level 8.
+2. Activate Ulcanix: destroy [_Legendary Fire King Ponix_], add [_Sacred Fire King Garunix_] from your Deck to your hand, <span style="color:darkorange;"><b>then declare on resolution that Ulcanix is now Level 8.</b></span>
 3. Activate Sacred: Special Summon it from your hand.
 4. Activate Sacred again: destroy [_Fire King High Avatar Kirin_] in your Deck.
 5. Activate High Kirin: Special Summon Ponix from the GY.
