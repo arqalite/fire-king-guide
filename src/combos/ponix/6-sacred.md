@@ -2,7 +2,7 @@
 
 Having [_Sacred Fire King Garunix_] in your hand means you can use [_Fire King Island_] to add something else from your Deck. 
 
-you can take advantage of this and grab [_Fire King High Avatar Kirin_], opening up 3 possible lines of play:
+You can take advantage of this and grab [_Fire King High Avatar Kirin_], opening up 3 possible lines of play:
 
 <form autocomplete="off">
     <select id="comboDropdown">
