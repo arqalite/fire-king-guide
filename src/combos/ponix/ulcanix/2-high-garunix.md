@@ -44,6 +44,6 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 3 cards.
   <br/>
   Nibiru will prevent you from summoning Sunlight Wolf, if activated on the 5th summon at Step 9, or from using it if held until the end of the Main Phase.
   
-  That said, High Garunix will Special Summon itself in the Standby Phase, and you can use Promethean Princess' GY effect to start an interruption sequence.
+  That said, High Garunix will Special Summon itself in the Standby Phase, ensuring you can use Promethean Princess' GY effect to start an interruption sequence.
 
 </details>
