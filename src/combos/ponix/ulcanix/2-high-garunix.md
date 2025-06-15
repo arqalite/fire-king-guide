@@ -42,15 +42,8 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 3 cards.
 <details>
   <summary><b>If Nibiru hits</b></summary>
   <br/>
-  Depending on where Nibiru is activated, the following will happen:
+  Nibiru will prevent you from summoning Sunlight Wolf, if activated on the 5th summon at Step 9, or from using it if held until the end of the Main Phase.
+  
+  That said, High Garunix will Special Summon itself in the Standby Phase, and you can use Promethean Princess' GY effect to start an interruption sequence.
 
-  ##### On the 5th summon (step 9)
-  Nibiru will remove Promethean Princess, meaning you are no longer able to reach Sunlight Wolf.
-
-  However, High Garunix will revive in the Standby Phase, removing Nibiru and its token. Coupled with Promethean Princess' GY effect, you should be able to start an interruption sequence.
-
-  ##### At the end of the Main Phase (step 12)
-  Nibiru will remove Sunlight Wolf before High Garunix can Summon itself and trigger Wolf, meaning you cannot add Ponix back to your hand.
-
-  Just like in the previous section, you have Promethean Princess in the GY and High Garunix on the field, so you can start interrupting your opponent that way.
-
+</details>
