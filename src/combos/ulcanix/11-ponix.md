@@ -48,12 +48,13 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
   <br/>
   Depending on where Nibiru is activated, you can do the following:
 
-  ##### On the 5th summon (step 10)
-  Nibiru will remove Sunlight Wolf and High Garunix off the field on the same Chain as Wolf's effect, meaning you will still get to recover High Kirin from the GY.
+  &bull; **On the 5th summon (step 10)**
+  <p style="padding-left:25px;">Since it activates on the same Chain as Sunlight Wolf's effect, you can recover High Kirin as planned.</p>
 
-  You can start the interruption sequence by destroying Arvata with High Kirin's effect.
-  #### If you choose to extend further
-  Nibiru will remove Promethean Princess (and the monster she summoned), causing the same scenario as above, where you have to start the interruption sequence by destroying Arvata with High Kirin's effect.
+  &bull; **If you choose to extend past step 11**
+  <p style="padding-left:25px;">Nibiru will remove Promethean Princess and the monster she summoned. That said, Promethean Princess will still act as an additional interruption thanks to her GY effect.</p>
+
+  In both scenarios, you can start the interruption sequence by destroying Arvata with High Kirin's effect.
 </details>
 
 
