@@ -43,16 +43,14 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 <details>
   <summary><b>If Nibiru hits</b></summary>
   <br/>
-  Depending on where Nibiru is activated, you can do the following:
+  Depending on where Nibiru is activated, the following will apply:
 
-  ##### On the 5th summon (step 9)
-  Nibiru will remove Sunlight Wolf and Ponix off the field, cutting you off from getting to recover High Kirin from the GY. This also means you no longer have access to Promethean Princess.
+  **&bull; On the 5th summon (step 9)**
+  <p style="padding-left:25px;">Sunlight Wolf and Ponix will be sent to GY before you can recover High Kirin. Unfortunately, this also stops you from summoning Promethean Princess.</p>
 
-  However, High Garunix will revive in the Standby Phase, removing Nibiru and its token. Coupled with the set Sky Burn, you should be able to start an interruption sequence.
+  **&bull; At the end of the Main Phase (step 15)**
+  <p style="padding-left:25px;">Ponix will be sent to GY before it can be destroyed by High Garunix, so it will not return to your hand in the Standby Phase.
 
-  ##### At the end of the Main Phase (step 15)
-  Nibiru will remove Promethean Princess and Ponix - meaning Ponix cannot be destroyed by High Garunix in order to return to your hand in the Standby Phase.
-
-  As mentioned above, High Garunix will revive and wipe the board in the Standby Phase, and you have Sky Burn set.
+  Either way, High Garunix will Special Summon itself in the Standby Phase, ensuring you can use Sky Burn (or Promethean Princess, if available) to start an interruption sequence.
 
 </details>
