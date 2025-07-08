@@ -5,7 +5,7 @@ As Arvata is already in the GY at the time [_Sacred Fire King Garunix_] is summo
 This allows you to still reach the same Promethean Princess + Arvata endboard while giving you more options. By Special Summoning Ulcanix during the interruption sequence, you can add any Fire King you need from your Deck to your hand, either to further interrupt your opponent, or set up your turn 3 plays.
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="arvata/princess-arvata-ulcanix.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

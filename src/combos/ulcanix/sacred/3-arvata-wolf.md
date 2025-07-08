@@ -5,7 +5,7 @@ Alternatively, you can end on a [_Salamangreat Sunlight Wolf_] with nothing unde
 By summoning [_Sacred Fire King Garunix_] under Wolf's link, you're able to recover [_Fire King High Avatar Kirin_] from the GY (or potentially an [_Ash Blossom & Joyous Spring_], if you used it by this point).
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

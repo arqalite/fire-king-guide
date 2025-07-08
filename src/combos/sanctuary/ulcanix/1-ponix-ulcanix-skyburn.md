@@ -3,7 +3,7 @@
 This line is the simplest, aiming to set up [_Fire King Sky Burn_] besides the usual Fire King engine.
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

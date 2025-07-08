@@ -5,7 +5,7 @@ This combo plays a little lower to the ground, choosing to end on 2 Level 8s, re
 This is preferable when you have a lot of non-engine or if [_Mulcharmy Fuwalos_] is used against you.
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

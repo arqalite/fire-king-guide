@@ -3,7 +3,7 @@
 Alternatively, you can opt to set up [_Fire King Avatar Arvata_] instead of [_Fire King Sky Burn_].
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

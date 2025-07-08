@@ -5,7 +5,7 @@ The goal of this line is to end on 2 Hyang materials + High Kirin, and let High 
 If you choose to Special Summon Ulcanix, you can then pop Hyang to add a Fire King from your Deck to your hand, giving you plenty of flexibility in setting up for your next turn.
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

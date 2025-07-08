@@ -3,3 +3,8 @@ details {
     background-color: hsl(210, 25%, 8%);
     padding: 1.5rem;
 }
+
+body {
+    --plyr-video-controls-background: rgba(0, 0, 0, 0);
+    --plyr-color-main: darkorange;
+}

@@ -5,7 +5,7 @@ With this starting hand, you can set up [_Garunix Eternity, Hyang of the Fire Ki
 > Alternatively, you can perform the [_Sanctuary + any FIRE monster_] combo to dig through your Deck faster and improve your topdeck.
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="1-card.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

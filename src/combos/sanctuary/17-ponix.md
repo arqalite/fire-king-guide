@@ -7,7 +7,7 @@ Going with [_Fire King Sanctuary_] allows you to play through [_Droll & Lock Bir
 > If Droll isn't an issue, [starting with Ponix] allows you to bait out handtraps and search [_Fire King Sky Burn_].
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="1-card.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

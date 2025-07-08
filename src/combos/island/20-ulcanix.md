@@ -5,7 +5,7 @@ By correctly sequencing your effects, you're able to get [_Legendary Fire King P
 We use [_Fire King High Avatar Garunix_]'s effect to our advantage here, sending Promethean Princess to the GY so we have a way to start interrupting our opponent during their turn.
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

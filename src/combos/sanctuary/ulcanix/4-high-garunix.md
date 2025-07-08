@@ -3,7 +3,7 @@
 Last but not least, this is a greedier line that tries to set up a [_Promethean Princess, Bestower of Flames_] in the GY, search [_Fire King Sky Burn_] _and_ recover a [_Fire King High Avatar Kirin_], giving you three separate ways to start the interruption sequence.
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

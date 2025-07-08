@@ -5,7 +5,7 @@ Instead of destroying the Ulcanix on your side of the field, you can opt to dest
 Then, by destroying her with the [_Fire King High Avatar Kirin_] in your hand, you get an additional interruption ready to use whenever you need it.
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

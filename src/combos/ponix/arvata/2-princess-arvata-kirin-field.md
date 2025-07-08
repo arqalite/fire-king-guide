@@ -7,7 +7,7 @@ It can either be used as material for [_Garunix Eternity, Hyang of the Fire King
 A neat trick you can do with this endboard is using Arvata to negate a monster effect, destroying High Kirin on resolution. High Kirin's effect will trigger, Special Summoning a Fire King from your hand or GY, then you can destroy 1 card on the field (such as the monster negated earlier, turning Arvata's negate into a destruction effect too).
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="arvata/princess-arvata-kirin.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

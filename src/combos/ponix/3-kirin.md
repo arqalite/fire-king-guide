@@ -11,7 +11,7 @@ When going for the 1-card combo, High Kirin allows you to squeeze additional car
 Let's see it in action.
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="kirin.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

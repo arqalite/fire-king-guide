@@ -8,7 +8,7 @@ Starting with [_Fire King Courtier Ulcanix_] lets you grab [_Sacred Fire King Ga
 > On the other hand, if Droll isn't an issue, [starting with Ponix](../ponix/5-ulcanix.md) allows you to set up an early monster negate, or two board wipes, depending on the route you choose to follow.
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

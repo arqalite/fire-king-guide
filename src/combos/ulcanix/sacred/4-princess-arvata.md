@@ -7,7 +7,7 @@ It's a very powerful combo, but it comes at the cost of giving 4 draws under [_M
 > You can skip the Sunlight Wolf recycle and go straight for Promethean Princess if you want, thus only giving 2 draws under Fuwalos. Keep that in mind as you weigh your options.
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="14-sacred-4.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

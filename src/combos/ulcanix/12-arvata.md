@@ -3,7 +3,7 @@
 Opening [_Fire King Avatar Arvata_] alongside Ulcanix allows you to insulate your plays from [_Nibiru, the Primal Being_]. As such, you get to recycle a card with [_Salamangreat Sunlight Wolf_] before ending on Arvata and [_Promethean Princess, Bestower of Flames_].
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

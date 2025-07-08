@@ -3,7 +3,7 @@
 This is a cute line that ignores Nibiru entirely. you make full use of Ulcanix and High Garunix's effects to get a High Kirin + a FIRE target in your hand, and set up Promethean Princess in the GY, while still having a FIRE on the field so her effect is live.
 
 <center>
-<br/><video controls>
+<br/><video id="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
