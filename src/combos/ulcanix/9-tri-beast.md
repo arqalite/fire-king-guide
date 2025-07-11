@@ -7,7 +7,7 @@ By grabbing [_Sacred Fire King Garunix_] directly, you're able to end on the usu
 This does mean your most important interruption - [_Garunix Eternity, Hyang of the Fire Kings_] - is inaccessible during your opponent's turn. As such, this line really shines when you have a lot of non-engine to back this board up.
 
 <center>
-<br/><video id="player" controls preload="auto">
+<br/><video class="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

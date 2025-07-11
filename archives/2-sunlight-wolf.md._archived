@@ -5,7 +5,7 @@ This route chooses to set up [_Fire King Sanctuary_] via [_Legendary Fire King P
 That said, you're no longer able to reach Promethean Princess anymore without playing into [_Nibiru, the Primal Being_]. As such, you can instead make use of [_Fire King High Avatar Garunix_]'s effect to trigger [_Salamangreat Sunlight Wolf_] and recover a card from the GY.
 
 <center>
-<br/><video id="player" controls preload="auto">
+<br/><video class="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

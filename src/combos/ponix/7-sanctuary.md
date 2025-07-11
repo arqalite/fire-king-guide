@@ -9,8 +9,8 @@ Starting with [_Legendary Fire King Ponix_] can be preferable for two reasons:
 > That said, this approach is vulnerable to [_Droll & Lock Bird_]. You can play around that by [starting with Sanctuary].
 
 <center>
-<br/><video id="player" controls preload="auto">
-  <source src="ponix-sanctuary.mp4" type="video/mp4">
+<br/><video class="player" controls preload="auto">
+  <source src="7-ponix-sanctuary.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
 </center>

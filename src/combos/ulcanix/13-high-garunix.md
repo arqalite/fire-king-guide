@@ -5,7 +5,7 @@ With this starting hand, you can take advantage of [_Fire King High Avatar Garun
 The goal is to get the Fire King engine going, then summon [_Promethean Princess, Bestower of Flames_], which will be sent to the GY by High Garunix in the Standby Phase.
 
 <center>
-<br/><video id="player" controls preload="auto">
+<br/><video class="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

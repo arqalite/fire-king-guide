@@ -5,7 +5,7 @@ Similarly to the [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast] combo
 One neat thing is that you can use Ulcanix's effect to chainblock [_Sacred Fire King Garunix_], ensuring Sacred cannot be hit by a [_Dominus Impulse_] or any kind of interruption that would end your turn right there.
 
 <center>
-<br/><video id="player" controls preload="auto">
+<br/><video class="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

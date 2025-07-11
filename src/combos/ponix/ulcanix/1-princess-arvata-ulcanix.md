@@ -1,8 +1,8 @@
 ## Promethean Princess + Arvata setup (with Ulcanix in GY)
 
 <center>
-<br/><video id="player" controls preload="auto">
-  <source src="2-card-generic.mp4" type="video/mp4">
+<br/><video class="player" controls preload="auto">
+  <source src="5-ponix-ulcanix-1.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
 </center>

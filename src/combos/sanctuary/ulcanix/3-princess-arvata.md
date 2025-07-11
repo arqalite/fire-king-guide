@@ -3,7 +3,7 @@
 This combo chooses to set up the usual [_Promethean Princess, Bestower of Flames_] + [_Fire King Avatar Arvata_] endboard, but starting with [_Fire King Sanctuary_] means this can now be performed through [_Droll & Lock Bird_].
 
 <center>
-<br/><video id="player" controls preload="auto">
+<br/><video class="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

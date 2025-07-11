@@ -5,7 +5,7 @@ With the help of [_Salamangreat Almiraj_], you're able to turn any Normal Summon
 This means that a starting hand of [_Fire King Sanctuary_] and 4 handtraps is actually able to combo and set up [_Garunix Eternity, Hyang of the Fire Kings_].
 
 <center>
-<br/><video id="player" controls preload="auto">
+<br/><video class="player" controls preload="auto">
   <source src="1-card.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

@@ -5,7 +5,7 @@ At its core, [_Fire King Courtier Ulcanix_]'s role as a starter is to give you a
 As such, the basic combo ends on a similar result as the [1-card Ponix] combo: 2 Level 8 monsters, and [_Fire King Sanctuary_] ready to Xyz Summon during the opponent's turn.
 
 <center>
-<br/><video id="player" controls preload="auto">
+<br/><video class="player" controls preload="auto">
   <source src="2-card-generic.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>

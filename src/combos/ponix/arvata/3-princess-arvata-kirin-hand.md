@@ -5,8 +5,8 @@ Variating further on the previous line, you can instead opt to go for [_Salamang
 It's a very open-ended line, giving you access to a few different plays you can make before passing turn to the opponent.
 
 <center>
-<br/><video id="player" controls preload="auto">
-  <source src="arvata/princess-arvata-kirin-hand.mp4" type="video/mp4">
+<br/><video class="player" controls preload="auto">
+  <source src="4-ponix-arvata-3.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
 </center>
