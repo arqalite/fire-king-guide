@@ -8,7 +8,7 @@ The goal is to set up the FK engine and end on a [_Promethean Princess, Bestower
 
 <center>
 <br/><video class="player" controls preload="auto">
-  <source src="2-ponix-fire.mp4" type="video/mp4">
+  <source src="2-ponix-tri-beast.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
 </center>
