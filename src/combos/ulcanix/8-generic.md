@@ -6,7 +6,7 @@ As such, the basic combo ends on a similar result as the [1-card Ponix] combo: 2
 
 <center>
 <br/><video class="player" controls preload="auto">
-  <source src="2-card-generic.mp4" type="video/mp4">
+  <source src="8-ulcanix-fire.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
 </center>

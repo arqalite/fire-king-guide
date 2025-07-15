@@ -6,7 +6,7 @@ By summoning [_Sacred Fire King Garunix_] under Wolf's link, you're able to reco
 
 <center>
 <br/><video class="player" controls preload="auto">
-  <source src="2-card-generic.mp4" type="video/mp4">
+  <source src="14-ulcanix-sacred-3.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
 </center>

@@ -6,7 +6,7 @@ The goal is to get the Fire King engine going, then summon [_Promethean Princess
 
 <center>
 <br/><video class="player" controls preload="auto">
-  <source src="2-card-generic.mp4" type="video/mp4">
+  <source src="13-ulcanix-high-garunix.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
 </center>

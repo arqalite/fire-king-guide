@@ -6,7 +6,7 @@ One neat thing is that you can use Ulcanix's effect to chainblock [_Sacred Fire 
 
 <center>
 <br/><video class="player" controls preload="auto">
-  <source src="2-card-generic.mp4" type="video/mp4">
+  <source src="10-ulcanix-ulcanix.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
 </center>
