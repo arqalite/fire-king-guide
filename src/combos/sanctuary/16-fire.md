@@ -4,7 +4,7 @@ By already having a FIRE monster in your hand, we can perform the previous combo
 
 <center>
 <br/><video class="player" controls preload="auto">
-  <source src="1-card.mp4" type="video/mp4">
+  <source src="16-sanctuary-fire.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
 </center>

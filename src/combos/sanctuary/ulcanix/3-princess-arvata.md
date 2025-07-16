@@ -4,7 +4,7 @@ This combo chooses to set up the usual [_Promethean Princess, Bestower of Flames
 
 <center>
 <br/><video class="player" controls preload="auto">
-  <source src="2-card-generic.mp4" type="video/mp4">
+  <source src="19-sanctuary-ulcanix-3.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
 </center>

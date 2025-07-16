@@ -6,7 +6,7 @@ With this starting hand, you can set up [_Garunix Eternity, Hyang of the Fire Ki
 
 <center>
 <br/><video class="player" controls preload="auto">
-  <source src="1-card.mp4" type="video/mp4">
+  <source src="18-sanctuary-sacred.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
 </center>

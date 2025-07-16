@@ -6,7 +6,7 @@ This means that a starting hand of [_Fire King Sanctuary_] and 4 handtraps is ac
 
 <center>
 <br/><video class="player" controls preload="auto">
-  <source src="1-card.mp4" type="video/mp4">
+  <source src="15-sanctuary-handtrap.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
 </center>
