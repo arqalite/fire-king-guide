@@ -2,7 +2,7 @@
 
 By already having a FIRE monster in your hand, we can perform the previous combo without Link Summoning [_Salamangreat Almiraj_], making the line slightly more efficient, and reducing [_Mulcharmy Fuwalos_] draws to just 1.
 
-> In the video below, we will use [_Flamvell Guard_] as a placeholder for any FIRE monster. In real duels, this can be any card in your deck that fulfills these requirements.
+> In the video below, we will use [_Flamvell Guard_] as a placeholder for any FIRE monster. In real duels, this can be any card in your deck that fulfills this requirement.
 
 <center>
 <br/><video class="player" controls preload="auto">

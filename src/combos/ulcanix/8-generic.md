@@ -4,7 +4,7 @@ At its core, [_Fire King Courtier Ulcanix_]'s role as a starter is to give you a
 
 As such, the basic combo ends on a similar result as the [1-card Ponix] combo: 2 Level 8 monsters, and [_Fire King Sanctuary_] ready to Xyz Summon during the opponent's turn.
 
-> In the video below, we will use [_Flamvell Guard_] as a placeholder for any FIRE monster. In real duels, this can be any card in your deck that fulfills these requirements.
+> In the video below, we will use [_Flamvell Guard_] as a placeholder for any FIRE monster. In real duels, this can be any card in your deck that fulfills this requirement.
 
 <center>
 <br/><video class="player" controls preload="auto">
