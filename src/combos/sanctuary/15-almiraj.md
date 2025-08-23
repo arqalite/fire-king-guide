@@ -4,6 +4,8 @@ With the help of [_Salamangreat Almiraj_], you're able to turn any Normal Summon
 
 This means that a starting hand of [_Fire King Sanctuary_] and 4 handtraps is actually able to combo and set up [_Garunix Eternity, Hyang of the Fire Kings_].
 
+> In the video below, we will use [_Droll & Lock Bird_] as a placeholder for any Normal Summoned monster with 1000 or less ATK. In real duels, this can be any card in your deck that fulfills these requirements - usually one of your handtraps.
+
 <center>
 <br/><video class="player" controls preload="auto">
   <source src="15-sanctuary-handtrap.mp4" type="video/mp4">

@@ -6,6 +6,8 @@ By grabbing [_Sacred Fire King Garunix_] directly, you're able to end on the usu
 
 This does mean your most important interruption - [_Garunix Eternity, Hyang of the Fire Kings_] - is inaccessible during your opponent's turn. As such, this line really shines when you have a lot of non-engine to back this board up.
 
+> In the video below, we will use [_Little Chimera_] as a placeholder for any FIRE Beast, Beast-Warrior or Winged Beast. In real duels, this can be any card in your deck that fulfills these requirements.
+
 <center>
 <br/><video class="player" controls preload="auto">
   <source src="9-ulcanix-tri-beast.mp4" type="video/mp4">

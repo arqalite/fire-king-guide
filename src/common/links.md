@@ -27,6 +27,10 @@
 <!-- Links to combos -->
 [1-card Ponix]: /combos/ponix/1.md
 
+<!-- Other cards -->
+[_Little Chimera_]: https://yugipedia.com/wiki/Little_Chimera
+[_Flamvell Guard_]: https://yugipedia.com/wiki/Flamvell_Guard
+
 <script src="/common/dropdown.js"></script>
 <link rel="stylesheet" href="/common/dropdown.css">
 <link rel="stylesheet" href="/common/table.css">
