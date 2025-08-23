@@ -4,7 +4,6 @@ Lastly, you can put it all together and combo up to a [_Promethean Princess, Bes
 
 It's a very powerful combo, but it comes at the cost of giving 4 draws under [_Mulcharmy Fuwalos_], so be sure it's out of the picture before committing.
 
-> You can skip the Sunlight Wolf recycle and go straight for Promethean Princess if you want, thus only giving 2 draws under Fuwalos. Keep that in mind as you weigh your options.
 
 <center>
 <br/><video class="player" controls preload="auto">
@@ -19,6 +18,8 @@ This combo stops [_Nibiru, the Primal Being_], as Arvata is the 5th summon.
 > However, you'll be forced to destroy Sunlight Wolf if you don't have another FIRE in your hand, so be careful!
 
 Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
+
+> You can skip the Sunlight Wolf recycle and go straight for Promethean Princess if you want, thus only giving 2 draws under Fuwalos. Keep that in mind as you weigh your options.
 
 </div>
 
