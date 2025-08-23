@@ -8,3 +8,19 @@ body {
     --plyr-video-controls-background: rgba(0, 0, 0, 0);
     --plyr-color-main: darkorange;
 }
+
+
+/* Scale up only for displays larger than 1080p */
+@media (min-width: 1921px) {
+    main {
+        font-size: 18px;
+    }
+
+    .sidebar {
+        font-size: 18px;
+    }
+
+    :root {
+        --content-max-width: 40vw;
+    }
+}
