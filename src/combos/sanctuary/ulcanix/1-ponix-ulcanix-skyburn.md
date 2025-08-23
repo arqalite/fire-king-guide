@@ -32,7 +32,7 @@ Under [_Mulcharmy Fuwalos_], your opponent doesn't draw any cards.
 >
 > It's necessary to destroy High Kirin from the Deck instead of [_Fire King Avatar Arvata_], in order to allow Ulcanix to use her effect.
 >
-> That said, High Kirin is not wasted - during the interruption sequence, you can Special Summon him from the GY, then let him get destroyed to make use of his effect.
+> That said, High Kirin is not wasted - during the interruption sequence, you can Special Summon him from the GY by destroying Arvata, then let him get destroyed to make use of his effect.
 >
 > **Why did we not use Ulcanix's effect?**
 >
