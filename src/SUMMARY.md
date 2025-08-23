@@ -1,5 +1,5 @@
 # Summary
-[Homepage](./cover-page.md)
+[Home](./cover-page.md)
 
 # Ponix combos
 - [Ponix](combos/ponix/1.md)
