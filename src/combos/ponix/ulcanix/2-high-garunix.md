@@ -29,7 +29,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 3 cards.
 7. Activate High Kirin: Special Summon Ulcanix from the GY.
 8. Activate Ulcanix: destroy High Garunix and add a second High Kirin from your Deck to your hand.
 9. Link Summon [_Promethean Princess, Bestower of Flames_].
-10. Activate Promethean Princess: Special Summon any FIRE monster from the GY.
+10. Activate Promethean Princess: Special Summon any FIRE monster from the GY, <span style="color:darkorange;"><b>except High Garunix!</b></span>
 11. Link Summon [_Salamangreat Sunlight Wolf_].
 12. Pass turn.
 
