@@ -53,6 +53,6 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
   ##### At the end of the Main Phase (step 15)
   Nibiru will remove Promethean Princess and Ponix - meaning Ponix cannot be destroyed by High Garunix in order to return to your hand in the Standby Phase.
 
-  As mentioned above, High Garunix will revive and wipe the board in the Standby Phase, and you have Sky Burn set.
+  As mentioned above, High Garunix will revive and wipe the board in the Standby Phase; you have Sky Burn set and Promethean Princess waiting in the GY.
 
 </details>
