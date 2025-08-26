@@ -27,9 +27,6 @@ jobs:
           echo `pwd`/mdbook >> $GITHUB_PATH
       - name: Fix links in book
         run: |
-          sed -i 's/]: \//]: \/fire-king-guide\//g' src/common/links.md
-          sed -i 's/href="\//href="\/fire-king-guide\//g' src/common/links.md
-          sed -i 's/src="\//src="\/fire-king-guide\//g' src/common/links.md
           sed -i "s#{VERSION}#${{ github.ref_name }}#g" src/cover-page.md
           sed -i "s#{DATE}#${{ steps.date.outputs.date }}#g" src/cover-page.md
       - name: Build Book
