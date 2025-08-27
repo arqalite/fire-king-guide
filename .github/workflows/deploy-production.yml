@@ -8,39 +8,43 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # To push a branch
-      pages: write # To push to a GitHub Pages site
-      id-token: write # To update the deployment status
+      contents: write
+      pages: write
+      id-token: write
     steps:
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Install latest mdbook
+
+      - name: Install latest mdBook
         run: |
-          tag=$(curl 'https://api.github.com/repos/rust-lang/mdbook/releases/tags/v0.4.43' | jq -r '.tag_name')
+          tag=$(curl 'https://api.github.com/repos/rust-lang/mdbook/releases/latest' | jq -r '.tag_name')
           url="https://github.com/rust-lang/mdbook/releases/download/${tag}/mdbook-${tag}-x86_64-unknown-linux-gnu.tar.gz"
           mkdir mdbook
           curl -sSL $url | tar -xz --directory=./mdbook
           echo `pwd`/mdbook >> $GITHUB_PATH
-      - name: Fix links in book
+      
+      - name: Set version and date
         run: |
-          sed -i "s#{VERSION}#${{ github.ref_name }}#g" src/cover-page.md
-          sed -i "s#{DATE}#${{ steps.date.outputs.date }}#g" src/cover-page.md
-      - name: Build Book
-        run: |
-          # This assumes your book is in the root of your repository.
-          # Just add a `cd` here if you need to change to another directory.
-          mdbook build
-      - name: Setup Pages
+          sed -i "s#{VERSION}#${{ github.ref_name }}#g" theme/index.hbs
+          sed -i "s#{DATE}#${{ steps.date.outputs.date }}#g" theme/index.hbs
+
+      - name: Build book
+        run: mdbook build
+
+      - name: Setup GitHub Pages
         uses: actions/configure-pages@v4
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
           path: "book"
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

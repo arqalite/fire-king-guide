@@ -1,5 +1,7 @@
 # Summary
-[Home](./cover-page.md)
+[Home](./index.md)
+
+---
 
 # Ponix combos
 - [Ponix](combos/ponix/1.md)
@@ -28,3 +30,7 @@
 
 # Island combos
 - [Island + Ulcanix](combos/island/20-ulcanix.md)
+
+---
+
+[Credits](./credits.md)
