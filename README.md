@@ -1,8 +1,6 @@
 # The Fire King Sanctuary
 
-A written guide that teaches the player how to play Fire King, a Yu-Gi-Oh! deck.
-
-You can read the latest released version here: https://arqalite.github.io/fire-king-guide/
+A written guide to Fire Kings - for beginners and veterans alike.
 
 ### Building the book locally
 You will need [mdBook] installed.
@@ -12,21 +10,13 @@ Running `mdbook serve --open` should be all you need to do.
 [mdBook]: https://rust-lang.github.io/mdBook/
 
 ### Contributing
-
-Currently I do not accept external contributions via PRs. If you have feedback
-regarding the guide, please open an issue, or reach out to me (@arqalite) on Discord.
-Or you can discuss on [the Fire King Discord server].
+If you have feedback/suggestions/complaints regarding the guide, please open an issue, or reach out to us on the [Fire King Discord server].
 
 ### License
 
-The contents of the book are licensed under CC BY-SA 4.0. 
-Anything else is licensed under the MIT license.
+This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0</a>.
 
 ### Credits
-Thanks to the [the Fire King Discord server] for keeping my interest in the deck alive,
-and their valuable feedback as the book was written and edited.
+Every combo line, video and piece of content in this guide was created and validated by the Island Guides, part of the [Fire King Discord server]. 
 
-Card images courtesy of [Yugipedia].
-
-[Yugipedia]: https://yugipedia.com/wiki/Yugipedia
-[the Fire King Discord server]: https://discord.gg/ErkeY4g9PG
+[Fire King Discord server]: https://discord.gg/7PNBJnu6
