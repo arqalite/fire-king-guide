@@ -1,0 +1,53 @@
+/* Styling for `If Nibiru hits` boxes */
+details {
+    border: 2px solid #444;
+    background-color: hsl(210, 25%, 8%);
+    padding: 1.5rem;
+}
+
+/* Make video player match the guide colors */
+body {
+    --plyr-video-controls-background: rgba(0, 0, 0, 0);
+    --plyr-color-main: darkorange;
+}
+
+/* Scale up content for HiDPI screens */
+@media (min-width: 1921px) {
+    main {
+        font-size: 18px;
+    }
+
+    .sidebar {
+        font-size: 18px;
+    }
+
+    :root {
+        --content-max-width: 40vw;
+    }
+}
+
+/* Hide individual combos behind a dropdown, 
+for opening hands with more than one combo. */
+.inv {
+    display: none;
+}
+
+#comboDropdown {
+    width: 100%;
+    height: 4rem;
+    background-color: hsl(210, 25%, 8%);
+}
+
+option {
+    width: 100%;
+    height: 4rem;
+}
+
+/* Increase line height for lists. */
+.content ol {
+    line-height: 1.75em;
+}
+
+.content ul {
+    line-height: 1.60em;
+}

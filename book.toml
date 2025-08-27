@@ -8,3 +8,5 @@ title = "The Fire King Sanctuary"
 [output.html]
 default-theme = "ayu"
 preferred-dark-theme = "ayu"
+additional-css = ["theme/style.css"]
+additional-js = ["theme/dropdown.js"]

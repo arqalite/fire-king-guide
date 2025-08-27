@@ -1,3 +1,6 @@
+// Hide individual combos behind a dropdown, 
+// for opening hands with more than one combo.
+
 dropdown = document.getElementById('comboDropdown');
 
 if (dropdown != null) {
