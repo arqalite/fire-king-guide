@@ -28,3 +28,6 @@
 
 # Island combos
 - [Island + Ulcanix](combos/island/20-ulcanix.md)
+
+# Credits
+[Credits](./credits.md)
