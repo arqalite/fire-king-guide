@@ -1,10 +1,13 @@
 # Credits
 
-This project was made possible by the works of the Fire King Discord guide writers working on writing the combo lines, desigining the website, and recording the combo videos. If you find this guide helpful or just need more help in your Fire King journey, feel free to join the <a href="https://discord.gg/7PNBJnu6"> Fire King Discord Server</a>.
+Every combo line, video and piece of content in this guide was created and validated by the Island Guides, part of the [Fire King Discord server]. 
 
-<div style="display: flex; flex-direction:row; align-items:center; justify-content: center;"> 
-    <div>
-    <h1> Special Thanks to: </h1>
-    list a bunch of names here or something idk
-    </div>
-</div>
+> **Questions, or feedback?**
+>
+> If you have any questions regarding this guide, or would like to share feedback, please reach out in the `insert channel name here` channel.
+>
+> If you are not able to use Discord, feel free to send an email to `insert email address here` instead.
+
+<i>This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0</a> and is the property of the [Fire King Discord server].</i>
+
+[Fire King Discord server]: https://discord.gg/7PNBJnu6
