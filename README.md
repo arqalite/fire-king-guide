@@ -10,7 +10,7 @@ Running `mdbook serve --open` should be all you need to do.
 [mdBook]: https://rust-lang.github.io/mdBook/
 
 ### Contributing
-If you have feedback/suggestions/complaints regarding the guide, please open an issue, or reach out to us on the [Fire King Discord server].
+Please reach out to us on Discord with your suggestions or feedback.
 
 ### License
 
