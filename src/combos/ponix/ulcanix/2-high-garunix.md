@@ -47,3 +47,9 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 3 cards.
   That said, High Garunix will Special Summon itself in the Standby Phase, ensuring you can use Promethean Princess' GY effect to start an interruption sequence.
 
 </details>
+
+<details>
+  <summary><span style="color:darkorange;"><b>Why not summon High Garunix?</b></span></summary>
+  <br/>
+  If the High Garunix was summoned last turn and then linked off then <b>it is not considered destroyed anymore</b> (the card being destroyed has to be the last thing to happen to the card). In this case, it will not summon itself back during the standby phase.
+</details>
