@@ -42,7 +42,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
 > Optionally, you can use Promethean Princess' effect after step 10 to Special Summon either Ponix or Arvata from the GY, and let them get destroyed by High Garunix to trigger their effects. Ponix would return to your hand in your Standby Phase, ensuring you have turn 3 follow-up, while Arvata would allow you to Special Summon something from the GY, helping you maintain board presence and/or Level 8 material for Sanctuary.
 >
-> You can also end on [_Salamangreat Sunlight Wolf_] here, using Promethean Princess and the summoned monster; in the Standby Phase, summon High Garunix under its link, to allow you to recover a monster from the GY - for example, an [_Ash Blossom & Joyous Spring_] used during your turn to negate a [_Mulcharmy Fuwalos_].
+> You can also end on [_Salamangreat Sunlight Wolf_] here, using Promethean Princess and the summoned monster; in the Standby Phase, summon High Garunix to the zone Sunlight Wolf points to, to allow you to recover a monster from the GY - for example, an [_Ash Blossom & Joyous Spring_] used during your turn to negate a [_Mulcharmy Fuwalos_].
 
 
 {{#include ../../common/links.md}}
