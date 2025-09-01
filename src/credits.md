@@ -4,7 +4,7 @@ Every combo line, video and piece of content in this guide was created and valid
 
 <table class="credits-list">
     <tr>
-        <td>arqalite</td>
+        <td><a href="https://github.com/arqalite">arqalite</a></td>
         <td>Lead Developer & Writer</td>
     </tr>
     <tr>
@@ -46,4 +46,3 @@ Every combo line, video and piece of content in this guide was created and valid
 <i>This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0</a> and is the property of the [Fire King Discord server].</i>
 
 [Fire King Discord server]: https://discord.gg/7PNBJnu6
-[arqalite]: https://github.com/arqalite/fire-king-guide
