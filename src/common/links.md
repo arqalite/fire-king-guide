@@ -16,6 +16,8 @@
 [_Relinquished Anima_]: https://yugipedia.com/wiki/Relinquished_Anima
 [_Salamangreat Almiraj_]: https://yugipedia.com/wiki/Salamangreat_Almiraj
 [_Salamangreat Sunlight Wolf_]: https://yugipedia.com/wiki/Salamangreat_Sunlight_Wolf
+[_Amphibious Swarmship Amblowhale_]: https://yugipedia.com/wiki/Amphibious_Swarmship_Amblowhale
+[_Duelittle Chimera_]: https://yugipedia.com/wiki/Duelittle_Chimera
 
 <!-- Le handtraps -->
 [_Nibiru, the Primal Being_]: https://yugipedia.com/wiki/Nibiru,_the_Primal_Being
