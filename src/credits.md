@@ -25,7 +25,12 @@ Every combo line, video and piece of content in this guide was created and valid
     </tr>
     <tr>
         <td>Arph</td>
-        <td>Combo Designer & Quality Assurance<br/><br/>34th place at YCS Providence 2025</td>
+        <td>
+            Combo Designer (<a href="/combos/ulcanix/9-tri-beast.md">9</a>, <a href="/combos/ulcanix/10-ulcanix.md">10</a>) & Quality Assurance
+            <br/>
+            <br/>
+            <a href="https://yugiohblog.konami.com/2025/ycs/ycs-providence-standings-after-round-11-final-standings-after-swiss/">34th place at YCS Providence 2025</a>
+        </td>
     </tr>
     <tr>
         <td>Gene</td>
@@ -50,3 +55,5 @@ Every combo line, video and piece of content in this guide was created and valid
 <i>This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0</a> and is the property of the [Fire King Discord server].</i>
 
 [Fire King Discord server]: https://discord.gg/7PNBJnu6
+[9]: combos/ulcanix/9-tri-beast.md
+[10]: combos/ulcanix/10-ulcanix.md

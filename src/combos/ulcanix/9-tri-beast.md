@@ -34,4 +34,6 @@ Additionally, this combo plays through [_Droll & Lock Bird_].
 6. Link Summon [_Promethean Princess, Bestower of Flames_].
 7. Activate Promethean Princess: Special Summon Arvata from the GY.
 
+> Thanks to [Arph](/credits.md) for sharing this line with us!
+
 {{#include ../../common/links.md}}
