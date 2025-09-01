@@ -1,9 +1,5 @@
 #!/bin/sh
 
 curl -Lo mdbook.tar.gz https://github.com/rust-lang/mdBook/releases/download/v0.4.43/mdbook-v0.4.43-x86_64-unknown-linux-musl.tar.gz;
-tar -xvzf mdbook.tar.gz; 
-
-sed -i "s#{VERSION}#$VERCEL_GIT_COMMIT_REF#g" theme/index.hbs
-sed -i "s#{DATE}#$(printf '%(%Y-%m-%d)T\n' -1)#g" theme/index.hbs
-
+tar -xvzf mdbook.tar.gz;
 ./mdbook build
