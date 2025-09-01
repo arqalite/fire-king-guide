@@ -51,3 +51,53 @@ option {
 .content ul {
     line-height: 1.60em;
 }
+
+
+/* Make Karin look special */
+.scroll-container {
+    width: 150px;
+    height: 1.45em;
+    overflow: hidden; /* This is crucial! It hides the list items outside the container. */
+    position: relative;
+}
+
+.scrolling-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+    position: absolute;
+    width: 100%;
+
+    /* The animation magic! */
+    animation: scroll 8s linear infinite;
+}
+
+/* 3. The Animation Keyframes */
+@keyframes scroll {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        /* Move the list up by half its total height (the height of the original items) */
+        transform: translateY(-50%);
+    }
+}
+
+  /* Selects the table with the class "credits-list" */
+  .credits-list {
+    border-collapse: collapse; /* Ensures there are no gaps between cells */
+    width: 100%; /* Makes the table take up the full width of its container */
+    max-width: 500px; /* Optional: sets a maximum width */
+  }
+
+  /* Styles the cells inside the table */
+  .credits-list td {
+    border: none; /* This makes the borders invisible */
+    padding: 5px; /* Adds some space around the text */
+  }
+
+  /* Optional: Style the first column (names) to be bold */
+  .credits-list td:first-child {
+    font-weight: bold;
+    padding-right: 20px; /* Adds extra space between the name and role */
+  }
