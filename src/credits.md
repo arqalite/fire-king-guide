@@ -24,6 +24,10 @@ Every combo line, video and piece of content in this guide was created and valid
         <td>Writer & Quality Assurance</td>
     </tr>
     <tr>
+        <td>Arph</td>
+        <td>Combo Designer & Quality Assurance<br/><br/>34th place at YCS Providence 2025</td>
+    </tr>
+    <tr>
         <td>Merlin</td>
         <td>Was Here, Technically</td>
     </tr>
