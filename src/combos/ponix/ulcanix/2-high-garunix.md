@@ -51,5 +51,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 3 cards.
 <details>
   <summary><span style="color:darkorange;"><b>Why not summon High Garunix?</b></span></summary>
   <br/>
-  If the High Garunix was summoned last turn and then linked off then <b>it is not considered destroyed anymore</b> (the card being destroyed has to be the last thing to happen to the card). In this case, it will not summon itself back during the standby phase.
+  If High Garunix leaves the GY, it cannot activate its Standby Phase effect unless it is destroyed by card effect <b>again</b>.
+
+  Special Summoning it and then using it as Link Material would turn off its effect, causing you to miss out on using Sunlight Wolf.
 </details>
