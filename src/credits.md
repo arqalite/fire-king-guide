@@ -28,16 +28,16 @@ Every combo line, video and piece of content in this guide was created and valid
         <td>Combo Designer & Quality Assurance<br/><br/>34th place at YCS Providence 2025</td>
     </tr>
     <tr>
-        <td>Merlin</td>
-        <td>Was Here, Technically</td>
-    </tr>
-    <tr>
         <td>Gene</td>
         <td>J anitor</td>
     </tr>
     <tr>
         <td>KaidenTBIO</td>
         <td>Potential Man</td>
+    </tr>
+    <tr>
+        <td>Merlin</td>
+        <td>Was Here, Technically</td>
     </tr>
 </table>
 
