@@ -1,24 +1,19 @@
-name: Deploy production site
+name: Build static pages and upload to Vercel
+
 on:
   push:
-    tags:        
-      - '*'
+    tags: '*'
 
 jobs:
-  deploy:
+  vercel:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pages: write
-      id-token: write
     steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Install latest mdBook
         run: |
@@ -36,15 +31,11 @@ jobs:
       - name: Build book
         run: mdbook build
 
-      - name: Setup GitHub Pages
-        uses: actions/configure-pages@v4
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Deploy to Vercel
+        uses: amondnet/vercel-action@v20
         with:
-          # Upload entire repository
-          path: "book"
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          vercel-token: ${{ secrets.VERCEL_TOKEN }}
+          vercel-args: '--prod'
+          vercel-org-id: ${{ secrets.ORG_ID }}
+          vercel-project-id: ${{ secrets.PROJECT_ID }}
+          working-directory: ./book
