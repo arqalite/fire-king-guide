@@ -25,6 +25,7 @@ Every combo line, video and piece of content in this guide was created and valid
                     <li>Pacifier of the Pacific</li>
                     <li>Hiita is hotter</li>
                     <li>Slanderer of Sharks</li>
+                    <li>ANGRY FIRE KING</li>
                 </ul>
             </div>
         </td>
