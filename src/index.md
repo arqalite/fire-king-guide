@@ -12,7 +12,7 @@ We aim to expand past that as time goes on, with improvements such as:
 
 That said, keep in mind that Pure Fire King is a midrange deck - as such, a lot of the decisions you make depend on your opening hand, matchup and how your opponent responds to your actions. Memorizing combos and play patterns is useful, but you will get a sense of which paths to take _only_ by actively playing the deck. **Practice makes perfect!**
 
-We hope you have fun learning the deck - let's dive right in!
+We hope you have fun learning the deck!
 
 <br/>
 
