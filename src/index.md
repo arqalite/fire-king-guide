@@ -18,4 +18,4 @@ We hope you have fun learning the deck - let's dive right in!
 
 <center><img src="assets/ponix_explode.gif" alt="Ponix explodes!" style="width: 15rem;"></center>
 
-{{#include common/links.md}}
+{{#include links.md}}

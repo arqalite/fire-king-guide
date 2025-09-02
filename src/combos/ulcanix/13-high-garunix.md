@@ -45,4 +45,4 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 > You can also end on [_Salamangreat Sunlight Wolf_] here, using Promethean Princess and the summoned monster; in the Standby Phase, summon High Garunix to the zone Sunlight Wolf points to, allowing you to recover a monster from the GY - for example, an [_Ash Blossom & Joyous Spring_] used during your turn to negate a [_Mulcharmy Fuwalos_].
 
 
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}

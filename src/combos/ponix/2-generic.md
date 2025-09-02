@@ -37,4 +37,4 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 > This combo is great when you're first learning Fire Kings, but depending on the second card, there might be other lines available that offer you certain advantages.
 >
 > As such, we encourage reading and learning the other combos in this guide as well, so you can make the most out of your deck.
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}

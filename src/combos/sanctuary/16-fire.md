@@ -28,4 +28,4 @@ Additionally, this combo plays through [_Droll & Lock Bird_].
 4. Activate Sacred again: destroy [_Fire King Courtier Ulcanix_] in your Deck.
 5. Activate Ulcanix: Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}

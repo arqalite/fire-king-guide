@@ -34,4 +34,4 @@ Additionally, this combo plays through [_Droll & Lock Bird_].
 > Thanks to [Arph](/credits.md) for sharing this line with us!
 
 [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast]: ./2-tri-beast.md
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}

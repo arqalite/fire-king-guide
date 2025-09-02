@@ -38,6 +38,6 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 10. In the Standby Phase, activate Ponix: add it from the GY to your hand.
 
 
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}
 
 [starting with Sanctuary]: ../sanctuary/17-ponix.md

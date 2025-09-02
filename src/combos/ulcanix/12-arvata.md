@@ -52,4 +52,4 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
 >
 > Lastly, if Nibiru hits after Promethean Princess is summoned, negate with Arvata and destroy Promethean Princess. This makes her live next turn at the cost of either Arvata's negate or Kirin's Quick Effect, meaning you don't lose out on much and should still have plenty of interruptions for your opponent. -->
 
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}

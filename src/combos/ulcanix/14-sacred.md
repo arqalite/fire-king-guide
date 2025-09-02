@@ -36,4 +36,4 @@ There are four lines to pick from, depending on your situation:
 </div>
 
 
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}
