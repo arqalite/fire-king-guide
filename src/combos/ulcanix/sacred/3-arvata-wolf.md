@@ -29,7 +29,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 6. Activate Island: destroy Ponix, then add [_Fire King Avatar Arvata_] from your Deck to your hand.
 7. Activate Sacred: Special Summon it from the GY.
 8. Activate Sacred again: destroy [_Fire King High Avatar Kirin_] in your Deck.
-9. Activate High Kirin: Special Summon [_Fire King Avatar Arvata_] from your hand.
+9. Activate High Kirin: Special Summon Arvata from your hand.
 10. Link Summon [_Salamangreat Sunlight Wolf_] using Ulcanix and Sacred.
 11. Pass turn.
 
