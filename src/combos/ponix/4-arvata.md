@@ -29,4 +29,4 @@ Thanks to its on-destruction effect, opening [_Fire King Avatar Arvata_] gives y
 
 </div>
 
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}

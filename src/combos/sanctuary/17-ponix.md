@@ -34,6 +34,6 @@ Additionally, this combo plays through [_Droll & Lock Bird_].
 #### Opponent's turn
 7. In the Standby Phase, activate Ponix: add it from the GY to your hand.
 
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}
 
 [starting with Ponix]: ../ponix/7-sanctuary.md

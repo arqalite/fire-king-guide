@@ -58,4 +58,4 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 </details>
 
 
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}

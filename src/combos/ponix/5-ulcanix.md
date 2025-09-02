@@ -25,4 +25,4 @@ Starting with [_Legendary Fire King Ponix_] offers you two lines:
 {{#include ulcanix/2-high-garunix.md}}
 </div>
 
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}

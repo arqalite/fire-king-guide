@@ -33,4 +33,4 @@ This opening hand proves itself to be quite versatile, offering combos that set 
 
 </div>
 
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}

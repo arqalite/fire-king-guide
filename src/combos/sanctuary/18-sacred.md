@@ -28,4 +28,4 @@ Additionally, this combo does not trigger [_Droll & Lock Bird_].
 4. Activate Ulcanix: Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 
 [_Sanctuary + any FIRE monster_]: ./16-sanctuary-fire.md
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}

@@ -43,4 +43,4 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 [generic 2-card Ponix]: ./2-generic.md
 
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}

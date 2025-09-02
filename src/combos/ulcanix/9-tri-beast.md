@@ -36,4 +36,4 @@ Additionally, this combo plays through [_Droll & Lock Bird_].
 
 > Thanks to [Arph](/credits.md) for sharing this line with us!
 
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}

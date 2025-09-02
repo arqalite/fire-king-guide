@@ -45,4 +45,4 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 >
 > However, be mindful that Nibiru can stop this by removing Princess or Sunlight Wolf before High Garunix can return.
 
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}

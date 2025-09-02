@@ -29,4 +29,4 @@ You can take advantage of this and grab [_Fire King High Avatar Kirin_], opening
 
 </div>
 
-{{#include ../../common/links.md}}
+{{#include ../../links.md}}
