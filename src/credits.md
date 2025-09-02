@@ -15,6 +15,16 @@ Every combo line, video and piece of content in this guide was created and valid
                     <li>Project Manager</li>
                     <li>Combo Designer</li>
                     <li>Quality Assurance</li>
+                    <li>CEO of Fire Kings</li>
+                    <li>Director of Destruction</li>
+                    <li>Femboy <span class="dual-pride-flag dual-pride-flag--rainbow-trans"></span></li>
+                    <li>Arbiter of Ponx :3 Truth</li>
+                    <li>Kin for Garunix</li>
+                    <li>Annihilator of Atlantis</li>
+                    <li>Marginaliser of Mermaids</li>
+                    <li>Pacifier of the Pacific</li>
+                    <li>Hiita is hotter</li>
+                    <li>Slanderer of Sharks</li>
                 </ul>
             </div>
         </td>

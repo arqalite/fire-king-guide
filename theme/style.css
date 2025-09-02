@@ -55,7 +55,7 @@ option {
 
 /* Make Karin look special */
 .scroll-container {
-    width: 150px;
+    width: 100%;
     height: 1.45em;
     overflow: hidden; /* This is crucial! It hides the list items outside the container. */
     position: relative;
@@ -69,7 +69,8 @@ option {
     width: 100%;
 
     /* The animation magic! */
-    animation: scroll 8s linear infinite;
+    animation: scroll 15s linear infinite;
+    animation-play-state: paused; /* Start paused; JS will start it 2s after page load */
 }
 
 /* 3. The Animation Keyframes */
@@ -101,3 +102,57 @@ option {
     font-weight: bold;
     padding-right: 20px; /* Adds extra space between the name and role */
   }
+
+/* Small dual pride flag badge: two flags split diagonally */
+.dual-pride-flag {
+    display: inline-block;
+    width: 1.2em;
+    height: 0.8em;
+    margin-left: 0.35em;
+    vertical-align: -5%;
+    border-radius: 2px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 0 1px rgba(255,255,255,0.2) inset, 0 0 0 1px rgba(0,0,0,0.35);
+}
+
+/* Top-left triangle */
+.dual-pride-flag::before,
+.dual-pride-flag::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    -webkit-clip-path: polygon(0 0, 100% 0, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 0 100%);
+}
+
+/* Bottom-right triangle */
+.dual-pride-flag::after {
+    -webkit-clip-path: polygon(100% 100%, 100% 0, 0 100%);
+    clip-path: polygon(100% 100%, 100% 0, 0 100%);
+}
+
+/* Rainbow pride stripes for the top-left */
+.dual-pride-flag--rainbow-trans::before {
+    background: linear-gradient(
+        to bottom,
+        #E40303 0%, #E40303 16.66%,
+        #FF8C00 16.66%, #FF8C00 33.33%,
+        #FFED00 33.33%, #FFED00 50%,
+        #008026 50%, #008026 66.66%,
+        #004DFF 66.66%, #004DFF 83.33%,
+        #750787 83.33%, #750787 100%
+    );
+}
+
+/* Trans pride stripes for the bottom-right */
+.dual-pride-flag--rainbow-trans::after {
+    background: linear-gradient(
+        to bottom,
+        #55CDFC 0%, #55CDFC 20%,
+        #F7A8B8 20%, #F7A8B8 40%,
+        #FFFFFF 40%, #FFFFFF 60%,
+        #F7A8B8 60%, #F7A8B8 80%,
+        #55CDFC 80%, #55CDFC 100%
+    );
+}
