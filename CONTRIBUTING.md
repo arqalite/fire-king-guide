@@ -2,7 +2,7 @@
 
 The development of the guide is currently done in-house at the [Fire King Discord server] - we strongly encourage you to join the community and make your voice heard.
 
-That said we are accepting external contributions as well, as long as they abide by the rules outlined in this document. 
+That said, we are accepting external contributions, as long as they abide by the rules outlined in this document. 
 
 We reserve the right to reject any contributions that do not align with the project's goals.
 
@@ -19,9 +19,9 @@ Make sure you have [mdBook] installed on your system - [more information can be 
 
 ### File an issue (or reach out to a team member)
 
-We strongly recommend you reach out to us, either by filing an issue here, or on Discord.
+We strongly recommend you reach out to us, either by filing an issue here, or on Discord, in `#guide-link-channel`.
 
-We don't want you to waste time working on something only to find out it doesn't fit our vision for project, so talking to us is the best way of knowing if your contribution will be accepted or not.
+We don't want you to waste time working on something only to find out it doesn't fit our vision for the project, so talking to us is the best way of knowing if your contribution will be accepted or not.
 
 ### Working with the repository
 
@@ -37,7 +37,7 @@ The repository follows the standard mdBook structure, with some minor adjustment
   - `index.md` is the introduction page that every user will see when first opening the guide
 - `theme` contains the HTML/CSS/JS that makes the website work. It is based on the default Ayu theme with some various tweaks and deviations.
 
-Make the necessary edits for your contribution, and test them locally with `mdbook serve --open`. This will also hot-reload the website as you make edits, helping you work fast.
+Make the necessary edits for your contribution, and test them locally with `mdbook serve --open`. This will also hot-reload the website as you make edits, helping you work faster.
 
 [Yugipedia]: https://yugipedia.com/wiki/Yugipedia
 
