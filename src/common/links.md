@@ -1,6 +1,8 @@
 <!-- Fire Kings -->
 [_Legendary Fire King Ponix_]: https://yugipedia.com/wiki/Legendary_Fire_King_Ponix
 [_Fire King Avatar Arvata_]: https://yugipedia.com/wiki/Fire_King_Avatar_Arvata
+[_Fire King Avatar Barong_]: https://yugipedia.com/wiki/Fire_King_Avatar_Barong
+[_Fire King Avatar Rangbali_]: https://yugipedia.com/wiki/Fire_King_Avatar_Rangbali
 [_Fire King Courtier Ulcanix_]: https://yugipedia.com/wiki/Fire_King_Courtier_Ulcanix
 [_Fire King High Avatar Garunix_]: https://yugipedia.com/wiki/Fire_King_High_Avatar_Garunix
 [_Fire King High Avatar Kirin_]: https://yugipedia.com/wiki/Fire_King_High_Avatar_Kirin
