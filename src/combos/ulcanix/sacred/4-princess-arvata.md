@@ -34,7 +34,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 4 cards.
     - CL1: Activate Sacred: Special Summon it from the GY.
     - CL2: Activate Ulcanix: Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 8. Activate Sacred again: destroy [_Fire King High Avatar Kirin_] in your Deck.
-9. Activate High Kirin: Special Summon [_Fire King Avatar Arvata_] from your hand.
+9. Activate High Kirin: Special Summon Arvata from your hand.
 10. Link Summon [_Salamangreat Sunlight Wolf_] using High Garunix and Sacred.
 11. Link Summon [_Relinquished Anima_] using Ponix, under Sunlight Wolf's link.
 12. Activate Sunlight Wolf: add High Kirin from the GY to your hand.
