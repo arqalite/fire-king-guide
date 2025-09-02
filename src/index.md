@@ -6,7 +6,7 @@ As of today, we feature all the combos you can perform using [Dinh-Kha Bui's Fre
 
 We aim to expand past that as time goes on, with improvements such as: 
 - adding combos involving more Fire King cards like [_Fire King Avatar Barong_] and [_Fire King Avatar Rangbali_]
-- interesting tech cards like [_Amphibious Swarmship Amblowhale_] and [_Duelittle Chimera_]
+- interesting tech cards such as [_Amphibious Swarmship Amblowhale_] and [_Duelittle Chimera_]
 - strategies for playing through your opponent's interaction
 - executing on the deck's win condition either going first or going second.
 
