@@ -33,6 +33,10 @@ Every combo line, video and piece of content in this guide was created and valid
         </td>
     </tr>
     <tr>
+        <td>llNahuell</td>
+        <td>Quality Assurance</td>
+    </tr>
+    <tr>
         <td>Gene</td>
         <td>J anitor</td>
     </tr>
