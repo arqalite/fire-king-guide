@@ -17,7 +17,7 @@ Every combo line, video and piece of content in this guide was created and valid
                     <li>Quality Assurance</li>
                     <li>CEO of Fire Kings</li>
                     <li>Director of Destruction</li>
-                    <li>Femboy <span class="dual-pride-flag dual-pride-flag--rainbow-trans"></span></li>
+                    <li class="dual-flag-bg" style="width: fit-content"><span class="li-contrast">Femboy</span></li>
                     <li>Arbiter of Ponx :3 Truth</li>
                     <li>Kin for Garunix</li>
                     <li>Annihilator of Atlantis</li>
