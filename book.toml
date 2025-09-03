@@ -11,4 +11,4 @@ preferred-dark-theme = "ayu"
 additional-css = ["theme/style.css"]
 additional-js = ["theme/dropdown.js", "theme/karin.js"]
 git-repository-url = "https://github.com/arqalite/fire-king-guide/"
-edit-url-template = "https://github.com/arqalite/fire-king-guide/edit/development/{path}"
+edit-url-template = "https://github.com/arqalite/fire-king-guide/edit/main/{path}"
