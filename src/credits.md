@@ -63,7 +63,7 @@ Every combo line, video and piece of content in this guide was created and valid
 
 > **Questions, or feedback?**
 >
-> If you have any questions regarding this guide, or would like to share feedback, please reach out in the `#guide-feedback` channel.
+> If you have any questions regarding this guide, or would like to share feedback, please reach out on Discord in the `#guide-discussion` forum.
 >
 > If you are not able to use Discord, feel free to send an email to `feedback@arqalite.org` instead.
 
