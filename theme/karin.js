@@ -35,6 +35,6 @@ document.addEventListener('DOMContentLoaded', () => {
             document.querySelectorAll('.scrolling-list').forEach((ul) => {
                 ul.style.animationPlayState = 'running';
             });
-        }, 1500);
+        }, 3000);
     });
 });
