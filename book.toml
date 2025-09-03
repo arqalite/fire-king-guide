@@ -4,6 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "The Fire King Sanctuary"
+description = "A free and open-source guide to Fire Kings - by the community for the community."
 
 [output.html]
 default-theme = "ayu"
