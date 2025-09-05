@@ -69,6 +69,6 @@ Every combo line, video and piece of content in this guide was created and valid
 
 <i>This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0</a> and is the property of the [Fire King Discord server].</i>
 
-[Fire King Discord server]: https://discord.gg/7PNBJnu6
+[Fire King Discord server]: https://discord.gg/up8RHxBsrm
 [9]: combos/ulcanix/9-tri-beast.md
 [10]: combos/ulcanix/10-ulcanix.md
