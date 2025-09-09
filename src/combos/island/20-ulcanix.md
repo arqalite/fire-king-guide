@@ -45,4 +45,85 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 >
 > However, be mindful that Nibiru can stop this by removing Princess or Sunlight Wolf before High Garunix can return.
 
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')">If Nibiru hits at step X</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">No Nibiru in sight</button>
+</div>
+
+<!-- Tab content -->
+<div id="London" class="tabcontent">
+  <h3>If Nibiru hits at step X</h3>
+  <p>Pass turn here - High Garunix will return in Standby and blah blah blah</p>
+</div>
+
+<div id="Paris" class="tabcontent">
+  <h3>No Nibiru in sight</h3>
+  <p>Paris is the capital of France.</p>
+</div>
+
+<style>
+ /* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  width: fit-content;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 14px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: darkorange;
+  color: black;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  color: darkorange;
+  font-weight: bold;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+} 
+</style>
+
+<script>
+  function openCity(evt, cityName) {
+    // Declare all variables
+    var i, tabcontent, tablinks;
+
+    // Get all elements with class="tabcontent" and hide them
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+
+    // Get all elements with class="tablinks" and remove the class "active"
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    // Show the current tab, and add an "active" class to the button that opened the tab
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+  }
+
+  document.getElementById("London").click();
+</script>
+
 {{#include ../../links.md}}
