@@ -6,7 +6,7 @@ That said, we are accepting external contributions, as long as they abide by the
 
 We reserve the right to reject any contributions that do not align with the project's goals.
 
-[Fire King Discord server]: https://discord.gg/up8RHxBsrm
+[Fire King Discord server]: https://discord.gg/8JtxHUAdGq
 
 ## Contributing to the guide
 

@@ -27,5 +27,5 @@ This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/
 ### Credits
 Every combo line, video and piece of content in this guide was created and validated by the Island Guides, part of the [Fire King Discord server] - [read the full list of contributors here].
 
-[Fire King Discord server]: https://discord.gg/up8RHxBsrm
+[Fire King Discord server]: https://discord.gg/8JtxHUAdGq
 [read the full list of contributors here]: https://fire-king.arqalite.org/credits.html
