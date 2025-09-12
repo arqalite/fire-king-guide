@@ -39,4 +39,13 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 > You can further extend this board by using Promethean Princess' effect, giving you the following options:
 >
 >   - Summon High Garunix (or Sacred, if you need it) for Hyang material, or to setup a future board wipe.
->   - Summon any FIRE monster, then Link Summon [_Hiita the Fire Charmer, Ablaze_] using Promethean Princess and the summoned monster, thus setting up Promethean Princess in the GY.
+>   - Summon any FIRE monster <b style="color:darkorange;">except Ponix</b>, then Link Summon [_Hiita the Fire Charmer, Ablaze_] using Promethean Princess and the summoned monster, thus setting up Promethean Princess in the GY.
+
+<details>
+  <summary><span style="color:darkorange;"><b>Why not summon Ponix?</b></span></summary>
+  <br/>
+
+  The ability of this combo to play through [_Nibiru, the Primal Being_] hinges on you having Ponix and High Kirin in your hand to start the interruption sequence.
+
+  By summoning Ponix with Promethean Princess, you can no longer trigger its effect to return to the hand in the Standby Phase.
+</details>
