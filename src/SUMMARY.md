@@ -11,6 +11,7 @@
 - [Ponix + Ulcanix](combos/ponix/5-ulcanix.md)
 - [Ponix + Sacred](combos/ponix/6-sacred.md)
 - [Ponix + Sanctuary](combos/ponix/7-sanctuary.md)
+- [Ponix + High Garunix](combos/ponix/high-garunix.md)
 
 # Ulcanix combos
 - [Ulcanix + any FIRE monster](combos/ulcanix/8-generic.md)
