@@ -1,2 +1,4 @@
 book
+# Ignore generated partial created by vercel-build.sh on testing branch
+theme/head.hbs
 *Zone.Identifier
