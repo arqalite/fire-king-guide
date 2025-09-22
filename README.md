@@ -29,3 +29,10 @@ Every combo line, video and piece of content in this guide was created and valid
 
 [Fire King Discord server]: https://discord.gg/8JtxHUAdGq
 [read the full list of contributors here]: https://fire-king.arqalite.org/credits.html
+
+
+### Testing build banner
+
+When building on the `testing` branch, the `vercel-build.sh` script generates a `theme/head.hbs` partial which injects a small banner in the sidebar indicating that the build is a testing version. Styles for this banner live in `theme/style.css` under the `.testing-banner` class.
+
+Locally, you can simulate this behavior by running `scripts/serve-testing.sh`.
