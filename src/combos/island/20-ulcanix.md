@@ -19,7 +19,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 </div>
 
-#### Steps
+### Steps
 1. Activate [_Fire King Island_].
 2. Activate Island again: destroy [_Fire King Courtier Ulcanix_], then add [_Sacred Fire King Garunix_] from your Deck to your hand.
 3. A chain forms:
@@ -35,7 +35,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 11. Activate Sanctuary.
 12. Pass turn.
 
-##### Opponent's turn
+#### Opponent's turn
 13. In the Standby Phase, activate High Garunix: Special Summon it from the GY,
 14. Activate High Garunix again: destroy all other monsters on the field.
 
