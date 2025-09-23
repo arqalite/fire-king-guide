@@ -37,8 +37,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 #### Opponent's turn
 13. In the Standby Phase, activate High Garunix: Special Summon it from the GY,
 14. Activate High Garunix again: destroy all other monsters on the field.
-15. <b><span style="color:darkorange;">Do not activate Sacred at this time.</span></b>
-16. Instead, activate Arvata: Special Summon Sacred from the GY.
+15. <b><span style="color:darkorange;">Do not activate Sacred's effect here!</span></b> Instead, activate Arvata: Special Summon Sacred from the GY.
 
 <details>
   <summary><b>If Nibiru hits</b></summary>
