@@ -32,3 +32,5 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
 
 #### Opponent's turn
 10. In the Standby Phase, activate Ponix: add it from the GY to your hand.
+
+> You can also pass turn right after step 4, and only activate Kirin after the opponent starts playing. This can help you dodge [_Mulcharmy Fuwalos_] entirely, and make your opponent less likely to be able to interrupt you or break your board. That said, you are more exposed to 1-for-1 removal like Kaijus, as removing Ponix from the field will make you unable to start the interruption sequence.
