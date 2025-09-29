@@ -5,6 +5,7 @@
 
 # Ponix combos
 - [Ponix](combos/ponix/1.md)
+- [Ponix + any FIRE monster](combos/ponix/fire.md)
 - [Ponix + any FIRE Beast, Beast-Warrior or Winged Beast](combos/ponix/2-generic.md)
 - [Ponix + High Kirin](combos/ponix/3-kirin.md)
 - [Ponix + Arvata](combos/ponix/4-arvata.md)
