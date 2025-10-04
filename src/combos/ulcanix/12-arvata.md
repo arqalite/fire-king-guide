@@ -5,9 +5,9 @@ This opening hand allows you to play under [_Droll & Lock Bird_] by trading acce
 <form autocomplete="off">
     <select id="comboDropdown">
         <option selected>Select one of the following endboards:</option>
-        <option value="princess-arvata-kirin">1) Promethean Princess + Arvata setup (Droll-safe, with High Kirin in GY)</option>
-        <option value="princess-arvata-ulcanix">2) Promethean Princess + Arvata setup (Droll-safe, with Ulcanix & High Garunix in GY)</option>
-        <option value="princess-arvata-sanctuary">3) Promethean Princess + Arvata setup (w/ Sanctuary, High Kirin in your hand)</option>
+        <option value="princess-arvata-kirin">1) Promethean Princess + Arvata setup (with High Kirin in GY)</option>
+        <option value="princess-arvata-ulcanix">2) Promethean Princess + Arvata setup (with Ulcanix & High Garunix in GY)</option>
+        <option value="princess-arvata-sanctuary">3) Promethean Princess + Arvata setup (High Kirin in your hand)</option>
     </select>
 </form>
 
