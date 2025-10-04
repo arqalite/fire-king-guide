@@ -2,6 +2,8 @@
 
 This route uses a [_Fire King High Avatar Kirin_] to set up, which allows you to re-use it later by reviving and destroying it again during the opponent's turn.
 
+> Similarly to the [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast] combo, this line skips [_Legendary Fire King Ponix_] and ends on [_Promethean Princess, Bestower of Flames_] plus [_Fire King Avatar Arvata_].
+
 <center>
 <br/><video class="player" controls preload="auto">
   <source src="arvata/12-ulcanix-arvata-1.mp4" type="video/mp4">

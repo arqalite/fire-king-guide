@@ -2,6 +2,8 @@
 
 Alternatively, you can destroy a second copy of [_Fire King Courtier Ulcanix_], improving your topdeck by removing both that copy and [_Fire King High Avatar Garunix_] from your Deck.
 
+> Similarly to the [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast] combo, this line skips [_Legendary Fire King Ponix_] and ends on [_Promethean Princess, Bestower of Flames_] plus [_Fire King Avatar Arvata_].
+
 <center>
 <br/><video class="player" controls preload="auto">
   <source src="arvata/12-ulcanix-arvata-2.mp4" type="video/mp4">
