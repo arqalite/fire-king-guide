@@ -16,8 +16,8 @@
 - [Ulcanix + any FIRE monster](combos/ulcanix/8-generic.md)
 - [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast](combos/ulcanix/9-tri-beast.md)
 - [Ulcanix + Ulcanix](combos/ulcanix/10-ulcanix.md)
-- [Ulcanix + Ponix](combos/ulcanix/11-ponix.md)
 - [Ulcanix + Arvata](combos/ulcanix/12-arvata.md)
+- [Ulcanix + Ponix](combos/ulcanix/11-ponix.md)
 - [Ulcanix + High Garunix](combos/ulcanix/13-high-garunix.md)
 - [Ulcanix + Sacred](combos/ulcanix/14-sacred.md)
 
