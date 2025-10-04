@@ -2,7 +2,7 @@
 
 Alternatively, you can destroy a second copy of [_Fire King Courtier Ulcanix_], improving your topdeck by removing both that copy and [_Fire King High Avatar Garunix_] from your Deck.
 
-> Similarly to the [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast] combo, this line skips [_Legendary Fire King Ponix_] and ends on [_Promethean Princess, Bestower of Flames_] plus [_Fire King Avatar Arvata_].
+> Just like the [Ulcanix + Ulcanix] combo, this line skips [_Legendary Fire King Ponix_] and ends on [_Promethean Princess, Bestower of Flames_] plus [_Fire King Avatar Arvata_].
 
 <center>
 <br/><video class="player" controls preload="auto">
@@ -29,3 +29,5 @@ Additionally, this combo plays through [_Droll & Lock Bird_].
 5. Activate Ulcanix in GY: Special Summon [_Fire King High Avatar Garunix_] from your Deck.
 6. Link Summon [_Promethean Princess, Bestower of Flames_].
 7. Activate Promethean Princess: Special Summon Arvata from the GY.
+
+[Ulcanix + Ulcanix]: ./10-ulcanix.md
