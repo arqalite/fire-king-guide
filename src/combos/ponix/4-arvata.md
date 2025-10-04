@@ -5,10 +5,14 @@ Thanks to its on-destruction effect, opening [_Fire King Avatar Arvata_] gives y
 <form autocomplete="off">
     <select id="comboDropdown">
         <option selected>Select one of the following endboards:</option>
-        <option value="princess-arvata-ulcanix">1) Promethean Princess + Arvata setup (with Ulcanix in GY)</option>
-        <option value="princess-arvata-kirin-field">2) Promethean Princess + Arvata + High Kirin setup</option>
-        <option value="princess-arvata-kirin-hand">3) Promethean Princess + Arvata setup (with High Kirin in your hand, and a 3rd monster on the field)</option>
-        <option value="wolf-kirin-hand">4) Sunlight Wolf setup (with Ponix + High Kirin in your hand)</option>
+        <optgroup label="Main lines">
+            <option value="princess-arvata-ulcanix">1) Promethean Princess + Arvata setup (with Ulcanix in GY)</option>
+            <option value="princess-arvata-kirin-field">2) Promethean Princess + Arvata + High Kirin setup</option>
+            <option value="princess-arvata-kirin-hand">3) Promethean Princess + Arvata setup (with High Kirin in your hand, and a 3rd monster on the field)</option>
+        </optgroup>
+        <optgroup label="Bonus lines">
+            <option value="wolf-kirin-hand">4) Sunlight Wolf setup (with Ponix + High Kirin in your hand)</option>
+        </optgroup>
     </select>
 </form>
 
