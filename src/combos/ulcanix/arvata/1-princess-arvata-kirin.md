@@ -31,3 +31,5 @@ Additionally, this combo plays through [_Droll & Lock Bird_].
 7. Activate Promethean Princess: Special Summon Arvata from the GY.
 
 > In order to re-use High Kirin during the interruption sequence, use Arvata's effect to Special Summon it, then Sacred's effect to destroy it instead of destroying another copy from Deck. You then get to Special Summon another monster and destroy a card on the field, contributing to your card advantage.
+
+[Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast]: ./9-tri-beast.md
