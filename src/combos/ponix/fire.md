@@ -37,11 +37,11 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 #### Opponent's turn
 13. In the Standby Phase, activate Ponix: add it from the GY to your hand.
 
-> This line does have caveats - wasting a Hyang can potentially limit your grind game potential in Extravagance lists - like the one this guide is based on - and the FIRE monster used for combo is not recovered in any meaningful way.
+> This line does have caveats - wasting a Hyang can potentially limit your grind game potential in [_Pot of Extravagance_] lists - like the one this guide is based on - and the FIRE monster used for combo is not recovered in any meaningful way.
 >
 > That said, the ability to set up a 3-4 material Hyang (depending on whether you want to leave High Kirin on the field to be destroyed) allows for plenty of power and flexibility.
 >
-> Also, by having Kirin and Ponix in hand, you are less vulnerable to board breakers like Lightning Storm, Lava Golem, etc, and you can choose when to start interrupting your opponent.
+> Also, by having Kirin and Ponix in hand, you are less vulnerable to board breakers like [_Lightning Storm_] on monsters, [_Lava Golem_], etc, and you can choose when to start interrupting your opponent.
 
 
 

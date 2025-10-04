@@ -20,6 +20,7 @@
 [_Salamangreat Sunlight Wolf_]: https://yugipedia.com/wiki/Salamangreat_Sunlight_Wolf
 [_Amphibious Swarmship Amblowhale_]: https://yugipedia.com/wiki/Amphibious_Swarmship_Amblowhale
 [_Duelittle Chimera_]: https://yugipedia.com/wiki/Duelittle_Chimera
+[_Pot of Extravagance_]: https://yugipedia.com/wiki/Pot_of_Extravagance
 
 <!-- Le handtraps -->
 [_Nibiru, the Primal Being_]: https://yugipedia.com/wiki/Nibiru,_the_Primal_Being
@@ -27,6 +28,10 @@
 [_Droll & Lock Bird_]: https://yugipedia.com/wiki/Droll_%26_Lock_Bird
 [_Ash Blossom & Joyous Spring_]: https://yugipedia.com/wiki/Ash_Blossom_%26_Joyous_Spring
 [_Dominus Impulse_]: https://yugipedia.com/wiki/Dominus_Impulse
+
+<!-- Board Breakers -->
+[_Lightning Storm_]: https://yugipedia.com/wiki/Lightning_Storm
+[_Lava Golem_]: https://yugipedia.com/wiki/Lava_Golem
 
 <!-- Links to combos -->
 [1-card Ponix]: /combos/ponix/1.md
