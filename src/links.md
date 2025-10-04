@@ -30,7 +30,7 @@
 [_Dominus Impulse_]: https://yugipedia.com/wiki/Dominus_Impulse
 
 <!-- Board Breakers -->
-[_Lightning Storm_]: https://yugipedia.com/wiki/Lightning_Storm
+[_Raigeki_]: https://yugipedia.com/wiki/Raigeki
 [_Lava Golem_]: https://yugipedia.com/wiki/Lava_Golem
 
 <!-- Links to combos -->
