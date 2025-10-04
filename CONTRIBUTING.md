@@ -116,12 +116,13 @@ Looking at the Ponix + Arvata page's [source file], we see that the page feature
   <form autocomplete="off">
       <select id="comboDropdown">
           <option selected>Select one of the following endboards:</option>
-          <option value="princess-arvata-ulcanix">1) Promethean Princess + Arvata setup (with Ulcanix in GY)</option>
-          <option value="princess-arvata-kirin-field">2) Promethean Princess + Arvata + High Kirin setup</option>
-          <option value="princess-arvata-kirin-hand">3) Promethean Princess + Arvata setup (with High Kirin in your hand, and a 3rd monster on the field)</option>
+          <option value="princess-arvata-ulcanix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1) Promethean Princess + Arvata setup (with Ulcanix in GY)</option>
+          <option value="princess-arvata-kirin-field">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) Promethean Princess + Arvata + High Kirin setup</option>
+          <option value="princess-arvata-kirin-hand">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3) Promethean Princess + Arvata setup (with High Kirin in your hand, and a 3rd monster on the field)</option>
       </select>
   </form>
   ```
+  > Note that the `&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;` is needed for any option not in an `<optgroup>` tag.
 - multiple `<div>`s containing an `{{#include}}` statement for each combo page. These elements have the `inv` class added to them, which makes them invisible until the respective option is selected in the dropdown:
   ```html
   <div id="princess-arvata-ulcanix" class="inv">
