@@ -4,6 +4,8 @@ You can push the limits of what the Fire King engine is "supposed" to do, by Xyz
 
 This leads to an unassuming board ending on a Level 8 [_Fire King Courtier Ulcanix_], with [_Legendary Fire King Ponix_] and [_Fire King High Avatar Kirin_] in hand - however it lets you make a 4-material Hyang during the opponent's turn, if you so choose!
 
+> In the video below, we will use [_Flamvell Guard_] as a placeholder for any FIRE monster. In real duels, this can be any card in your deck that fulfills this requirement.
+
 <center>
 <video class="player" controls preload="auto">
   <source src="ponix-fire.mp4" type="video/mp4">
