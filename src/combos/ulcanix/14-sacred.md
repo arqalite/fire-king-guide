@@ -7,11 +7,15 @@ There are five lines to pick from, depending on your needs:
 <form autocomplete="off">
     <select id="comboDropdown">
         <option selected>Select one of the following endboards:</option>
-        <option value="sacred-high-garunix">1) Sacred + High Garunix setup (with Ponix + High Kirin in your hand)</option>
-        <option value="promethean-princess">2) Promethean Princess setup (with Ponix + High Kirin in your hand)</option>
-        <option value="arvata-wolf">3) Arvata + Sunlight Wolf setup (with Ponix in your hand)</option>
-        <option value="princess-arvata">4) Promethean Princess + Arvata setup (with High Kirin in your hand)</option>
-        <option value="princess-arvata-kirin">5) Promethean Princess + Arvata + High Kirin setup</option>
+        <optgroup label="Recommended &nbsp;">
+            <option value="sacred-high-garunix">1) Sacred + High Garunix setup (with Ponix + High Kirin in your hand)</option>
+            <option value="promethean-princess">2) Promethean Princess setup (with Ponix + High Kirin in your hand)</option>
+            <option value="princess-arvata-kirin">3) Promethean Princess + Arvata + High Kirin setup</option>
+            <option value="princess-arvata">4) Promethean Princess + Arvata setup (with High Kirin in your hand)</option>
+        </optgroup>
+        <optgroup label="Bonus &nbsp;">
+            <option value="arvata-wolf">5) Arvata + Sunlight Wolf setup (with Ponix in your hand)</option>
+        </optgroup>
     </select>
 </form>
 
