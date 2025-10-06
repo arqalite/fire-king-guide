@@ -1,13 +1,13 @@
 ## Promethean Princess + Arvata setup (with High Kirin in your hand)
 
-Lastly, you can put it all together and combo up to a [_Promethean Princess, Bestower of Flames_] backed up by [_Fire King Avatar Arvata_], while also recycling a [_Fire King High Avatar Kirin_] with [_Salamangreat Sunlight Wolf_].
+You can also put it all together and combo up to a [_Promethean Princess, Bestower of Flames_] backed up by [_Fire King Avatar Arvata_], while also recycling a [_Fire King High Avatar Kirin_] with [_Salamangreat Sunlight Wolf_].
 
 It's a very powerful combo, but it comes at the cost of giving 4 draws under [_Mulcharmy Fuwalos_], so be sure it's out of the picture before committing.
 
 
 <center>
 <br/><video class="player" controls preload="auto">
-  <source src="14-ulcanix-sacred-4.mp4" type="video/mp4">
+  <source src="sacred/14-ulcanix-sacred-4.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
 </center>
