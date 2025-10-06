@@ -1,6 +1,8 @@
 ## High Garunix setup (via Sunlight Wolf, with a FIRE monster back in your hand and Promethean Princess in GY)
 
-Alternatively, you can set up a [_Salamangreat Sunlight Wolf_] and pass on it - Special Summoning High Garunix under its link will let you retrieve a FIRE monster from the GY, like [_Legendary Fire King Ponix_], for additional follow-up on turn 3.
+Alternatively, you can set up a [_Salamangreat Sunlight Wolf_] and pass on it - Special Summoning High Garunix under its link will let you retrieve a FIRE monster from the GY, for additional interruption or follow-up.
+
+> In the video below, we will retrieve Ponix with Sunlight Wolf. This line is most useful when you already have another FIRE monster worth retrieving in your GY - for example an [_Ash Blossom & Joyous Spring_] used to negate a [_Mulcharmy Fuwalos_].
 
 <center>
 <br/><video class="player" controls preload="auto">
@@ -39,9 +41,9 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
     - CL1: Activate High Garunix: destroy all other monsters on the field.
     - CL2: Activate Sunlight Wolf: add a FIRE monster from the GY to your hand. (Remember you cannot summon it this turn!)
 
-> Remember this line lets you recover any FIRE monster from the GY (say, an [_Ash Blossom & Joyous Spring_] used to negate a [_Mulcharmy Fuwalos_]) - when in doubt, Ponix is a reliable option.
+> As mentioned, this line is most useful when you already have another FIRE monster worth retrieving in your GY besides Ponix.
 >
-> That said, if you want to specifically recover Ponix, you can cut the combo short at step 11, Special Summoning Ponix instead of Arvata. High Garunix will destroy Ponix, making sure it returns to your hand on turn 3. A turn-long delay _can_ be significant sometimes, so you might still go for Wolf in certain scenarios.
+> That said, if you want to specifically recover Ponix, you can also cut the combo short at step 11, Special Summoning Ponix instead of Arvata. High Garunix will destroy Ponix, making sure it returns to your hand on turn 3. A turn-long delay _can_ be significant sometimes, so you might still go for Wolf in certain scenarios.
 
 <details>
   <summary><b>If Nibiru hits</b></summary>
