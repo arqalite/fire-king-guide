@@ -1,8 +1,6 @@
 # Summary
 [Home](./index.md)
 
----
-
 # Ponix combos
 - [Ponix](combos/ponix/1.md)
 - [Ponix + any FIRE monster](combos/ponix/fire.md)
@@ -31,6 +29,9 @@
 
 # Island combos
 - [Island + Ulcanix](combos/island/20-ulcanix.md)
+
+# 3-card combos
+- [Sacred + High Kirin + any FIRE Beast, Beast-Warrior or Winged Beast](combos/3-card/sacred-kirin-tri-beast.md)
 
 ---
 
