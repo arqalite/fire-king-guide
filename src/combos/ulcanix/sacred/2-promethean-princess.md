@@ -6,7 +6,7 @@ Then, by destroying her with the [_Fire King High Avatar Kirin_] in your hand, y
 
 <center>
 <br/><video class="player" controls preload="auto">
-  <source src="14-ulcanix-sacred-2.mp4" type="video/mp4">
+  <source src="sacred/14-ulcanix-sacred-2.mp4" type="video/mp4">
   Your browser does not support the MP4 format, or the &lt;video&gt; tag.
 </video>
 </center>
