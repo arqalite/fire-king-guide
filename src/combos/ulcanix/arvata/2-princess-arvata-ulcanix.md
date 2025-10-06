@@ -1,4 +1,4 @@
-## Promethean Princess + Arvata setup (Droll-safe, with Ulcanix & High Garunix in GY)
+## Promethean Princess + Arvata setup (with Ulcanix & High Garunix in GY)
 
 Alternatively, you can destroy a second copy of [_Fire King Courtier Ulcanix_], improving your topdeck by removing both that copy and [_Fire King High Avatar Garunix_] from your Deck.
 

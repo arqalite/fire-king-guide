@@ -1,4 +1,4 @@
-## Promethean Princess + Arvata setup (Droll-safe, with High Kirin in GY)
+## Promethean Princess + Arvata setup (with High Kirin in GY)
 
 This route uses a [_Fire King High Avatar Kirin_] to set up, which allows you to re-use it later by reviving and destroying it again during the opponent's turn.
 

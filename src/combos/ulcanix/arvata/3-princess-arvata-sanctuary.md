@@ -1,4 +1,4 @@
-## Promethean Princess + Arvata setup (with Sanctuary, High Kirin in your hand)
+## Promethean Princess + Arvata setup (with High Kirin in your hand)
 
 Last but not least, you can trade the [_Droll & Lock Bird_] safety for a full setup with [_Fire King Sanctuary_], while remaining safe into [_Nibiru, the Primal Being_].
 
