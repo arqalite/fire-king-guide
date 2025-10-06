@@ -2,7 +2,7 @@
 
 Alternatively, you can set up a [_Salamangreat Sunlight Wolf_] and pass on it - Special Summoning High Garunix under its link will let you retrieve a FIRE monster from the GY, for additional interruption or follow-up.
 
-> In the video below, we will retrieve Ponix with Sunlight Wolf. This line is most useful when you already have another FIRE monster worth retrieving in your GY - for example an [_Ash Blossom & Joyous Spring_] used to negate a [_Mulcharmy Fuwalos_].
+> In the video below, we will retrieve [_Legendary Fire King Ponix_] with Sunlight Wolf. This line is most useful when you already have another FIRE monster worth retrieving in your GY - for example an [_Ash Blossom & Joyous Spring_] used to negate a [_Mulcharmy Fuwalos_].
 
 <center>
 <br/><video class="player" controls preload="auto">
