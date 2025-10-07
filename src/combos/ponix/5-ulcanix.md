@@ -2,7 +2,7 @@
 
 When opening both starters, you have to pick which one to use depending on the goals you want to achieve.
 
-Starting with [_Legendary Fire King Ponix_] offers you two lines:
+Starting with [_Legendary Fire King Ponix_] over [_Fire King Courtier Ulcanix_] offers you two lines:
 - a [_Promethean Princess, Bestower of Flames_] + [_Fire King Avatar Arvata_] setup, when you need an early monster negate
 - a [_Fire King High Avatar Garunix_] setup with Promethean Princess in GY, when having two board wipes would be advantageous
 
