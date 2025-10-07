@@ -1,7 +1,7 @@
 # Ponix + High Kirin
 
 With [_Fire King High Avatar Kirin_], you have two options:
-  - Perform the [generic 2-card Ponix] combo, giving up High Kirin's Quick Effect for Arvata's monster negate;
+  - Perform the [generic 2-card Ponix] combo, giving up High Kirin's Quick Effect for [_Fire King Avatar Arvata_]'s monster negate;
   - Keep High Kirin in your hand, and perform the [1-card Ponix] combo instead.
 
 Both options are viable, and depending on the matchup you might want to go for one over the other.

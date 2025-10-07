@@ -1,6 +1,6 @@
 ## Promethean Princess + Arvata setup (with High Kirin in your hand, and a 3rd monster on the field)
 
-Variating further on the previous line, you can instead opt to go for [_Salamangreat Sunlight Wolf_] and add High Kirin to your hand instead of summoning it to the field.
+Variating further on the previous line, you can instead opt to go for [_Salamangreat Sunlight Wolf_] and add [_Fire King High Avatar Kirin_] to your hand instead of summoning it to the field.
 
 It's a very open-ended line, giving you access to a few different plays you can make before passing turn to the opponent.
 

@@ -1,6 +1,6 @@
 ## Sunlight Wolf setup (with Ulcanix in GY, Ponix + High Kirin in your hand)
 
-This is a slight variation on the earlier combo, giving up instant access to Hyang in order to set up a Sunlight Wolf recycle, while also triggering Sacred to set up Hyang.
+This is a slight variation on the earlier combo, giving up instant access to [_Garunix Eternity, Hyang of the Fire Kings_] in order to set up a [_Salamangreat Sunlight Wolf_] recycle, while also triggering Sacred to set up Hyang.
 
 <center>
 <br/><video class="player" controls preload="auto">
