@@ -43,7 +43,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 >
 > That said, the ability to set up a 3-4 material Hyang (depending on whether you want to leave High Kirin on the field to be destroyed) allows for plenty of power and flexibility.
 >
-> Also, by having Kirin and Ponix in hand, you are less vulnerable to board breakers like [_Raigeki_], [_Lava Golem_], etc, and you can choose when to start interrupting your opponent.
+> Also, by having High Kirin and Ponix in hand, you are less vulnerable to board breakers like [_Raigeki_], [_Lava Golem_], etc, and you can choose when to start interrupting your opponent.
 
 
 

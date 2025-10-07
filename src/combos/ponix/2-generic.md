@@ -1,10 +1,8 @@
 # Ponix + any FIRE Beast, Beast-Warrior or Winged Beast
 
-Adding a second card to the 1-card Ponix combo makes it much more powerful, allowing you to add multiple layers of interruption alongside the board clear that [_Garunix Eternity, Hyang of the Fire Kings_] offers.
+Using a FIRE Beast, Beast-Warrior or Winged Beast (in short, any Fire King monster) as the second card in your combos allows you to add multiple layers of interruption alongside the board clear that [_Garunix Eternity, Hyang of the Fire Kings_] offers.
 
-Here is a generic combo that works with any FIRE Beast, Beast-Warrior or Winged Beast (in short, any Fire King monster). 
-
-The goal is to set up the FK engine and end on a [_Promethean Princess, Bestower of Flames_] backed up by [_Fire King Avatar Arvata_].
+As such, the goal of this line is to set up the FK engine and end on a [_Promethean Princess, Bestower of Flames_] backed up by [_Fire King Avatar Arvata_].
 
 > In the video below, we will use [_Little Chimera_] as a placeholder for any FIRE Beast, Beast-Warrior or Winged Beast. In real duels, this can be any card in your deck that fulfills these requirements.
 
