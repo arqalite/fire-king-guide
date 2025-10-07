@@ -1,6 +1,6 @@
 ## Sacred + High Garunix setup (with Promethean Princess in GY)
 
-This line aims to pass on a [_Promethean Princess, Bestower of Flames_] and [_Fire King Avatar Arvata_] - both of which will get destroyed by High Garunix in the Standby Phase, setting up Princess in the GY while also putting up 2 Level 8s on the field.
+This line aims to pass on a [_Promethean Princess, Bestower of Flames_] and [_Fire King Avatar Arvata_] - both of which will get destroyed by High Garunix in the Standby Phase, setting up Promethean Princess in the GY while also putting up 2 Level 8s on the field.
 
 <center>
 <br/><video class="player" controls preload="auto">
@@ -41,13 +41,13 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 1 card.
   <summary><b>If Nibiru hits</b></summary>
 
   #### On the 5th summon (step 10)
-  Nibiru will remove Promethean Princess before you get to Special Summon Arvata, meaning you are unable to get to the Hyang setup.
+  Nibiru will remove Promethean Princess before you get to Special Summon Arvata, meaning you are unable to get to the [_Garunix Eternity, Hyang of the Fire Kings_] setup.
   
   Instead, your first interruption will now be Promethean Princess destroying High Garunix, and then in the next chain, you must also activate Sacred's effect to revive itself. 
   
   Sacred must then destroy [_Fire King High Avatar Kirin_], which will Special Summon High Garunix, and destroy a card.
 
-  This basically forces you to use two interruptions at once, leaving you with [_Garunix Eternity, Hyang of the Fire Kings_] as your last.
+  This basically forces you to use two interruptions at once, leaving you with Hyang as your last.
 
   #### At the end of the Main Phase (step 12)
   <b><span style="color:darkorange;">Negate with Arvata, destroying Promethean Princess!</span></b> 
