@@ -2,7 +2,7 @@
 
 As Arvata is already in the GY at the time [_Sacred Fire King Garunix_] is summoned, you can deviate from the [generic 2-card Ponix] combo and destroy [_Fire King Courtier Ulcanix_] instead.
 
-This allows you to still reach the same Promethean Princess + Arvata endboard while giving you more options. By Special Summoning Ulcanix during the interruption sequence, you can add any Fire King you need from your Deck to your hand, either to further interrupt your opponent, or set up your turn 3 plays.
+This allows you to still reach the same [_Promethean Princess, Bestower of Flames_] + [_Fire King Avatar Arvata_] endboard while giving you more options. By Special Summoning Ulcanix during the interruption sequence, you can add any Fire King you need from your Deck to your hand, either to further interrupt your opponent, or set up your turn 3 plays.
 
 <center>
 <br/><video class="player" controls preload="auto">
