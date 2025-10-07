@@ -1,8 +1,8 @@
 ## Arvata + Sunlight Wolf setup (with Ponix in your hand)
 
-Alternatively, you can end on a [_Salamangreat Sunlight Wolf_] with nothing under its link, backed up by a [_Fire King Avatar Arvata_].
+Alternatively, you can end on a [_Salamangreat Sunlight Wolf_] with nothing under its link, backed up by an Arvata.
 
-By summoning [_Sacred Fire King Garunix_] under Wolf's link, you're able to recover [_Fire King High Avatar Kirin_] from the GY (or potentially an [_Ash Blossom & Joyous Spring_], if you used it by this point).
+By summoning Sacred under Wolf's link, you're able to recover High Kirin from the GY (or potentially an [_Ash Blossom & Joyous Spring_], if you used it by this point).
 
 <center>
 <br/><video class="player" controls preload="auto">

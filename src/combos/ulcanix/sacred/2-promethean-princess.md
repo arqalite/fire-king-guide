@@ -1,8 +1,8 @@
 ## Promethean Princess setup (with Ponix + High Kirin in your hand)
 
-Instead of destroying the Ulcanix on your side of the field, you can opt to destroy a second copy in your Deck. This allows you to extend the previous combo a little by Link Summoning [_Promethean Princess, Bestower of Flames_]. 
+Instead of destroying the [_Fire King Courtier Ulcanix_] on your side of the field, you can opt to destroy a second copy in your Deck. This allows you to extend the previous combo a little by Link Summoning [_Promethean Princess, Bestower of Flames_]. 
 
-Then, by destroying her with the [_Fire King High Avatar Kirin_] in your hand, you get an additional interruption ready to use whenever you need it.
+Then, by destroying her with the High Kirin in your hand, you get an additional interruption ready to use whenever you need it.
 
 <center>
 <br/><video class="player" controls preload="auto">
@@ -38,7 +38,7 @@ Under [_Mulcharmy Fuwalos_], your opponent draws 2 cards.
 
 > You can further extend this board by using Promethean Princess' effect, giving you the following options:
 >
->   - Summon High Garunix (or Sacred, if you need it) for Hyang material, or to setup a future board wipe.
+>   - Summon High Garunix (or Sacred, if you need it) for [_Garunix Eternity, Hyang of the Fire Kings_] material, or to setup a future board wipe.
 >   - Summon any FIRE monster <b style="color:darkorange;">except Ponix</b>, then Link Summon [_Hiita the Fire Charmer, Ablaze_] using Promethean Princess and the summoned monster, thus setting up Promethean Princess in the GY.
 
 <details>
