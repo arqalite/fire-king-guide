@@ -2,7 +2,7 @@
 
 Similarly to the [Ulcanix + any FIRE Beast, Beast-Warrior or Winged Beast] combo, you can skip [_Legendary Fire King Ponix_] and end on [_Promethean Princess, Bestower of Flames_] plus [_Fire King Avatar Arvata_].
 
-One neat thing is that you can use Ulcanix's effect to chainblock [_Sacred Fire King Garunix_], ensuring Sacred cannot be hit by a [_Dominus Impulse_] or any kind of interruption that would end your turn right there.
+One neat thing is that you can use [_Fire King Courtier Ulcanix_]'s effect to chainblock [_Sacred Fire King Garunix_], ensuring Sacred cannot be hit by a [_Dominus Impulse_] or any kind of interruption that would end your turn right there.
 
 <center>
 <br/><video class="player" controls preload="auto">

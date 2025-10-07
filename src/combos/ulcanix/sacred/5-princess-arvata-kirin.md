@@ -1,6 +1,6 @@
 ## Promethean Princess + Arvata + High Kirin setup
 
-Last but not least, you can trade the [_Salamangreat Sunlight Wolf_] recycle for more interruption by ending with [_Fire King High Avatar Kirin_] besides the usual setup.
+Last but not least, you can trade the [_Salamangreat Sunlight Wolf_] recycle for more interruption by ending on High Kirin alongside the usual setup.
 
 <center>
 <br/><video class="player" controls preload="auto">
