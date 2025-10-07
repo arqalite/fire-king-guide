@@ -2,7 +2,7 @@
 
 This line plays similarly to the [Ponix + any FIRE] line, using a [_Garunix Eternity, Hyang of the Fire Kings_] to extend during your turn. 
 
-However, instead of ending on a Level 8 Ulcanix, you can leverage Arvata's effect and make a [_Salamangreat Sunlight Wolf_], under which you can summon [_Fire King High Avatar Kirin_] to recover a card from the GY.
+However, instead of ending on a Level 8 [_Fire King Courtier Ulcanix_], you can leverage Arvata's effect and make a [_Salamangreat Sunlight Wolf_], under which you can summon [_Fire King High Avatar Kirin_] to recover a card from the GY.
 
 <center>
 <br/><video class="player" controls preload="auto">
