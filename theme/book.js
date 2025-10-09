@@ -294,6 +294,9 @@ setTimeout(() => {
         }
     });
 
+    // Remove tags from page title
+    document.title = document.title.replace(/\$keep\$|\$Genesys\$/g, '').trim();
+
     // Function to apply filter state
     function applyFilterState(showOnlyGenesys) {
         if (showOnlyGenesys) {
