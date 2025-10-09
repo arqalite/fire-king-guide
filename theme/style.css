@@ -10,6 +10,92 @@ body {
     --plyr-video-controls-background: rgba(0, 0, 0, 0);
     --plyr-color-main: darkorange;
 }
+
+/* Prevent flash of unfiltered content */
+#sidebar,
+.sidebar-scrollbox {
+    visibility: var(--sidebar-visibility, visible);
+}
+
+/* Chapter filter dropdown */
+.chapter-filter-container {
+    margin: 8px;
+    padding: 10px 12px;
+    background: var(--sidebar-bg);
+    border-radius: 4px;
+    border: 1px solid var(--sidebar-non-existant);
+}
+
+.chapter-filter-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    user-select: none;
+    color: var(--sidebar-fg);
+    font-size: 0.9em;
+    font-weight: 500;
+    border-radius: 4px;
+    width: 100%;
+}
+
+.chapter-filter-header.active {
+    color: var(--sidebar-active);
+    font-weight: 600;
+}
+.filter-icon {
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+}
+
+.filter-arrow {
+    margin-left: auto;
+    transition: transform 0.2s ease;
+    font-size: 0.8em;
+}
+
+.filter-arrow.expanded {
+    transform: rotate(180deg);
+}
+
+.chapter-filter-options {
+    display: none;
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid var(--sidebar-non-existant);
+}
+
+.chapter-filter-options.expanded {
+    display: block;
+}
+
+.filter-option {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 0;
+    font-size: 0.85em;
+    color: var(--sidebar-fg);
+    cursor: pointer;
+}
+
+.filter-option:hover {
+    color: var(--sidebar-active);
+}
+
+.filter-option input[type="checkbox"] {
+    cursor: pointer;
+    width: 16px;
+    height: 16px;
+    margin: 0;
+}
+
+.filter-option label {
+    cursor: pointer;
+    flex: 1;
+}
+
 /* Testing build banner styles (inserted via head.hbs when on testing branch) */
 .sidebar .testing-banner {
     margin: 8px;

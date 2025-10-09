@@ -210,3 +210,166 @@ window.onunload = function () { };
         document.addEventListener('scroll', updateBorder, { passive: true });
     })();
 })();
+
+// Custom TOC toggle for Genesys chapters
+setTimeout(() => {
+    const sidebar = document.querySelector('mdbook-sidebar-scrollbox');
+    if (!sidebar) return;
+
+    const ol = sidebar.querySelector('ol.chapter');
+    if (!ol) return;
+
+    // Renumber visible top-level chapters consecutively
+    function renumberChapters() {
+        let count = 1;
+        for (const li of ol.children) {
+            const strong = li.classList.contains('chapter-item') && 
+                          li.style.display !== 'none' && 
+                          !li.classList.contains('keep-chapter')
+                ? li.querySelector('a strong') 
+                : null;
+            if (strong) {
+                strong.textContent = count + '.';
+                count++;
+            }
+        }
+    }
+
+    // Create filter dropdown
+    const filterContainer = document.createElement('div');
+    filterContainer.className = 'chapter-filter-container';
+    filterContainer.innerHTML = `
+        <div class="chapter-filter-header">
+            <svg class="filter-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M22 3H2l8 9.46V19l4 2v-8.54L22 3z"/>
+            </svg>
+            <span>Filter Combos</span>
+            <span class="filter-arrow">▼</span>
+        </div>
+        <div class="chapter-filter-options">
+            <div class="filter-option">
+                <input type="checkbox" id="filter-genesys">
+                <label for="filter-genesys">Only Genesys-compatible combos</label>
+            </div>
+        </div>
+    `;
+    ol.parentNode.insertBefore(filterContainer, ol);
+
+    const filterHeader = filterContainer.querySelector('.chapter-filter-header');
+    const filterOptions = filterContainer.querySelector('.chapter-filter-options');
+    const filterArrow = filterContainer.querySelector('.filter-arrow');
+    const genesysCheckbox = filterContainer.querySelector('#filter-genesys');
+
+    // Toggle dropdown
+    filterHeader.addEventListener('click', () => {
+        filterOptions.classList.toggle('expanded');
+        filterArrow.classList.toggle('expanded');
+    });
+
+    // Find and modify chapters with $Genesys$ and $keep$
+    ol.querySelectorAll('li.chapter-item').forEach(li => {
+        const a = li.querySelector('a');
+        if (a && a.textContent.includes('$Genesys$')) {
+            const strong = a.querySelector('strong');
+            const numberText = strong ? strong.textContent : '';
+            const titleText = a.textContent.replace('$Genesys$', '').trim().replace(/^\d+\.\s*/, '');
+            a.innerHTML = `<strong aria-hidden="true">${numberText}</strong> ${titleText}`;
+            li.classList.add('genesys-chapter');
+        } else if (a && a.textContent.includes('$keep$')) {
+            const strong = a.querySelector('strong');
+            const numberText = strong ? strong.textContent : '';
+            const titleText = a.textContent.replace('$keep$', '').trim().replace(/^\d+\.\s*/, '');
+            a.innerHTML = `<strong aria-hidden="true">${numberText}</strong> ${titleText}`;
+            li.classList.add('keep-chapter');
+        } else {
+            li.classList.add('non-genesys-chapter');
+        }
+    });
+
+    // Hide $Genesys$ from combo dropdown options
+    document.querySelectorAll('select#comboDropdown option').forEach(option => {
+        if (option.textContent.includes('$Genesys$')) {
+            option.dataset.hasGenesys = 'true';
+            option.textContent = option.textContent.replace('$Genesys$', '').trim();
+        }
+    });
+
+    // Function to apply filter state
+    function applyFilterState(showOnlyGenesys) {
+        if (showOnlyGenesys) {
+            // Hide all non-Genesys chapters (except keep-chapter) and their sub-chapters
+            ol.querySelectorAll('li.non-genesys-chapter').forEach(li => {
+                if (!li.classList.contains('keep-chapter')) {
+                    li.style.display = 'none';
+                    // Hide sub-chapters if present
+                    let next = li.nextElementSibling;
+                    while (next && !next.querySelector('ol')) next = next.nextElementSibling;
+                    if (next) next.style.display = 'none';
+                }
+            });
+            
+            // Hide part titles that have no visible chapters
+            ol.querySelectorAll('li.part-title').forEach(partTitle => {
+                let hasVisibleChapters = false;
+                let next = partTitle.nextElementSibling;
+                
+                while (next && !next.classList.contains('part-title')) {
+                    if (next.classList.contains('chapter-item') && 
+                        next.style.display !== 'none' && 
+                        !next.classList.contains('keep-chapter')) {
+                        hasVisibleChapters = true;
+                        break;
+                    }
+                    next = next.nextElementSibling;
+                }
+                
+                partTitle.style.display = hasVisibleChapters ? '' : 'none';
+            });
+        } else {
+            // Show all chapters and part titles
+            ol.querySelectorAll('li').forEach(li => {
+                li.style.display = '';
+            });
+        }
+        renumberChapters();
+        
+        // Filter combo dropdown options
+        document.querySelectorAll('select#comboDropdown').forEach(select => {
+            select.querySelectorAll('option').forEach(option => {
+                option.style.display = showOnlyGenesys && !option.dataset.hasGenesys ? 'none' : '';
+            });
+            // Hide optgroups with no visible options
+            select.querySelectorAll('optgroup').forEach(optgroup => {
+                const hasVisibleOptions = Array.from(optgroup.querySelectorAll('option')).some(option => option.style.display !== 'none');
+                optgroup.style.display = hasVisibleOptions ? '' : 'none';
+            });
+        });
+    }
+
+    // Restore filter state from sessionStorage
+    const savedState = sessionStorage.getItem('genesys-filter');
+    if (savedState === 'only') {
+        genesysCheckbox.checked = true;
+        applyFilterState(true);
+    }
+    updateFilterIndicator();
+    
+    // Make sidebar visible after filtering is applied
+    document.documentElement.style.removeProperty('--sidebar-visibility');
+
+    // Function to update filter indicator
+    function updateFilterIndicator() {
+        const activeFilters = filterOptions.querySelectorAll('input[type="checkbox"]:checked').length;
+        const labelSpan = filterHeader.querySelector('span');
+        labelSpan.textContent = activeFilters > 0 ? `Filter Combos (${activeFilters})` : 'Filter Combos';
+        filterHeader.classList.toggle('active', activeFilters > 0);
+    }
+
+    // Handle checkbox change
+    genesysCheckbox.addEventListener('change', () => {
+        const showOnlyGenesys = genesysCheckbox.checked;
+        sessionStorage.setItem('genesys-filter', showOnlyGenesys ? 'only' : 'all');
+        applyFilterState(showOnlyGenesys);
+        updateFilterIndicator();
+    });
+}, 100);
