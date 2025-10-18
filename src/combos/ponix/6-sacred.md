@@ -8,11 +8,11 @@ You can take advantage of this and grab [_Fire King High Avatar Kirin_], opening
     <select id="comboDropdown">
         <option selected>Select one of the following endboards:</option>
         <optgroup label="Recommended &nbsp;">
-            <option value="sacred-high-garunix">1) Sacred + High Garunix setup (with Ulcanix in GY, Ponix + High Kirin in your hand)</option>
+            <option value="sacred-high-garunix">1) Sacred + High Garunix setup (with Ulcanix in GY, Ponix + High Kirin in your hand) $Genesys$</option>
             <option value="sunlight-wolf">2) Sunlight Wolf setup (with Ulcanix in GY, Ponix + High Kirin in your hand)</option>
         </optgroup>
         <optgroup label="Bonus &nbsp;">
-            <option value="sacred-high-garunix-kirin">3) Sacred + High Garunix + High Kirin (with Ulcanix in GY, Ponix in your hand)</option>
+            <option value="sacred-high-garunix-kirin">3) Sacred + High Garunix + High Kirin (with Ulcanix in GY, Ponix in your hand) $Genesys$</option>
         </optgroup>
     </select>
 </form>
