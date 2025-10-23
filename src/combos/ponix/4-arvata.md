@@ -4,7 +4,7 @@ Thanks to its on-destruction effect, opening [_Fire King Avatar Arvata_] gives y
 
 <form autocomplete="off">
     <select id="comboDropdown">
-        <option selected>Select one of the following endboards:</option>
+        <option selected>Select one of the following endboards: $Genesys$</option>
         <optgroup label="Recommended &nbsp;">
             <option value="princess-arvata-ulcanix">1) Promethean Princess + Arvata setup (with Ulcanix in GY)</option>
             <option value="princess-arvata-kirin-field">2) Promethean Princess + Arvata + High Kirin setup</option>

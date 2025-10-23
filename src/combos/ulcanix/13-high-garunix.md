@@ -6,7 +6,7 @@ There are two lines you can perform here:
 
 <form autocomplete="off">
     <select id="comboDropdown">
-        <option selected>Select one of the following endboards:</option>
+        <option selected>Select one of the following endboards: $Genesys$</option>
         <optgroup label="Recommended &nbsp;">
             <option value="sacred-high-garunix">1) Sacred + High Garunix setup (with Promethean Princess in GY)</option>
         </optgroup>

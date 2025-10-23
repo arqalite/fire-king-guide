@@ -6,7 +6,7 @@ There are five lines to pick from, depending on your needs:
 
 <form autocomplete="off">
     <select id="comboDropdown">
-        <option selected>Select one of the following endboards:</option>
+        <option selected>Select one of the following endboards: $Genesys$</option>
         <optgroup label="Recommended &nbsp;">
             <option value="sacred-high-garunix">1) Sacred + High Garunix setup (with Ponix + High Kirin in your hand) $Genesys$</option>
             <option value="promethean-princess">2) Promethean Princess setup (with Ponix + High Kirin in your hand)</option>
