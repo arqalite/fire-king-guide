@@ -6,7 +6,7 @@ You can take advantage of this and grab [_Fire King High Avatar Kirin_], opening
 
 <form autocomplete="off">
     <select id="comboDropdown">
-        <option selected>Select one of the following endboards:</option>
+        <option selected>Select one of the following endboards: $Genesys$</option>
         <optgroup label="Recommended &nbsp;">
             <option value="sacred-high-garunix">1) Sacred + High Garunix setup (with Ulcanix in GY, Ponix + High Kirin in your hand) $Genesys$</option>
             <option value="sunlight-wolf">2) Sunlight Wolf setup (with Ulcanix in GY, Ponix + High Kirin in your hand)</option>

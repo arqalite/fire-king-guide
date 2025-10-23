@@ -4,7 +4,7 @@ This opening hand proves itself to be quite versatile, offering combos that set 
 
 <form autocomplete="off">
     <select id="comboDropdown">
-        <option selected>Select one of the following endboards:</option>
+        <option selected>Select one of the following endboards: $Genesys$</option>
         <option value="ponix-ulcanix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1) Ponix + Ulcanix setup (with Sky Burn set) $Genesys$</option>
         <option value="arvata-ulcanix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) Arvata + Ulcanix setup $Genesys$</option>
         <option value="princess-arvata">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3) Promethean Princess + Arvata setup</option>
