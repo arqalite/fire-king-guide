@@ -115,7 +115,7 @@ Looking at the Ponix + Arvata page's [source file], we see that the page feature
   ```html
   <form autocomplete="off">
       <select id="comboDropdown">
-          <option selected>Select one of the following endboards:</option>
+          <option selected>Select one of the following endboards: $Genesys$</option>
           <option value="princess-arvata-ulcanix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1) Promethean Princess + Arvata setup (with Ulcanix in GY)</option>
           <option value="princess-arvata-kirin-field">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) Promethean Princess + Arvata + High Kirin setup</option>
           <option value="princess-arvata-kirin-hand">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3) Promethean Princess + Arvata setup (with High Kirin in your hand, and a 3rd monster on the field)</option>
@@ -153,6 +153,9 @@ It's best to just copy this setup from one of the pages that has it, and edit it
 
 [Ponix + Arvata]: https://fire-king.arqalite.org/combos/ponix/4-arvata.html
 [source file]: https://github.com/arqalite/fire-king-guide/blob/main/src/combos/ponix/4-arvata.md?plain=1
+
+### The `$Genesys$` tag and the Genesys combo filter
+The guide features a filter for Genesys-compatible combos. This works by removing elements from the DOM that do not have the `$Genesys$` string added in their text (and this string is hidden for readers). This applies to `<option>` elements in the combo dropdowns, and to chapter titles in the sidebar.
 
 ### Card links and `links.md`
 Cards should always be linked to their [Yugipedia] article, the first time they are mentioned on a page. 
