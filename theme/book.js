@@ -336,17 +336,54 @@ setTimeout(() => {
         }
         renumberChapters();
         
-        // Filter combo dropdown options
-        document.querySelectorAll('select#comboDropdown').forEach(select => {
+    // Filter combo dropdown options
+    document.querySelectorAll('select#comboDropdown').forEach(select => {
+        if (showOnlyGenesys) {
+            // Remove options without genesys
+            const optionsToRemove = [];
             select.querySelectorAll('option').forEach(option => {
-                option.style.display = showOnlyGenesys && !option.dataset.hasGenesys ? 'none' : '';
+                if (!option.dataset.hasGenesys) {
+                    optionsToRemove.push(option);
+                }
             });
-            // Hide optgroups with no visible options
+            optionsToRemove.forEach(option => {
+                if (!select._removedOptions) select._removedOptions = [];
+                select._removedOptions.push({option, parent: option.parentNode, nextSibling: option.nextSibling});
+                option.remove();
+            });
+            // Remove optgroups with no options
             select.querySelectorAll('optgroup').forEach(optgroup => {
-                const hasVisibleOptions = Array.from(optgroup.querySelectorAll('option')).some(option => option.style.display !== 'none');
-                optgroup.style.display = hasVisibleOptions ? '' : 'none';
+                if (optgroup.querySelectorAll('option').length === 0) {
+                    if (!select._removedOptgroups) select._removedOptgroups = [];
+                    select._removedOptgroups.push({optgroup, nextSibling: optgroup.nextSibling});
+                    optgroup.remove();
+                }
             });
-        });
+        } else {
+            // Add back optgroups first
+            if (select._removedOptgroups) {
+                select._removedOptgroups.forEach(({optgroup, nextSibling}) => {
+                    if (nextSibling) {
+                        select.insertBefore(optgroup, nextSibling);
+                    } else {
+                        select.appendChild(optgroup);
+                    }
+                });
+                select._removedOptgroups = [];
+            }
+            // Add back options
+            if (select._removedOptions) {
+                select._removedOptions.forEach(({option, parent, nextSibling}) => {
+                    if (nextSibling) {
+                        parent.insertBefore(option, nextSibling);
+                    } else {
+                        parent.appendChild(option);
+                    }
+                });
+                select._removedOptions = [];
+            }
+        }
+    });
     }
 
     // Restore filter state from sessionStorage
